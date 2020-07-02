@@ -8,12 +8,16 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 
 @Controller
-@RequestMapping("/hello")				// parent mapping 
 public class HelloWorldController {
 	
 	// need a controller method to show initial HTML form 
 	
-	@RequestMapping("/showForm")
+	@RequestMapping("showRating")
+	public String showRating() {
+		return "rating";
+	}
+	
+	@RequestMapping("/showFunct")
 	public String showForm() {
 		return "helloworld-form";
 	}
@@ -31,7 +35,7 @@ public class HelloWorldController {
 		
 		// read request parameter from html form 
 		//		studentName defined in HTML input form from view 
-		String theName = request.getParameter("studentName");
+		String theName = request.getParameter("inputName");
 		
 		// convert into upper case
 		theName = theName.toUpperCase();
@@ -47,7 +51,7 @@ public class HelloWorldController {
 	
 	// controller method to read form data and add data to the model
 	@RequestMapping("/processFormV3")
-	public String getAllUpper(@RequestParam("studentName") String theName,
+	public String getAllUpper(@RequestParam("inputName") String theName,
 							  Model model) {
 		
 		// business logic
