@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="css/first.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<title>Edifyer: Ikea</title>
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+
+      // Load the Visualization API and the corechart package.
+      google.charts.load('current', {'packages':['corechart']});
+
+      // Set a callback to run when the Google Visualization API is loaded.
+      google.charts.setOnLoadCallback(drawChart);
+
+      // Callback that creates and populates a data table,
+      // instantiates the pie chart, passes in the data and
+      // draws it.
+      function drawChart() {
+
+        // Create the data table.
+        var data = google.visualization.arrayToDataTable([
+         ['Element', 'Density', { role: 'style' }, { role: 'annotation' }, {'type': 'string', 'role': 'tooltip', 'p': {'html': true}} ],
+         ['Sustainability', 8, 'green', '8', '<div style="width:400px; font-size: 1.5em;"><ul><li>Ikea owns more wind turbines than stores</li><li>They have generated 73% of their energy use</li></ul></div>' ],
+         ['Human Rights', 8, 'green', '8' , '<div style="width:400px; font-size: 1.5em;"><ul><li>Only two out of five of Ikea\'s Bangladeshi factories have signed up to the 2018 Transition Accord aiming to make factories safer.</li><br><li>IKEA works with social entrepreneurs and actively engages in local communities to be an inclusive business</li><br><li>Limited information on using animal products although it does use fur and leather in products</li></ul></div>'],
+         ['Diversity', 6, '#ffbf00', '6', '<div style="width:400px; font-size: 1.5em;"><ul><li>Ikea owns more wind turbines than stores</li><li>They have generated 73% of their energy use</li></ul></div>' ],
+         ['Tax Evasion', 8, 'green', '8' , '<div style="width:400px; font-size: 1.5em;"><ul><li>Ikea was heavily involved in the horsemeat scandal in 2013 in which a large portion of their meatball offerings contained horsemeat which is cheaper and of worse quality than beef.</li><br><li>IKEA managed to avoid an estimated sum of €1 billion in EU taxes over the course of 6 years through the use of complex corporate structures and sister companies.</li></ul></div>']
+      ]);
+
+        // Set chart options
+        var options = {
+                       'width':1000,
+                       'height':500,
+                       'is3D': true,
+                       legend: {position: 'none'},
+                       tooltip: {isHtml: true},
+                       hAxis: {minValue: 0, maxValue: 10, textPosition: 'none', gridlines: {color: 'transparent'}},
+                  
+                       backgroundColor: '#F8F8F8'};
+
+        // Instantiate and draw our chart, passing in some options.
+        var chart = new google.visualization.BarChart(document.getElementById('chart_div'));
+        chart.draw(data, options);
+      }
+    </script>
+</head>
+<body>
+<h2 class = "home logo"><a href= "index.html">Edifyer</a></h2>
+<div class="header">
+  <h2 class="company name">IKEA <img src= "logo_images/ikea.jpg" height="50"></h2>
+  
+  <span class="fa fa-star checked"></span>
+  <span class="fa fa-star checked"></span>
+  <span class="fa fa-star checked"></span>
+  <span class="fa fa-star checked"></span>
+  <span class="fa fa-star"></span>
+  <p class= "info">Swedish company providing furniture that sometimes comes with ambiguous instructions. </p>
+</div>
+
+<div class="row">
+  <div class="leftcolumn">
+    
+    
+      <div id="chart_div"></div>
+      
+    
+      
+    
+  </div>
+  <div class="rightcolumn">
+    <div class="card">
+      <h2>Alternatives</h2>
+      <div class="alternates">
+      <ul>
+        <li><a href="index.html">Argos</a>  <span class="fa fa-star checked"></span>
+          <span class="fa fa-star checked"></span>
+          <span class="fa fa-star "></span>
+          <span class="fa fa-star"></span>
+          <span class="fa fa-star"></span></li>
+        <li><a href="index.html">Amazon</a>  <span class="fa fa-star checked"></span>
+          <span class="fa fa-star "></span>
+          <span class="fa fa-star "></span>
+          <span class="fa fa-star"></span>
+          <span class="fa fa-star"></span></li>
+        <li><a href="index.html">Habitat</a>  <span class="fa fa-star checked"></span>
+          <span class="fa fa-star checked"></span>
+          <span class="fa fa-star checked"></span>
+          <span class="fa fa-star checked"></span>
+          <span class="fa fa-star checked"></span></li>
+      </ul>  
+    </div>
+    </div>
+    
+    
+  </div>
+</div>
+
+<div class="footer">
+  <h3>Sources:</h3>
+  <a href="https://www.ikea.com/">ikea.com</a><br>
+  <a href="https://www.ikea.com/">Ikea boosts sustainable products and renewable energy sourcing</a><br>
+  <a href="https://www.theguardian.com/uk/2013/feb/25/horsemeat-found-ikea-meatballs">Ikea withdraws meatballs from UK stores after discovery of horsemeat</a><br>
+  <a href="https://europeangreens.eu/news/ikea-report-ikea-avoided-1-billion-taxes-using-european-taxation-system-its-own-benefit#:~:text=IKEA%20managed%20to%20avoid%20an,system%20designed%20to%20avoid%20taxation.">Ikea EU tax evasion</a>
+</div>
+
+</body>
+</html>
