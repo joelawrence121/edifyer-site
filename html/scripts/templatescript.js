@@ -2,15 +2,24 @@
 let seconds = 0;
 let minutes = 0;
 let hours = 0;
-
 //Define vars to hold "display" value
 let displaySeconds = 0;
 let displayMinutes = 0;
 let displayHours = 0;
 
-const companyScore = 77;
-const companyName = "Amazon";
-document.getElementById("companyname").innerHTML = companyName;
+const companyName = document.getElementById("companyname").innerHTML.trim();
+var i;
+var companyScore = 0;
+console.log(companyName);
+for (i = 0; i<companyscorearray.length; i++){
+  console.log(companyscorearray[i][0]);
+  if (companyName==companyscorearray[i][0]){
+    companyScore = companyscorearray[i][1];
+  }
+}
+console.log(companyScore);
+//const companyScore = 77;
+//document.getElementById("companyname").innerHTML = companyName;
 //Define var to hold setInterval() function
 let interval = null;
 
@@ -55,7 +64,7 @@ function startStop(){
     if(status === "stopped"){
 
         //Start the stopwatch (by calling the setInterval() function)
-        interval = window.setInterval(stopWatch, 100);
+        interval = window.setInterval(stopWatch, 50);
         //document.getElementById("startStop").innerHTML = "Stop";
         status = "started";
 
