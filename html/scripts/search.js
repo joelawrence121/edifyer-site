@@ -1,7 +1,6 @@
 
 
 //console.log(passedArray[1][0].substr(0,passedArray[1][0].indexOf(' ')));
-console.log(passedArray[1][0]);
 var i;
 const people = []
 
