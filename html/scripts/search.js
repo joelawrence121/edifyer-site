@@ -1,13 +1,11 @@
 
 
-//console.log(passedArray[1][0].substr(0,passedArray[1][0].indexOf(' ')));
 var i;
 const people = []
 
 for (i=0; i < passedArray.length; i++){
     people.push({ name: passedArray[i][0]});//get string up till first space
 }
-console.log(people);
 const list = document.getElementById('list');
 
 function setList(group){//group is search results
@@ -25,6 +23,7 @@ function setList(group){//group is search results
         x.setAttribute("action", "process.php");
 
         var y = document.createElement("INPUT");
+        y.setAttribute("class", "dropdown");
         y.setAttribute("type", "submit");
         y.setAttribute("value", person.name);
         y.setAttribute("name", "companyname");
@@ -48,6 +47,7 @@ function setNoResults(){
     list.appendChild(item);
 }
 function getRelevancy(value, searchTerm){
+    console.log(value);
     if (value===searchTerm){
         return 2;
     }
@@ -69,7 +69,7 @@ searchInput.addEventListener('input', (event)=> {
         setList(people.filter(person => {
             return person.name.includes(value);
         }).sort((personA, personB)=> {
-            return getRelevancy(personB.name, value) -getRelevancy(personA, value);
+            return getRelevancy(personB.name, value) -getRelevancy(personA.name, value);
         }));
     }
     else {

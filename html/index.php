@@ -33,44 +33,33 @@
     
     ?>
 <div class="header">
-  <h2 id="home">Homepage</h2>
-  <div class="input-group">
-    <div class="input-group-prepend">
-      <span class="input-group-text">
-        <span class="fa fa-search"></span>
-      </span>
-    </div>
-    <input autofocus placeholder="search" class="form-control" type="text" autocomplete="off" name="search" id="search"/>
-    
+  <div class="headings">
+  <h2 id="home">Edifyer</h2>
+  <p id="tagline">Only buy from ethical companies</p>
   </div>
-  <ul class="list-group" id="list"></ul>
+  <div class="input-group">
+    <div class="insearch">
+    <input autofocus placeholder="Enter a company to find out how ethical it is" class="form-control" type="text" autocomplete="off" name="search" id="search"/>
+    </div>
+    <div class="suggestdiv">
+    <ul class="list-group" id="list"></ul>
+    </div>
+  </div>
+  
 
     <script>
       //var peeps = "<php echo $namey?>";
-  //console.log(peeps);
   //document.getElementById('home').innerHTML = peeps;
   var passedArray = <?php echo json_encode($the_big_array); ?>;
-  console.log(passedArray);
     </script>
     <script src="scripts/search.js"></script>
 </div>
 
-<div class="row">
-  <div class="leftcolumn">
-   
-  </div>
-  <div class="rightcolumn">
-    <div class="card">
-      
-    </div>
-    </div>
-    
-    
-  </div>
+
 </div>
 
 <div class="footer">
-  
+  <a class="links" href="howitworks.html">How it works?</a>&emsp;&emsp;&emsp;&emsp;<a class="links" href="aboutus.html">About Us</a>
 </div>
 
 </body>
