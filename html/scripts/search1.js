@@ -20,7 +20,7 @@ function setList(group){//group is search results
         var x = document.createElement("FORM");
         x.setAttribute("id", "myForm");
         x.setAttribute("method", "post");
-        x.setAttribute("action", "process1.php");
+        x.setAttribute("action", "process.php");
 
         var y = document.createElement("INPUT");
         y.setAttribute("class", "dropdown");

@@ -61,7 +61,7 @@
   //const companyName = <php echo $name; ?>;
   var passedArray = <?php echo json_encode($the_big_array); ?>;
     </script>
-    <script src="scripts/search.js"></script>
+    <script src="scripts/search1.js"></script>
 <svg
    class="progress-ring"
    width="600"

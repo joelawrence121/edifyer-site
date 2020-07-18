@@ -10,14 +10,11 @@ let displayHours = 0;
 const companyName = document.getElementById("companyname").innerHTML.trim();
 var i;
 var companyScore = 0;
-console.log(companyName);
 for (i = 0; i<companyscorearray.length; i++){
-  console.log(companyscorearray[i][0]);
   if (companyName==companyscorearray[i][0]){
     companyScore = companyscorearray[i][1];
   }
 }
-console.log(companyScore);
 //const companyScore = 77;
 //document.getElementById("companyname").innerHTML = companyName;
 //Define var to hold setInterval() function
