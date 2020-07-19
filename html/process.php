@@ -10,7 +10,10 @@
 <body onload= "startStop()">
 <!-- partial:index.partial.html -->
 <div class="header">
-  <h2 id="home">Edifyer</h2>
+<div class="title">
+  <a id= "home-link" href="index.php">
+  <h2 id="home">Edifyer</h2></a>
+  </div>
   <div class="input-group">
     <div class="insearch">
     <input autofocus placeholder="Enter a company to find out how ethical it is" class="form-control" type="text" autocomplete="off" name="search" id="search"/>
@@ -20,6 +23,7 @@
     </div>
   </div>
   </div>
+  
 
   
 <div id="display">
@@ -27,7 +31,7 @@
 </div>
 <h1 id="companyname">
   <?php
-      $name = $_POST["companyname"];
+      $name = $_GET["companyname"];
       echo $name;
   ?>
   </h1>
@@ -70,9 +74,9 @@
   <circle
     class="progress-ring__circle"
     stroke="green"
-    stroke-width="20"
+    stroke-width="40"
     fill="transparent"
-    r="100"
+    r="180"
     cx="400"
     cy="200"/>
     
@@ -82,6 +86,8 @@
 
 <!-- partial -->
   <script  src="scripts/templatescript.js"></script>
-
+  <div class="footer">
+  <a class="links" href="howitworks.html">How it works?</a>&emsp;&emsp;&emsp;&emsp;<a class="links" href="aboutus.html">About Us</a>
+</div>
 </body>
 </html>

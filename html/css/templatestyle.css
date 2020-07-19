@@ -22,39 +22,70 @@ body {
 
 .progress-ring {
         position: absolute;
-        top: 0;
-        left:0;
+        top: 100px;
+        left:36.5vw;
         
 }
 #display {
         position: absolute;
-        top: 150px;
-        left: 150px;
+        top: 260px;
+        left: 770px;
         font-size: 100px;
         color: red;
         z-index: 1;
 }
-body {
-        font-family: Arial;
-        
-        
-        
-      }
+#companyname {
+  top: 200px;
+  left: -20px;
+  position: relative;
+  text-align: center;
+}
 *{margin: 0; padding: 0; border: 0; outline: 0;}
-.header {
-        
-        font-size: 20px;
-        color: #05386b;
-        position: fixed;
-        top: 0.8vh;
-        left: 33vw;
-        margin: 0;
-        border: 0;
-        
-      }
-      .input-group {
-  width: 60vw;
+
+  body {
+    font-family: Arial;
+    padding: 20px;
+    background: white;
+    color: #05386b;
+  }
+  
+  .header {
+    padding: 0px;
+    font-size: 20px;
+    text-align: center;
+    position: fixed;
+    top: 0;
+    z-index: 3;
+    
+  }
+
+.title {
+  position: fixed;
+  left: 34vw;
+}
+
+#home {
+  font-size: 30px;
+}
+  
+  
+
+  #tagline {
+    color: grey;
+    font-size: 0.5em;
+    margin: 0;
+    padding: 0;
+  }
+
+  /* Clear floats after the columns */
+ .input-group {
+  width: 400px;
   margin: auto;
+  position: fixed;
+  left: 41vw;
+  top:0.5vh;
+  
+  
  }
  .insearch {
    width: 100%;
@@ -78,7 +109,7 @@ body {
     height: 60px;
     text-align: left;
     font-size: 0.75em;
-    background-color: #ededeb;
+    opacity: 0.5;
     cursor: pointer;
   }
  .dropdown:hover{
@@ -94,4 +125,9 @@ body {
    color: white;
    text-align: center;
   }
-    
+  
+  .links {
+    color: white;
+  }
+  /* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other */
+  
