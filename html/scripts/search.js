@@ -54,9 +54,9 @@ function getRelevancy(value, searchTerm){
     else if (value.startsWith(searchTerm)){
         return 1;
     }
-    else if (value.includes(searchTerm)){
+    /*else if (value.includes(searchTerm)){
         return 0;
-    }
+    }*/
     else {
         return -1;
     }

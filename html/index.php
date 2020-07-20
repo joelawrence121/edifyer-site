@@ -8,7 +8,7 @@
 </head>
 <body>
 <?php 
-    $filename = 'examplecompanies.csv';
+    $filename = 'companyratings.csv';
 
     // The nested array to hold all the arrays
     $the_big_array = []; 
@@ -35,7 +35,7 @@
 <div class="header">
   <div class="headings">
   <h2 id="home">Edifyer</h2>
-  <p id="tagline">Only buy from ethical companies</p>
+  <p id="tagline">We analyse companies to help you consume responsibly</p>
   </div>
   <div class="input-group">
     <div class="insearch">

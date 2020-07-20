@@ -22,23 +22,26 @@ body {
 
 .progress-ring {
         position: absolute;
-        top: 100px;
-        left:36.5vw;
+        top: 200px;
+        left:630px;
         
 }
 #display {
         position: absolute;
-        top: 260px;
+        top: 330px;
         left: 770px;
         font-size: 100px;
-        color: red;
+        color: #ff4c4c;
         z-index: 1;
 }
 #companyname {
-  top: 200px;
+  top: 20px;
   left: -20px;
   position: relative;
   text-align: center;
+  font-size: 80px;
+  padding: 0;
+  margin: 0;
 }
 *{margin: 0; padding: 0; border: 0; outline: 0;}
 
@@ -109,7 +112,7 @@ body {
     height: 60px;
     text-align: left;
     font-size: 0.75em;
-    opacity: 0.5;
+    opacity: 0.9;
     cursor: pointer;
   }
  .dropdown:hover{

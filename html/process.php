@@ -2,7 +2,10 @@
 <html lang="en" >
 <head>
   <meta charset="UTF-8">
-  <title>C</title>
+  <title>Edifyer: <?php
+  $name = $_GET["companyname"]; 
+  echo $name; 
+  ?></title>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
 <link rel="stylesheet" href="css/templatestyle.css">
 
@@ -31,12 +34,13 @@
 </div>
 <h1 id="companyname">
   <?php
-      $name = $_GET["companyname"];
+      
       echo $name;
   ?>
   </h1>
+  <p id="wordedresult"></p>
   <?php 
-    $filename = 'examplecompanies.csv';
+    $filename = 'companyratings.csv';
 
     // The nested array to hold all the arrays
     $the_big_array = []; 
@@ -73,7 +77,7 @@
    
   <circle
     class="progress-ring__circle"
-    stroke="green"
+    stroke="#9DB68C"
     stroke-width="40"
     fill="transparent"
     r="180"
