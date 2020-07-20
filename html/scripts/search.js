@@ -67,8 +67,8 @@ searchInput.addEventListener('input', (event)=> {
     if (value && value.trim().length>0){
         value = value.trim().toLowerCase();
         setList(people.filter(person => {
-            return person.name.includes(value);
-        }).sort((personA, personB)=> {
+            return person.name.startsWith(value);
+        }).slice(0,11).sort((personA, personB)=> {
             return getRelevancy(personB.name, value) -getRelevancy(personA.name, value);
         }));
     }

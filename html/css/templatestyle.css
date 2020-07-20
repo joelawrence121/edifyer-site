@@ -23,13 +23,13 @@ body {
 .progress-ring {
         position: absolute;
         top: 200px;
-        left:630px;
+        left:35vw;
         
 }
 #display {
         position: absolute;
         top: 330px;
-        left: 770px;
+        left: 45vw;
         font-size: 100px;
         color: #ff4c4c;
         z-index: 1;
