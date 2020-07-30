@@ -1,0 +1,2056 @@
+,directory_link-href,company,rating,sd_rating
+0,http://www.corporatecritic.org/companiesatoz/Group.aspx,Gruppo Campari,14,93
+1,http://www.corporatecritic.org/companiesatoz/K.aspx,Know the Origin Limited,???,-1
+2,http://www.corporatecritic.org/companiesatoz/T.aspx,Talisman Energy Inc,14,93
+3,http://www.corporatecritic.org/companiesatoz/RISO%20.aspx,Royal London Mutual Insurance Society Limited,12,80
+4,http://www.corporatecritic.org/companiesatoz/E.aspx,Equine & Livestock Insurance Co Ltd,5.5,36
+5,http://www.corporatecritic.org/companiesatoz/Delta.aspx,Diageo plc,7,46
+6,http://www.corporatecritic.org/companiesatoz/S.aspx,SABMiller plc,9,60
+7,http://www.corporatecritic.org/companiesatoz/H.aspx,Herbal Health Ltd,14,93
+8,http://www.corporatecritic.org/companiesatoz/O.aspx,Ontex Group NV,(7.5),50
+9,http://www.corporatecritic.org/companiesatoz/H.aspx,Harrogate Water Brands Limited,???,-1
+10,http://www.corporatecritic.org/companiesatoz/Clove.aspx,Control Risks Group,14,93
+11,http://www.corporatecritic.org/companiesatoz/G.aspx,Glebe Farm,14,93
+12,http://www.corporatecritic.org/companiesatoz/D.aspx,Debenhams plc,3,20
+13,http://www.corporatecritic.org/companiesatoz/N.aspx,Natural Capital Partners,(14),93
+14,http://www.corporatecritic.org/companiesatoz/Bellw.aspx,Belu Water,15,100
+15,http://www.corporatecritic.org/companiesatoz/Group.aspx,Groupe Arnault SA,8,53
+16,http://www.corporatecritic.org/companiesatoz/Price.aspx,Pure Balance Ltd,14,93
+17,http://www.corporatecritic.org/companiesatoz/R.aspx,Rio Tinto Group,8.5,56
+18,http://www.corporatecritic.org/companiesatoz/Specs.aspx,Starbucks Corporation,2,13
+19,http://www.corporatecritic.org/companiesatoz/The%20C.aspx,The Organic Flower Company,14,93
+20,http://www.corporatecritic.org/companiesatoz/Group.aspx,Grundig AG,(6.5),43
+21,http://www.corporatecritic.org/companiesatoz/Clove.aspx,Columbia Sportswear Co Inc,8,53
+22,http://www.corporatecritic.org/companiesatoz/The%20W.aspx,Time Warner Inc.,12,80
+23,http://www.corporatecritic.org/companiesatoz/K.aspx,Keeper Inc (The),12.5,83
+24,http://www.corporatecritic.org/companiesatoz/B.aspx,Bank of New York Mellon,13,86
+25,http://www.corporatecritic.org/companiesatoz/The%20W.aspx,"TP-Link Technologies Co., Ltd.",14,93
+26,http://www.corporatecritic.org/companiesatoz/Asda%20.aspx,Atlantic Soc Francaise Develop Thermique,???,-1
+27,http://www.corporatecritic.org/companiesatoz/N.aspx,Nike Inc,6,40
+28,http://www.corporatecritic.org/companiesatoz/TPG.aspx,TPG Capital,4.5,30
+29,http://www.corporatecritic.org/companiesatoz/W.aspx,Where Does It Come From?,???,-1
+30,http://www.corporatecritic.org/companiesatoz/The%20W.aspx,Total SA,12.5,83
+31,http://www.corporatecritic.org/companiesatoz/Maya.aspx,Mayfair Equity Partners Nominees Limited,???,-1
+32,http://www.corporatecritic.org/companiesatoz/A.aspx,A Turner & Sons Sausage Ltd.,???,-1
+33,http://www.corporatecritic.org/companiesatoz/TPG.aspx,Tyne Chease Limited,???,-1
+34,http://www.corporatecritic.org/companiesatoz/I.aspx,Ingersoll-Rand Company Limited,14,93
+35,http://www.corporatecritic.org/companiesatoz/Londo.aspx,Lunar Ventures Ltd,14,93
+36,http://www.corporatecritic.org/companiesatoz/Price.aspx,Priesca sa,14,93
+37,http://www.corporatecritic.org/companiesatoz/AMT%20C.aspx,Arden Grange Holdings Ltd,14,93
+38,http://www.corporatecritic.org/companiesatoz/Agnat.aspx,Al-Tajir family,11,73
+39,http://www.corporatecritic.org/companiesatoz/E.aspx,ExxonMobil Corporation,5.5,36
+40,http://www.corporatecritic.org/companiesatoz/AMT%20C.aspx,Antonio Merloni SpA,14,93
+41,http://www.corporatecritic.org/companiesatoz/O.aspx,Open Society Foundations (OSF),???,-1
+42,http://www.corporatecritic.org/companiesatoz/Bellw.aspx,Birdsong Limited,???,-1
+43,http://www.corporatecritic.org/companiesatoz/Delta.aspx,DO-IT Dutch Organic International Trade,14,93
+44,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,Esprit Holdings Ltd,12.5,83
+45,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,Endesa SA,14,93
+46,http://www.corporatecritic.org/companiesatoz/V.aspx,"Veritas Investment Management, LLP",???,-1
+47,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,Enamore Ltd,14,93
+48,http://www.corporatecritic.org/companiesatoz/A.aspx,Acala Online Ltd,???,-1
+49,http://www.corporatecritic.org/companiesatoz/I.aspx,Imperial Chemical Industries plc,14,93
+50,http://www.corporatecritic.org/companiesatoz/L.aspx,Lazy Day Foods Ltd,???,-1
+51,http://www.corporatecritic.org/companiesatoz/Price.aspx,Purewine Company (The),14,93
+52,http://www.corporatecritic.org/companiesatoz/Price.aspx,"Punto Fa, S.L.",13,86
+53,http://www.corporatecritic.org/companiesatoz/Scott.aspx,Shannon Minerals Group,14,93
+54,http://www.corporatecritic.org/companiesatoz/U.aspx,United Internet AG,14,93
+55,http://www.corporatecritic.org/companiesatoz/B.aspx,Banco Bilbao Vizcaya Argentaria (BBVA),11.5,76
+56,http://www.corporatecritic.org/companiesatoz/W.aspx,We Come One,14,93
+57,http://www.corporatecritic.org/companiesatoz/Price.aspx,PS Financials,14,93
+58,http://www.corporatecritic.org/companiesatoz/Mio%20T.aspx,Monwell Limited,???,-1
+59,http://www.corporatecritic.org/companiesatoz/Glen%20.aspx,Gorenje Group,(8.5),56
+60,http://www.corporatecritic.org/companiesatoz/Glen%20.aspx,GreenNet Educational Trust,14,93
+61,http://www.corporatecritic.org/companiesatoz/TPG.aspx,Trusted Nature Ltd,14.5,96
+62,http://www.corporatecritic.org/companiesatoz/The%20C.aspx,The Prince's Charities Foundation,???,-1
+63,http://www.corporatecritic.org/companiesatoz/N.aspx,National Express Group plc,10,66
+64,http://www.corporatecritic.org/companiesatoz/Glen%20.aspx,Google LLC,6,40
+65,http://www.corporatecritic.org/companiesatoz/Briti.aspx,Bute Island Foods Ltd,15,100
+66,http://www.corporatecritic.org/companiesatoz/AMT%20C.aspx,Arcam,14,93
+67,http://www.corporatecritic.org/companiesatoz/C.aspx,CatEye Co. Ltd,14,93
+68,http://www.corporatecritic.org/companiesatoz/Whitt.aspx,William Levene Ltd,14,93
+69,http://www.corporatecritic.org/companiesatoz/Skadd.aspx,Specialized Bicycle Components Inc,6.5,43
+70,http://www.corporatecritic.org/companiesatoz/I.aspx,InterContinental Hotels Group Plc,13,86
+71,http://www.corporatecritic.org/companiesatoz/W.aspx,WD-40 Company,9,60
+72,http://www.corporatecritic.org/companiesatoz/Lette.aspx,Life Global Holdings Ltd,???,-1
+73,http://www.corporatecritic.org/companiesatoz/D.aspx,Danisco A/S,14,93
+74,http://www.corporatecritic.org/companiesatoz/V.aspx,Vita Group,4.5,30
+75,http://www.corporatecritic.org/companiesatoz/The%20W.aspx,Thomas H Lee Partners,14,93
+76,http://www.corporatecritic.org/companiesatoz/E.aspx,Ebro Foods S.A,14,93
+77,http://www.corporatecritic.org/companiesatoz/N.aspx,National Counties Building Society,14,93
+78,http://www.corporatecritic.org/companiesatoz/R.aspx,Reuters Group Plc,14,93
+79,http://www.corporatecritic.org/companiesatoz/Scott.aspx,Siesta Crafts Ltd,14,93
+80,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,Elna International Corp,14,93
+81,http://www.corporatecritic.org/companiesatoz/E.aspx,Élan Media Partners Pty Ltd,14,93
+82,http://www.corporatecritic.org/companiesatoz/Clove.aspx,Coinstone Ltd,14,93
+83,http://www.corporatecritic.org/companiesatoz/The%20C.aspx,The Lost Lanes Ltd,???,-1
+84,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,Ella's Kitchen (Brands) Ltd,14,93
+85,http://www.corporatecritic.org/companiesatoz/S.aspx,SANTOSH OVERSEAS LIMITED,12,80
+86,http://www.corporatecritic.org/companiesatoz/F.aspx,Finebrook  Pty Ltd,14,93
+87,http://www.corporatecritic.org/companiesatoz/B.aspx,Balfour Group LLP,14,93
+88,http://www.corporatecritic.org/companiesatoz/Q.aspx,Qumpus Inc,10.5,70
+89,http://www.corporatecritic.org/companiesatoz/Glen%20.aspx,Green Energy UK Plc,12.5,83
+90,http://www.corporatecritic.org/companiesatoz/Agnat.aspx,Akzo Nobel NV,8,53
+91,http://www.corporatecritic.org/companiesatoz/Phile.aspx,Polaris Apparel Ltd,14,93
+92,http://www.corporatecritic.org/companiesatoz/Price.aspx,Prophix Software,14,93
+93,http://www.corporatecritic.org/companiesatoz/Ovo%20E.aspx,Ozkleen Asia-Pacific Pty Ltd,14,93
+94,http://www.corporatecritic.org/companiesatoz/P.aspx,Paradigm Group,???,-1
+95,http://www.corporatecritic.org/companiesatoz/F.aspx,Flaya GB,???,-1
+96,http://www.corporatecritic.org/companiesatoz/M.aspx,MAM Babyartikel GesmbH,14,93
+97,http://www.corporatecritic.org/companiesatoz/V.aspx,Veritas Capital,14,93
+98,http://www.corporatecritic.org/companiesatoz/G.aspx,Geemarc Telecom SA,14,93
+99,http://www.corporatecritic.org/companiesatoz/Clove.aspx,Cooks Global Foods,7,46
+100,http://www.corporatecritic.org/companiesatoz/J.aspx,J.C. Chang Group,14,93
+101,http://www.corporatecritic.org/companiesatoz/Ninte.aspx,No Cows LLP,14,93
+102,http://www.corporatecritic.org/companiesatoz/Scott.aspx,Sikh Dharma International,13,86
+103,http://www.corporatecritic.org/companiesatoz/G.aspx,Giorgio Armani SpA,6,40
+104,http://www.corporatecritic.org/companiesatoz/J.aspx,Jané,14,93
+105,http://www.corporatecritic.org/companiesatoz/Flowf.aspx,Freerangers,12,80
+106,http://www.corporatecritic.org/companiesatoz/G.aspx,Galpharm Healthcare Ltd,8.5,56
+107,http://www.corporatecritic.org/companiesatoz/The%20W.aspx,Tiffany & Co,(9.5),63
+108,http://www.corporatecritic.org/companiesatoz/Cream.aspx,Curtis Fine Papers,14,93
+109,http://www.corporatecritic.org/companiesatoz/BMK%20H.aspx,Bollin Group Ltd,11.5,76
+110,http://www.corporatecritic.org/companiesatoz/B.aspx,Bang & Olufsen Holding A/S,14,93
+111,http://www.corporatecritic.org/companiesatoz/The%20C.aspx,The Scott Trust,13.5,90
+112,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,Ethical Wares Ltd,12,80
+113,http://www.corporatecritic.org/companiesatoz/Skadd.aspx,SolarWorld AG,(10),66
+114,http://www.corporatecritic.org/companiesatoz/V.aspx,Vincor International Inc,14,93
+115,http://www.corporatecritic.org/companiesatoz/P.aspx,PALLADIUM GROUP HOLDINGS PTY LTD,11.5,76
+116,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,EQT International Holdings B.V.,???,-1
+117,http://www.corporatecritic.org/companiesatoz/R.aspx,Rexam plc,14,93
+118,http://www.corporatecritic.org/companiesatoz/M.aspx,Marks & Spencer Group plc,6,40
+119,http://www.corporatecritic.org/companiesatoz/H.aspx,Haribo GmbH & Co. KG,14,93
+120,http://www.corporatecritic.org/companiesatoz/Whitt.aspx,Wyeth,5.5,36
+121,http://www.corporatecritic.org/companiesatoz/Mio%20T.aspx,MOMA Foods Ltd,???,-1
+122,http://www.corporatecritic.org/companiesatoz/E.aspx,Ebico,14,93
+123,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,E. Merck oHG,14,93
+124,http://www.corporatecritic.org/companiesatoz/Bellw.aspx,BHP Billiton Group,6.5,43
+125,http://www.corporatecritic.org/companiesatoz/Specs.aspx,Sun Capital Partners Ltd,11,73
+126,http://www.corporatecritic.org/companiesatoz/R.aspx,Risk Capital Partners,14,93
+127,http://www.corporatecritic.org/companiesatoz/G.aspx,Getenergy Ltd,14,93
+128,http://www.corporatecritic.org/companiesatoz/N.aspx,National Schoolwear Centres,14,93
+129,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,Earth Aid Group Ltd.,???,-1
+130,http://www.corporatecritic.org/companiesatoz/Surya.aspx,SVM Asset Management,6.5,43
+131,http://www.corporatecritic.org/companiesatoz/G.aspx,GAM,(14),93
+132,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,Eat Natural Ltd,9.5,63
+133,http://www.corporatecritic.org/companiesatoz/Lette.aspx,Little Soap Company Limited,???,-1
+134,http://www.corporatecritic.org/companiesatoz/Flowf.aspx,FRANCHI SEEDS 1783,12,80
+135,http://www.corporatecritic.org/companiesatoz/Hero.aspx,Hobbycraft Group Limited,5.5,36
+136,http://www.corporatecritic.org/companiesatoz/RISO%20.aspx,Rude Health Foods Limited,12.5,83
+137,http://www.corporatecritic.org/companiesatoz/J.aspx,JD Wetherspoon plc,7.5,50
+138,http://www.corporatecritic.org/companiesatoz/Whitt.aspx,Worton Cottage Industry,14,93
+139,http://www.corporatecritic.org/companiesatoz/N.aspx,Nancy Dee Clothing LLP,14,93
+140,http://www.corporatecritic.org/companiesatoz/The%20C.aspx,The Nero Company,???,-1
+141,http://www.corporatecritic.org/companiesatoz/Price.aspx,Protein Limited,14,93
+142,http://www.corporatecritic.org/companiesatoz/Maya.aspx,"Merisant Worldwide, Inc.",14,93
+143,http://www.corporatecritic.org/companiesatoz/The%20W.aspx,"The Watermill, Little Salkeld",14,93
+144,http://www.corporatecritic.org/companiesatoz/N.aspx,Nikko Group,14,93
+145,http://www.corporatecritic.org/companiesatoz/R.aspx,Rascals International,???,-1
+146,http://www.corporatecritic.org/companiesatoz/Delta.aspx,Deutsche Post AG,13.5,90
+147,http://www.corporatecritic.org/companiesatoz/E.aspx,Edward Thompson Group,14,93
+148,http://www.corporatecritic.org/companiesatoz/Mio%20T.aspx,Montagu Private Equity,14,93
+149,http://www.corporatecritic.org/companiesatoz/Whitt.aspx,Windmill Organics Ltd,13.5,90
+150,http://www.corporatecritic.org/companiesatoz/Flowf.aspx,Froneri [WAS R&R Ice Cream Ltd},1,6
+151,http://www.corporatecritic.org/companiesatoz/U.aspx,Uniross Batteries SA,14,93
+152,http://www.corporatecritic.org/companiesatoz/U.aspx,Uniqlooks,14,93
+153,http://www.corporatecritic.org/companiesatoz/Flowf.aspx,Fruit Drinks Limited,???,-1
+154,http://www.corporatecritic.org/companiesatoz/Y.aspx,Yingli Green Energy Holding Company Ltd,8.5,56
+155,http://www.corporatecritic.org/companiesatoz/Skadd.aspx,Sonneborn & Rieck,14,93
+156,http://www.corporatecritic.org/companiesatoz/K.aspx,Kontoor Brands Inc,???,-1
+157,http://www.corporatecritic.org/companiesatoz/O.aspx,Oki Electric Industry,14,93
+158,http://www.corporatecritic.org/companiesatoz/BMK%20H.aspx,Brio AB,14,93
+159,http://www.corporatecritic.org/companiesatoz/Hero.aspx,HISBE Food CIC,???,-1
+160,http://www.corporatecritic.org/companiesatoz/123.aspx,[HISTORICAL RECORD] IWP International Plc,14,93
+161,http://www.corporatecritic.org/companiesatoz/D.aspx,Davines SPA,???,-1
+162,http://www.corporatecritic.org/companiesatoz/Phile.aspx,Pixley Berries (Juice) Ltd,14,93
+163,http://www.corporatecritic.org/companiesatoz/A.aspx,Accor SA,14,93
+164,http://www.corporatecritic.org/companiesatoz/Lette.aspx,Linco Care Ltd,14,93
+165,http://www.corporatecritic.org/companiesatoz/D.aspx,Daily Mail & General Trust,13.5,90
+166,http://www.corporatecritic.org/companiesatoz/T.aspx,The BenRiach Distillery Company Ltd,14,93
+167,http://www.corporatecritic.org/companiesatoz/Scott.aspx,Seasalt Limited,10,66
+168,http://www.corporatecritic.org/companiesatoz/Group.aspx,Groupe Eurotunnel SA,14,93
+169,http://www.corporatecritic.org/companiesatoz/D.aspx,Dana Petroleum Plc,14,93
+170,http://www.corporatecritic.org/companiesatoz/E.aspx,EW King & Co Ltd,14,93
+171,http://www.corporatecritic.org/companiesatoz/Clove.aspx,COFRA Holding AG,3.5,23
+172,http://www.corporatecritic.org/companiesatoz/TPG.aspx,Transcend Information Inc,14,93
+173,http://www.corporatecritic.org/companiesatoz/Y.aspx,Yell Group plc,14,93
+174,http://www.corporatecritic.org/companiesatoz/Maya.aspx,Milk Link,14,93
+175,http://www.corporatecritic.org/companiesatoz/Hero.aspx,Hugo Boss AG,7,46
+176,http://www.corporatecritic.org/companiesatoz/R.aspx,Redrow Plc,14,93
+177,http://www.corporatecritic.org/companiesatoz/Specs.aspx,Stichting Aandelen Remeha,12,80
+178,http://www.corporatecritic.org/companiesatoz/B.aspx,Bamboo Clothing Ltd,10,66
+179,http://www.corporatecritic.org/companiesatoz/Asda%20.aspx,Atlantic Brewery,???,-1
+180,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,East End Foods,(9.5),63
+181,http://www.corporatecritic.org/companiesatoz/Skadd.aspx,Soya Group,14,93
+182,http://www.corporatecritic.org/companiesatoz/H.aspx,Hasselblad Group,???,-1
+183,http://www.corporatecritic.org/companiesatoz/O.aspx,OneFamily (Family Assurance Friendly Society Ltd),6.5,43
+184,http://www.corporatecritic.org/companiesatoz/Flowf.aspx,French Transit Ltd,14,93
+185,http://www.corporatecritic.org/companiesatoz/RISO%20.aspx,Riverford Employee Ownership Trust,???,-1
+186,http://www.corporatecritic.org/companiesatoz/The%20C.aspx,The English Whisky Company,14,93
+187,http://www.corporatecritic.org/companiesatoz/BMK%20H.aspx,Braunstone Properties,14,93
+188,http://www.corporatecritic.org/companiesatoz/F.aspx,Fast Retailing Co. Ltd,(8.5),56
+189,http://www.corporatecritic.org/companiesatoz/Caurn.aspx,Cinven Group,13,86
+190,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,ENI SpA,4,26
+191,http://www.corporatecritic.org/companiesatoz/R.aspx,R Griggs Ltd,6.5,43
+192,http://www.corporatecritic.org/companiesatoz/H.aspx,Hansing,14,93
+193,http://www.corporatecritic.org/companiesatoz/Caurn.aspx,Chocolaterie Duc d'O,14,93
+194,http://www.corporatecritic.org/companiesatoz/Hero.aspx,Hillier Nurseries Ltd,7,46
+195,http://www.corporatecritic.org/companiesatoz/K.aspx,"Kansai Electric Power Company, Inc",13.5,90
+196,http://www.corporatecritic.org/companiesatoz/F.aspx,Famous Brands Limited,6.5,43
+197,http://www.corporatecritic.org/companiesatoz/Ninte.aspx,Nissan Motor Co Ltd,5,33
+198,http://www.corporatecritic.org/companiesatoz/The%20C.aspx,The Jones Group,14,93
+199,http://www.corporatecritic.org/companiesatoz/Cream.aspx,Credit Suisse Group,11.5,76
+200,http://www.corporatecritic.org/companiesatoz/B.aspx,Bebecar Group,14,93
+201,http://www.corporatecritic.org/companiesatoz/H.aspx,Heather Ale Ltd,14,93
+202,http://www.corporatecritic.org/companiesatoz/TPG.aspx,TransformELT,???,-1
+203,http://www.corporatecritic.org/companiesatoz/Briti.aspx,Brompton Bicycles Ltd,8,53
+204,http://www.corporatecritic.org/companiesatoz/Agnat.aspx,Alara Wholefoods Ltd,14,93
+205,http://www.corporatecritic.org/companiesatoz/BMK%20H.aspx,Bridgestone Corporation,14,93
+206,http://www.corporatecritic.org/companiesatoz/V.aspx,Viridian Group Plc,14,93
+207,http://www.corporatecritic.org/companiesatoz/B.aspx,BASF SE,12.5,83
+208,http://www.corporatecritic.org/companiesatoz/O.aspx,Oasis Cardiff,???,-1
+209,http://www.corporatecritic.org/companiesatoz/M.aspx,Manchester City Football Club,(14),93
+210,http://www.corporatecritic.org/companiesatoz/C.aspx,Cafe Libertad Kollektiv eG,15,100
+211,http://www.corporatecritic.org/companiesatoz/Mio%20T.aspx,Moss Bros Group Plc,13.5,90
+212,http://www.corporatecritic.org/companiesatoz/L.aspx,La Fiammante,14,93
+213,http://www.corporatecritic.org/companiesatoz/123.aspx,3i Group plc,13.5,90
+214,http://www.corporatecritic.org/companiesatoz/E.aspx,Ex Mill Envelope and Paper Co,14,93
+215,http://www.corporatecritic.org/companiesatoz/Caurn.aspx,Caurnie Soap Co,14,93
+216,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,Eoltec,14,93
+217,http://www.corporatecritic.org/companiesatoz/Maya.aspx,Miele Beteiligungs-GmbH,(???),-1
+218,http://www.corporatecritic.org/companiesatoz/H.aspx,Hargreaves Family,7,46
+219,http://www.corporatecritic.org/companiesatoz/Londo.aspx,Lunapads International,15,100
+220,http://www.corporatecritic.org/companiesatoz/Scott.aspx,Sime S.p.A,12,80
+221,http://www.corporatecritic.org/companiesatoz/V.aspx,Vestar Capital Partners,14,93
+222,http://www.corporatecritic.org/companiesatoz/RISO%20.aspx,Royal & Sun Alliance Insurance Group Plc,14,93
+223,http://www.corporatecritic.org/companiesatoz/Delta.aspx,Dominion Resources Inc,13,86
+224,http://www.corporatecritic.org/companiesatoz/R.aspx,RELX plc,13,86
+225,http://www.corporatecritic.org/companiesatoz/Caurn.aspx,Clean Slate,14,93
+226,http://www.corporatecritic.org/companiesatoz/P.aspx,"Pacari Chocolate, LLC",15,100
+227,http://www.corporatecritic.org/companiesatoz/Specs.aspx,Standard Chartered plc,(7),46
+228,http://www.corporatecritic.org/companiesatoz/TPG.aspx,TTK Prestige Ltd,???,-1
+229,http://www.corporatecritic.org/companiesatoz/Y.aspx,Yaoh Ltd,11.5,76
+230,http://www.corporatecritic.org/companiesatoz/K.aspx,Kentz Corporation Ltd,14,93
+231,http://www.corporatecritic.org/companiesatoz/Clove.aspx,Corriente Resources Inc,14,93
+232,http://www.corporatecritic.org/companiesatoz/R.aspx,Ricoh Co. Ltd.,7,46
+233,http://www.corporatecritic.org/companiesatoz/Whitt.aspx,Wyndham Worldwide Corporation,13,86
+234,http://www.corporatecritic.org/companiesatoz/AMT%20C.aspx,Anglia Home Living Unlimited,???,-1
+235,http://www.corporatecritic.org/companiesatoz/N.aspx,Nijjar Group Holdings,???,-1
+236,http://www.corporatecritic.org/companiesatoz/F.aspx,Fitzroy Apparel Limited,???,-1
+237,http://www.corporatecritic.org/companiesatoz/D.aspx,Deeside Water Co (The) Ltd,14,93
+238,http://www.corporatecritic.org/companiesatoz/R.aspx,Reed Smith LLP,12.5,83
+239,http://www.corporatecritic.org/companiesatoz/Lette.aspx,Logitech International SA,(14),93
+240,http://www.corporatecritic.org/companiesatoz/I.aspx,International Audio Group Ltd,14,93
+241,http://www.corporatecritic.org/companiesatoz/D.aspx,Darty plc,14,93
+242,http://www.corporatecritic.org/companiesatoz/W.aspx,WHEB LLP,15,100
+243,http://www.corporatecritic.org/companiesatoz/Hero.aspx,Hong Leong Group Malaysia,14,93
+244,http://www.corporatecritic.org/companiesatoz/The%20C.aspx,The Rockefeller Foundation,13,86
+245,http://www.corporatecritic.org/companiesatoz/A.aspx,Abena Holding A/S,7.5,50
+246,http://www.corporatecritic.org/companiesatoz/K.aspx,Kimberly-Clark Corp,6.5,43
+247,http://www.corporatecritic.org/companiesatoz/Europ.aspx,EWE AG,14,93
+248,http://www.corporatecritic.org/companiesatoz/D.aspx,Datang Technology & Industry Group,13,86
+249,http://www.corporatecritic.org/companiesatoz/Mio%20T.aspx,Morning Foods Ltd,11,73
+250,http://www.corporatecritic.org/companiesatoz/RISO%20.aspx,RWE Aktiengesellschaft,9.5,63
+251,http://www.corporatecritic.org/companiesatoz/Scott.aspx,Seagate Technology PLC,14,93
+252,http://www.corporatecritic.org/companiesatoz/R.aspx,Ravenheat Holdings,10,66
+253,http://www.corporatecritic.org/companiesatoz/Caurn.aspx,Churchtown Farm,14,93
+254,http://www.corporatecritic.org/companiesatoz/Specs.aspx,Stagecoach Group plc,9,60
+255,http://www.corporatecritic.org/companiesatoz/Z.aspx,Zorlu Holding A.S.,8,53
+256,http://www.corporatecritic.org/companiesatoz/Asda%20.aspx,AT Holdings,14,93
+257,http://www.corporatecritic.org/companiesatoz/D.aspx,Danske Bank A/S,(4),26
+258,http://www.corporatecritic.org/companiesatoz/Specs.aspx,Sunshine Snacks,14,93
+259,http://www.corporatecritic.org/companiesatoz/Bellw.aspx,Binomial Group Ltd,14,93
+260,http://www.corporatecritic.org/companiesatoz/Agnat.aspx,Alfred Ritter GmbH & Co. KG,9.5,63
+261,http://www.corporatecritic.org/companiesatoz/V.aspx,Valensina GmbH,???,-1
+262,http://www.corporatecritic.org/companiesatoz/Y.aspx,Yokozuna Ltd,13,86
+263,http://www.corporatecritic.org/companiesatoz/E.aspx,Edimax Technology Co,14,93
+264,http://www.corporatecritic.org/companiesatoz/H.aspx,Hens teeth Ltd,14,93
+265,http://www.corporatecritic.org/companiesatoz/AMT%20C.aspx,Apollo Global Management,6.5,43
+266,http://www.corporatecritic.org/companiesatoz/V.aspx,Vinceremos,14,93
+267,http://www.corporatecritic.org/companiesatoz/D.aspx,De-Vau-Ge Gesundkostwerk GmbH,14,93
+268,http://www.corporatecritic.org/companiesatoz/A.aspx,ACCO Brands Corporation,14,93
+269,http://www.corporatecritic.org/companiesatoz/A.aspx,Against the Grain Ltd,15,100
+270,http://www.corporatecritic.org/companiesatoz/Clove.aspx,Commonwealth Bank of Australia (Commonwealth Bank Group),12.5,83
+271,http://www.corporatecritic.org/companiesatoz/AMT%20C.aspx,Annie Greenabelle,11,73
+272,http://www.corporatecritic.org/companiesatoz/Caurn.aspx,Christian Dior SA,3,20
+273,http://www.corporatecritic.org/companiesatoz/K.aspx,Konstar Industries Ltd,14,93
+274,http://www.corporatecritic.org/companiesatoz/Y.aspx,Yasuda International Limited,14,93
+275,http://www.corporatecritic.org/companiesatoz/P.aspx,Pertwood Organic Cereal Company,14,93
+276,http://www.corporatecritic.org/companiesatoz/Asda%20.aspx,Aviva Plc,8.5,56
+277,http://www.corporatecritic.org/companiesatoz/I.aspx,International Business Machines (IBM) Corporation,5.5,36
+278,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,Edimax Technology Co,14,93
+279,http://www.corporatecritic.org/companiesatoz/BMK%20H.aspx,Books Etc,10,66
+280,http://www.corporatecritic.org/companiesatoz/Maya.aspx,Maya,14,93
+281,http://www.corporatecritic.org/companiesatoz/G.aspx,Gemfields plc,11,73
+282,http://www.corporatecritic.org/companiesatoz/Agnat.aspx,Alphabet Inc,8,53
+283,http://www.corporatecritic.org/companiesatoz/T.aspx,TC Group,14,93
+284,http://www.corporatecritic.org/companiesatoz/BMK%20H.aspx,Breville Group,(???),-1
+285,http://www.corporatecritic.org/companiesatoz/Group.aspx,Groupe Hamelin,14,93
+286,http://www.corporatecritic.org/companiesatoz/RISO%20.aspx,Royal Dutch Shell plc,3,20
+287,http://www.corporatecritic.org/companiesatoz/S.aspx,Schneider Electric,13,86
+288,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,Ebac Foundation,11,73
+289,http://www.corporatecritic.org/companiesatoz/BMK%20H.aspx,Bodum AG,9,60
+290,http://www.corporatecritic.org/companiesatoz/G.aspx,Gilda & Pearl Ltd,14,93
+291,http://www.corporatecritic.org/companiesatoz/P.aspx,Phil & Ted's,14,93
+292,http://www.corporatecritic.org/companiesatoz/P.aspx,Paul Reed Smith Guitars,14,93
+293,http://www.corporatecritic.org/companiesatoz/W.aspx,Weleda AG,(13),86
+294,http://www.corporatecritic.org/companiesatoz/K.aspx,K2 Inc,14,93
+295,http://www.corporatecritic.org/companiesatoz/Briti.aspx,British American Tobacco,11.5,76
+296,http://www.corporatecritic.org/companiesatoz/Delta.aspx,Delta Air Lines Inc,11.5,76
+297,http://www.corporatecritic.org/companiesatoz/Agnat.aspx,Aleutia Limited,14,93
+298,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,Emil Vertriebs-GmbH,14,93
+299,http://www.corporatecritic.org/companiesatoz/Clove.aspx,Costa Rica Coffee Co Ltd,14,93
+300,http://www.corporatecritic.org/companiesatoz/Hero.aspx,Hodmedod Ltd,???,-1
+301,http://www.corporatecritic.org/companiesatoz/Glen%20.aspx,Gordon-Smith Guitars,14,93
+302,http://www.corporatecritic.org/companiesatoz/P.aspx,"Petty, Wood & Co Ltd",14,93
+303,http://www.corporatecritic.org/companiesatoz/Group.aspx,Groupe Danone,4,26
+304,http://www.corporatecritic.org/companiesatoz/Delta.aspx,Doughty Hanson & Co Ltd,14,93
+305,http://www.corporatecritic.org/companiesatoz/E.aspx,Errea Sport SpA,14,93
+306,http://www.corporatecritic.org/companiesatoz/E.aspx,ECI Partners LLP,???,-1
+307,http://www.corporatecritic.org/companiesatoz/Hero.aspx,HSBC Holdings plc,2.5,16
+308,http://www.corporatecritic.org/companiesatoz/N.aspx,Naturesave Policies Ltd,14,93
+309,http://www.corporatecritic.org/companiesatoz/B.aspx,Baylis and Harding PLC,???,-1
+310,http://www.corporatecritic.org/companiesatoz/Clove.aspx,Cobra Electronics Corporation,14,93
+311,http://www.corporatecritic.org/companiesatoz/K.aspx,Kooperativa Forbundet (KF),14,93
+312,http://www.corporatecritic.org/companiesatoz/Phile.aspx,PJL Investments BV,(7),46
+313,http://www.corporatecritic.org/companiesatoz/Whitt.aspx,Wigan Athletic Football Club,(14),93
+314,http://www.corporatecritic.org/companiesatoz/J.aspx,Jollyum Ltd,15,100
+315,http://www.corporatecritic.org/companiesatoz/Flowf.aspx,Ford Motor Company,5.5,36
+316,http://www.corporatecritic.org/companiesatoz/I.aspx,Infinity Foods Co-operative Limited,13.5,90
+317,http://www.corporatecritic.org/companiesatoz/The%20W.aspx,Three Choirs Vineyards Ltd,14,93
+318,http://www.corporatecritic.org/companiesatoz/Scott.aspx,"Seminole Tribe of Florida, Inc",14,93
+319,http://www.corporatecritic.org/companiesatoz/Q.aspx,Quiksilver Inc,13.5,90
+320,http://www.corporatecritic.org/companiesatoz/Whitt.aspx,William Santus & Co Ltd,14,93
+321,http://www.corporatecritic.org/companiesatoz/I.aspx,Ipswich Building Society,14,93
+322,http://www.corporatecritic.org/companiesatoz/I.aspx,Iceland Topco Ltd,6,40
+323,http://www.corporatecritic.org/companiesatoz/Fung%20.aspx,FWP Matthews,14,93
+324,http://www.corporatecritic.org/companiesatoz/C.aspx,Carhartt Inc,14,93
+325,http://www.corporatecritic.org/companiesatoz/R.aspx,Republic Gold Ltd,14,93
+326,http://www.corporatecritic.org/companiesatoz/J.aspx,J W Childs Associates,14,93
+327,http://www.corporatecritic.org/companiesatoz/Flowf.aspx,Fundacion MAPFRE,???,-1
+328,http://www.corporatecritic.org/companiesatoz/A.aspx,Aeffe S.p.A.,14,93
+329,http://www.corporatecritic.org/companiesatoz/BMK%20H.aspx,Bourgeois Boheme,13.5,90
+330,http://www.corporatecritic.org/companiesatoz/W.aspx,WH Smith Plc,11,73
+331,http://www.corporatecritic.org/companiesatoz/Y.aspx,Yves Rocher,11.5,76
+332,http://www.corporatecritic.org/companiesatoz/G.aspx,George Luck Puzzles Ltd,14,93
+333,http://www.corporatecritic.org/companiesatoz/The%20C.aspx,The Groovy Food Company,12,80
+334,http://www.corporatecritic.org/companiesatoz/M.aspx,Man Group plc,13.5,90
+335,http://www.corporatecritic.org/companiesatoz/Flowf.aspx,Funai Electric Co. Ltd,14,93
+336,http://www.corporatecritic.org/companiesatoz/Hero.aspx,Host Europe Group,13,86
+337,http://www.corporatecritic.org/companiesatoz/D.aspx,DBApparel,14,93
+338,http://www.corporatecritic.org/companiesatoz/H.aspx,Happy Cheeze,???,-1
+339,http://www.corporatecritic.org/companiesatoz/U.aspx,United Foods International plc,14,93
+340,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,Earth Friendly Products,11.5,76
+341,http://www.corporatecritic.org/companiesatoz/U.aspx,Unicorn Grocery,15,100
+342,http://www.corporatecritic.org/companiesatoz/Flowf.aspx,Freshfields Bruckhaus Deringer,11.5,76
+343,http://www.corporatecritic.org/companiesatoz/Delta.aspx,Dri-Pak Ltd,11,73
+344,http://www.corporatecritic.org/companiesatoz/W.aspx,Wesleyan Assurance Society,14,93
+345,http://www.corporatecritic.org/companiesatoz/Hero.aspx,Honda Motor Co Ltd,7,46
+346,http://www.corporatecritic.org/companiesatoz/Agnat.aspx,AHG Venice Ltd,5.5,36
+347,http://www.corporatecritic.org/companiesatoz/Lette.aspx,Lloyds Banking Group plc,4.5,30
+348,http://www.corporatecritic.org/companiesatoz/I.aspx,IAC/InterActiveCorp,13.5,90
+349,http://www.corporatecritic.org/companiesatoz/K.aspx,Kachikoshi Ltd,12.5,83
+350,http://www.corporatecritic.org/companiesatoz/Europ.aspx,Europa Pet Foods Ltd,14,93
+351,http://www.corporatecritic.org/companiesatoz/Skadd.aspx,Sodasan Wasch- und Reinigungsmittel GmbH,14,93
+352,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,Endless,12.5,83
+353,http://www.corporatecritic.org/companiesatoz/Phile.aspx,Plantronics,14,93
+354,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,Electra Private Equity Partners Lp,8,53
+355,http://www.corporatecritic.org/companiesatoz/Maya.aspx,Miele & Cie. KG,(10),66
+356,http://www.corporatecritic.org/companiesatoz/V.aspx,VF Corporation Inc,6.5,43
+357,http://www.corporatecritic.org/companiesatoz/Agnat.aspx,Alessi SpA,???,-1
+358,http://www.corporatecritic.org/companiesatoz/W.aspx,WBA Holdings Ltd,14,93
+359,http://www.corporatecritic.org/companiesatoz/M.aspx,Macintosh Retail Group NV,14,93
+360,http://www.corporatecritic.org/companiesatoz/A.aspx,Admiral Group,(3.5),23
+361,http://www.corporatecritic.org/companiesatoz/Agnat.aspx,Alshaya Group,14,93
+362,http://www.corporatecritic.org/companiesatoz/Agnat.aspx,Alliance Trust PLC,6.5,43
+363,http://www.corporatecritic.org/companiesatoz/Clove.aspx,Covea,5,33
+364,http://www.corporatecritic.org/companiesatoz/O.aspx,OneSavings Bank Plc,11.5,76
+365,http://www.corporatecritic.org/companiesatoz/F.aspx,Fashion - Conscience.com Limited,13,86
+366,http://www.corporatecritic.org/companiesatoz/AMT%20C.aspx,Apple Inc,7,46
+367,http://www.corporatecritic.org/companiesatoz/R.aspx,Real Organic Foods Company,14,93
+368,http://www.corporatecritic.org/companiesatoz/M.aspx,Marriott International,13.5,90
+369,http://www.corporatecritic.org/companiesatoz/Phile.aspx,PlusNet Plc,7.5,50
+370,http://www.corporatecritic.org/companiesatoz/I.aspx,Inditex Group,8,53
+371,http://www.corporatecritic.org/companiesatoz/B.aspx,Barratts Trading Limited,14,93
+372,http://www.corporatecritic.org/companiesatoz/P.aspx,Paperalia,14,93
+373,http://www.corporatecritic.org/companiesatoz/AMT%20C.aspx,Aquados Ltd,14,93
+374,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,Edward Thompson Group,14,93
+375,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,Enpac Ltd,???,-1
+376,http://www.corporatecritic.org/companiesatoz/Briti.aspx,Busch & Müller KG,14,93
+377,http://www.corporatecritic.org/companiesatoz/F.aspx,Farmfoods Ltd,14,93
+378,http://www.corporatecritic.org/companiesatoz/Clove.aspx,Concord Camera Corporation,14,93
+379,http://www.corporatecritic.org/companiesatoz/Price.aspx,Project Blue,13,86
+380,http://www.corporatecritic.org/companiesatoz/Clove.aspx,Coswell S.p.A.,???,-1
+381,http://www.corporatecritic.org/companiesatoz/Price.aspx,PZ Cussons PLC,8,53
+382,http://www.corporatecritic.org/companiesatoz/Whitt.aspx,Willow Water Ltd,14,93
+383,http://www.corporatecritic.org/companiesatoz/Mio%20T.aspx,Mulliez Family,9.5,63
+384,http://www.corporatecritic.org/companiesatoz/E.aspx,EH Booth & Co Ltd,3.5,23
+385,http://www.corporatecritic.org/companiesatoz/Delta.aspx,Dogwoof Ltd,14,93
+386,http://www.corporatecritic.org/companiesatoz/Delta.aspx,Doves Farm Foods Ltd,13,86
+387,http://www.corporatecritic.org/companiesatoz/Flowf.aspx,Footprint Clothing,14,93
+388,http://www.corporatecritic.org/companiesatoz/A.aspx,Aberdeen Asset Management Plc,2.5,16
+389,http://www.corporatecritic.org/companiesatoz/RISO%20.aspx,Romec Ltd,(12.5),83
+390,http://www.corporatecritic.org/companiesatoz/Hero.aspx,HP Inc,6,40
+391,http://www.corporatecritic.org/companiesatoz/Maya.aspx,Mike Ashley,7,46
+392,http://www.corporatecritic.org/companiesatoz/Maya.aspx,Microsoft Corporation,7,46
+393,http://www.corporatecritic.org/companiesatoz/G.aspx,Giant Manufacturing Co Ltd,7.5,50
+394,http://www.corporatecritic.org/companiesatoz/Asda%20.aspx,ASOS plc,8,53
+395,http://www.corporatecritic.org/companiesatoz/N.aspx,Nap Ease Ltd,12,80
+396,http://www.corporatecritic.org/companiesatoz/Maya.aspx,MessageLabs Group Ltd,14,93
+397,http://www.corporatecritic.org/companiesatoz/E.aspx,Ella's Kitchen (Brands) Ltd,14,93
+398,http://www.corporatecritic.org/companiesatoz/E.aspx,Emmaljunga AB,14,93
+399,http://www.corporatecritic.org/companiesatoz/Scott.aspx,Shoe Zone Plc,8,53
+400,http://www.corporatecritic.org/companiesatoz/RISO%20.aspx,Russimco Ltd,14,93
+401,http://www.corporatecritic.org/companiesatoz/T.aspx,Telstra,14,93
+402,http://www.corporatecritic.org/companiesatoz/Briti.aspx,British Broadcasting Corporation (BBC),13,86
+403,http://www.corporatecritic.org/companiesatoz/R.aspx,RAO UES of Russia,13,86
+404,http://www.corporatecritic.org/companiesatoz/W.aspx,Wenger S.A,(14),93
+405,http://www.corporatecritic.org/companiesatoz/Caurn.aspx,Clothworks,14,93
+406,http://www.corporatecritic.org/companiesatoz/Agnat.aspx,American International Group (AIG) Inc,3,20
+407,http://www.corporatecritic.org/companiesatoz/W.aspx,Westland Horticulture,8,53
+408,http://www.corporatecritic.org/companiesatoz/123.aspx,2 Sisters Food Group,8.5,56
+409,http://www.corporatecritic.org/companiesatoz/O.aspx,Orvalley Corporation N.V,13,86
+410,http://www.corporatecritic.org/companiesatoz/Flowf.aspx,Fortis Foods Ltd,???,-1
+411,http://www.corporatecritic.org/companiesatoz/Glen%20.aspx,GOVIA,10,66
+412,http://www.corporatecritic.org/companiesatoz/D.aspx,Dart Group Plc,13,86
+413,http://www.corporatecritic.org/companiesatoz/F.aspx,Facebook Inc,5.5,36
+414,http://www.corporatecritic.org/companiesatoz/C.aspx,Cafeology,13,86
+415,http://www.corporatecritic.org/companiesatoz/R.aspx,Regent Inns plc,(14),93
+416,http://www.corporatecritic.org/companiesatoz/J.aspx,Joules Clothing Ltd,14,93
+417,http://www.corporatecritic.org/companiesatoz/K.aspx,KKR & Co. L.P.,5.5,36
+418,http://www.corporatecritic.org/companiesatoz/Whitt.aspx,William Hill Plc,13.5,90
+419,http://www.corporatecritic.org/companiesatoz/E.aspx,Evesham Technology Holdings Ltd,14,93
+420,http://www.corporatecritic.org/companiesatoz/Glen%20.aspx,Green Valley Trading Company,13.5,90
+421,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,easyGroup (UK) Ltd,13.5,90
+422,http://www.corporatecritic.org/companiesatoz/C.aspx,Calon Wen Organic Milk Co-operative Limited,???,-1
+423,http://www.corporatecritic.org/companiesatoz/Ninte.aspx,Nomads Clothing Ltd,12.5,83
+424,http://www.corporatecritic.org/companiesatoz/The%20C.aspx,The Doe Run Company,14,93
+425,http://www.corporatecritic.org/companiesatoz/E.aspx,Esure Group,(5),33
+426,http://www.corporatecritic.org/companiesatoz/Specs.aspx,Standard Life Plc,2.5,16
+427,http://www.corporatecritic.org/companiesatoz/Price.aspx,Proview International Holdings Ltd,14,93
+428,http://www.corporatecritic.org/companiesatoz/Maya.aspx,McKeith Research Ltd,14,93
+429,http://www.corporatecritic.org/companiesatoz/Bellw.aspx,Bishopston Trading Company Ltd,14,93
+430,http://www.corporatecritic.org/companiesatoz/TPG.aspx,Traditional Scottish Ales,14,93
+431,http://www.corporatecritic.org/companiesatoz/Hero.aspx,Hilleberg The Tentmaker,14,93
+432,http://www.corporatecritic.org/companiesatoz/Glen%20.aspx,Goldman Sachs Group Inc,5,33
+433,http://www.corporatecritic.org/companiesatoz/M.aspx,Makita Corp,14,93
+434,http://www.corporatecritic.org/companiesatoz/D.aspx,Dale Farm Cooperative,8.5,56
+435,http://www.corporatecritic.org/companiesatoz/T.aspx,Thai Union Group Public Company Limited,(6.5),43
+436,http://www.corporatecritic.org/companiesatoz/Lette.aspx,Lloyd's Of London,3.5,23
+437,http://www.corporatecritic.org/companiesatoz/Bellw.aspx,Bibby Line Group Ltd,14,93
+438,http://www.corporatecritic.org/companiesatoz/F.aspx,Fentimans Ltd,11.5,76
+439,http://www.corporatecritic.org/companiesatoz/Cream.aspx,CVC Capital Partners Europe Ltd,14,93
+440,http://www.corporatecritic.org/companiesatoz/R.aspx,Rakuten Inc,7,46
+441,http://www.corporatecritic.org/companiesatoz/Mio%20T.aspx,Multibrands International Limited,???,-1
+442,http://www.corporatecritic.org/companiesatoz/Ninte.aspx,Nutshell Natural Paints,11.5,76
+443,http://www.corporatecritic.org/companiesatoz/RISO%20.aspx,Rumah London,14,93
+444,http://www.corporatecritic.org/companiesatoz/Ninte.aspx,Norwich & Peterborough Building Society,13.5,90
+445,http://www.corporatecritic.org/companiesatoz/The%20C.aspx,The Tea and Coffee Plant,14,93
+446,http://www.corporatecritic.org/companiesatoz/Briti.aspx,Brother Industries Ltd,14,93
+447,http://www.corporatecritic.org/companiesatoz/Flowf.aspx,Frank Water Ltd,14,93
+448,http://www.corporatecritic.org/companiesatoz/U.aspx,Unilever,1.5,10
+449,http://www.corporatecritic.org/companiesatoz/E.aspx,Enpac Ltd,???,-1
+450,http://www.corporatecritic.org/companiesatoz/Lette.aspx,Lifetime Brands Inc,???,-1
+451,http://www.corporatecritic.org/companiesatoz/Cream.aspx,Cream O'Galloway Dairy Co Ltd,12.5,83
+452,http://www.corporatecritic.org/companiesatoz/S.aspx,Sam I Am,14,93
+453,http://www.corporatecritic.org/companiesatoz/Lette.aspx,Line 6,14,93
+454,http://www.corporatecritic.org/companiesatoz/Price.aspx,Prothero Ltd,14,93
+455,http://www.corporatecritic.org/companiesatoz/Z.aspx,Zapf Creation AG,14,93
+456,http://www.corporatecritic.org/companiesatoz/V.aspx,Very Innovative Group Ltd,9,60
+457,http://www.corporatecritic.org/companiesatoz/Hero.aspx,Hiut Ltd,9.5,63
+458,http://www.corporatecritic.org/companiesatoz/Agnat.aspx,American Express Company,7.5,50
+459,http://www.corporatecritic.org/companiesatoz/Caurn.aspx,Charterhouse Capital Partners LLP,13.5,90
+460,http://www.corporatecritic.org/companiesatoz/Group.aspx,Grupo Camargo Correa,13,86
+461,http://www.corporatecritic.org/companiesatoz/The%20W.aspx,Tiana Fair Trade Organics Ltd,15,100
+462,http://www.corporatecritic.org/companiesatoz/L.aspx,Legal & General Group plc,3.5,23
+463,http://www.corporatecritic.org/companiesatoz/Hero.aspx,Hipp GMBH and Co Vertrieb KG,14,93
+464,http://www.corporatecritic.org/companiesatoz/Flowf.aspx,French Connection Group Plc,8.5,56
+465,http://www.corporatecritic.org/companiesatoz/W.aspx,West Bromwich Building Society,13.5,90
+466,http://www.corporatecritic.org/companiesatoz/M.aspx,MacAndrews & Forbes Holdings Inc,9.5,63
+467,http://www.corporatecritic.org/companiesatoz/E.aspx,Earl Shilton Building Society,14,93
+468,http://www.corporatecritic.org/companiesatoz/K.aspx,Koç Holding AS,(7),46
+469,http://www.corporatecritic.org/companiesatoz/A.aspx,Advanced Fluid Connections (AFC),14,93
+470,http://www.corporatecritic.org/companiesatoz/Bellw.aspx,BenQ Group,14,93
+471,http://www.corporatecritic.org/companiesatoz/Y.aspx,"Yamato Holdings Co, Ltd",(14),93
+472,http://www.corporatecritic.org/companiesatoz/AMT%20C.aspx,Arla Foods amba,6.5,43
+473,http://www.corporatecritic.org/companiesatoz/Skadd.aspx,Smiths Coffee Company Ltd,14,93
+474,http://www.corporatecritic.org/companiesatoz/Duali.aspx,Duke Street Capital Holdings Ltd,11.5,76
+475,http://www.corporatecritic.org/companiesatoz/J.aspx,Jamaica Producers Group Ltd,14,93
+476,http://www.corporatecritic.org/companiesatoz/Delta.aspx,Do You Green,14,93
+477,http://www.corporatecritic.org/companiesatoz/Briti.aspx,BRODIE MELROSE DRYSDALE & CO LTD,7.5,50
+478,http://www.corporatecritic.org/companiesatoz/J.aspx,Jupiter Fund Management Plc,5.5,36
+479,http://www.corporatecritic.org/companiesatoz/Maya.aspx,Mayborn Group plc,13.5,90
+480,http://www.corporatecritic.org/companiesatoz/Agnat.aspx,All Market Inc,12.5,83
+481,http://www.corporatecritic.org/companiesatoz/A.aspx,A World of Buzz Limited,???,-1
+482,http://www.corporatecritic.org/companiesatoz/123.aspx,[MERGED] Stroud and Swindon Building Society,13.5,90
+483,http://www.corporatecritic.org/companiesatoz/C.aspx,Carlsberg A/S,9,60
+484,http://www.corporatecritic.org/companiesatoz/T.aspx,Tesla Motors Inc,8,53
+485,http://www.corporatecritic.org/companiesatoz/Glen%20.aspx,"GoPro, Inc.",???,-1
+486,http://www.corporatecritic.org/companiesatoz/Phile.aspx,Plants Of Distinction,14,93
+487,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,Etablissements Charles Nusse,14,93
+488,http://www.corporatecritic.org/companiesatoz/The%20W.aspx,Toyota Motor Corp,5.5,36
+489,http://www.corporatecritic.org/companiesatoz/Clove.aspx,Combi Corporation,14,93
+490,http://www.corporatecritic.org/companiesatoz/The%20W.aspx,TINE SA,???,-1
+491,http://www.corporatecritic.org/companiesatoz/Clove.aspx,Cocoa Loco Ltd,15,100
+492,http://www.corporatecritic.org/companiesatoz/G.aspx,General Motors Corporation,4.5,30
+493,http://www.corporatecritic.org/companiesatoz/AMT%20C.aspx,Artsana SpA,(8),53
+494,http://www.corporatecritic.org/companiesatoz/Phile.aspx,Pioneer Corporation,14,93
+495,http://www.corporatecritic.org/companiesatoz/Flowf.aspx,Fratelli De Cecco di Filippo Fara San Martino S.p.A.,14,93
+496,http://www.corporatecritic.org/companiesatoz/Ninte.aspx,Nkuku,13,86
+497,http://www.corporatecritic.org/companiesatoz/Y.aspx,Yamaha Corporation,14,93
+498,http://www.corporatecritic.org/companiesatoz/Maya.aspx,Merck & Co Inc,13,86
+499,http://www.corporatecritic.org/companiesatoz/Mio%20T.aspx,MJM International Ltd,14,93
+500,http://www.corporatecritic.org/companiesatoz/Glen%20.aspx,Go-Ahead Group plc,10.5,70
+501,http://www.corporatecritic.org/companiesatoz/Flowf.aspx,FMR LLC,0.5,3
+502,http://www.corporatecritic.org/companiesatoz/S.aspx,Samsung Group,4.5,30
+503,http://www.corporatecritic.org/companiesatoz/C.aspx,Caudwell Group,14,93
+504,http://www.corporatecritic.org/companiesatoz/Hero.aspx,Hornby plc,14,93
+505,http://www.corporatecritic.org/companiesatoz/AMT%20C.aspx,Archos SA,8,53
+506,http://www.corporatecritic.org/companiesatoz/Agnat.aspx,Amsprop London Ltd,14,93
+507,http://www.corporatecritic.org/companiesatoz/BMK%20H.aspx,Bravissimo Ltd,14,93
+508,http://www.corporatecritic.org/companiesatoz/Phile.aspx,Premier Foods Plc,(9.5),63
+509,http://www.corporatecritic.org/companiesatoz/Caurn.aspx,CBPE Capital,8,53
+510,http://www.corporatecritic.org/companiesatoz/Lette.aspx,Lioncourt Capital Ltd,14,93
+511,http://www.corporatecritic.org/companiesatoz/I.aspx,ICICI Bank Ltd,6.5,43
+512,http://www.corporatecritic.org/companiesatoz/Delta.aspx,Dr. Wolff Group,???,-1
+513,http://www.corporatecritic.org/companiesatoz/TPG.aspx,Trek Bicycle Corporation,7,46
+514,http://www.corporatecritic.org/companiesatoz/P.aspx,Perrigo Company,8.5,56
+515,http://www.corporatecritic.org/companiesatoz/E.aspx,Endesa SA,14,93
+516,http://www.corporatecritic.org/companiesatoz/K.aspx,Koninklijke Wessanen nv (AKA Royal Wessanen),(9.5),63
+517,http://www.corporatecritic.org/companiesatoz/W.aspx,"Walgreens Boots Alliance, Inc.",1,6
+518,http://www.corporatecritic.org/companiesatoz/Europ.aspx,Evesham Technology Holdings Ltd,14,93
+519,http://www.corporatecritic.org/companiesatoz/Mio%20T.aspx,MOMENTUM ELECTRIC LIMITED,???,-1
+520,http://www.corporatecritic.org/companiesatoz/W.aspx,W & H Marriage & Sons,14,93
+521,http://www.corporatecritic.org/companiesatoz/Bellw.aspx,Black Isle Brewing Co,14,93
+522,http://www.corporatecritic.org/companiesatoz/V.aspx,Valentino Fashion Group SpA,(13.5),90
+523,http://www.corporatecritic.org/companiesatoz/Specs.aspx,Stichting INGKA Foundation,6,40
+524,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,Ecco Holding A/S,8,53
+525,http://www.corporatecritic.org/companiesatoz/H.aspx,Hanson UK,(7.5),50
+526,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,EWE AG,14,93
+527,http://www.corporatecritic.org/companiesatoz/Scott.aspx,Shire plc,13,86
+528,http://www.corporatecritic.org/companiesatoz/C.aspx,Canon Inc,(5),33
+529,http://www.corporatecritic.org/companiesatoz/V.aspx,Vaillant Group,10,66
+530,http://www.corporatecritic.org/companiesatoz/TPG.aspx,Travis Perkins plc,(5.5),36
+531,http://www.corporatecritic.org/companiesatoz/T.aspx,Tea Times Holding Ltd,14,93
+532,http://www.corporatecritic.org/companiesatoz/Agnat.aspx,Allied Irish Banks Plc,5,33
+533,http://www.corporatecritic.org/companiesatoz/L.aspx,L W Corporation Ltd,14,93
+534,http://www.corporatecritic.org/companiesatoz/Hero.aspx,Honesty Cosmetics,13.5,90
+535,http://www.corporatecritic.org/companiesatoz/Briti.aspx,Buxton Foods Limited,14,93
+536,http://www.corporatecritic.org/companiesatoz/Clove.aspx,Comercializadora Internacional Banacol De Colombia SA,9.5,63
+537,http://www.corporatecritic.org/companiesatoz/Mio%20T.aspx,MUD Jeans International B.V.,15,100
+538,http://www.corporatecritic.org/companiesatoz/Briti.aspx,Bugaboo Design & Sales b.v.,14,93
+539,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,Edgewell Personal Care,???,-1
+540,http://www.corporatecritic.org/companiesatoz/C.aspx,Career Connect,???,-1
+541,http://www.corporatecritic.org/companiesatoz/R.aspx,Rinaldo Rinaldini Limited,???,-1
+542,http://www.corporatecritic.org/companiesatoz/F.aspx,Ferrero International SA,8,53
+543,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,Ebro Foods S.A,14,93
+544,http://www.corporatecritic.org/companiesatoz/P.aspx,PA Consulting Group,8,53
+545,http://www.corporatecritic.org/companiesatoz/B.aspx,Baroness Retail,9,60
+546,http://www.corporatecritic.org/companiesatoz/A.aspx,Adventure Challenge Events,14,93
+547,http://www.corporatecritic.org/companiesatoz/O.aspx,Offshore Media Jersey Limited,14,93
+548,http://www.corporatecritic.org/companiesatoz/Mio%20T.aspx,Moo Free Ltd,15,100
+549,http://www.corporatecritic.org/companiesatoz/The%20W.aspx,Tottenham Hotspur plc,(14),93
+550,http://www.corporatecritic.org/companiesatoz/The%20W.aspx,Tomkins plc,14,93
+551,http://www.corporatecritic.org/companiesatoz/Caurn.aspx,Chocoladefabriken Lindt & Sprüngli AG,8,53
+552,http://www.corporatecritic.org/companiesatoz/N.aspx,Newcastle Building Society,13.5,90
+553,http://www.corporatecritic.org/companiesatoz/O.aspx,Only Natural Products Ltd,12.5,83
+554,http://www.corporatecritic.org/companiesatoz/Agnat.aspx,ALDI,12,80
+555,http://www.corporatecritic.org/companiesatoz/F.aspx,Favorita Fruit Company,5,33
+556,http://www.corporatecritic.org/companiesatoz/The%20W.aspx,Thought Fashion Limited,13,86
+557,http://www.corporatecritic.org/companiesatoz/N.aspx,Neom Limited,???,-1
+558,http://www.corporatecritic.org/companiesatoz/Caurn.aspx,Centrica Plc,7,46
+559,http://www.corporatecritic.org/companiesatoz/E.aspx,Ethical Wares Ltd,12,80
+560,http://www.corporatecritic.org/companiesatoz/P.aspx,Pet Food UK Holdings Ltd,9.5,63
+561,http://www.corporatecritic.org/companiesatoz/Caurn.aspx,China National Offshore Oil Corporation,14,93
+562,http://www.corporatecritic.org/companiesatoz/Skadd.aspx,Société Générale,13.5,90
+563,http://www.corporatecritic.org/companiesatoz/Mio%20T.aspx,Mitchells & Butlers,7.5,50
+564,http://www.corporatecritic.org/companiesatoz/K.aspx,Koninklijke Philips Electronics NV (Royal Philips),9,60
+565,http://www.corporatecritic.org/companiesatoz/Group.aspx,Guy Pinard & Fils sarl,14,93
+566,http://www.corporatecritic.org/companiesatoz/Surya.aspx,Symphonix Ltd,14,93
+567,http://www.corporatecritic.org/companiesatoz/The%20C.aspx,The Green Apple,14,93
+568,http://www.corporatecritic.org/companiesatoz/Hero.aspx,Hill Biscuits Ltd,10.5,70
+569,http://www.corporatecritic.org/companiesatoz/H.aspx,Havana Holding B.V.,14,93
+570,http://www.corporatecritic.org/companiesatoz/T.aspx,TCL Corporation,8,53
+571,http://www.corporatecritic.org/companiesatoz/Price.aspx,Pudding Clothing,14,93
+572,http://www.corporatecritic.org/companiesatoz/J.aspx,JP Boden & Co Ltd,13.5,90
+573,http://www.corporatecritic.org/companiesatoz/I.aspx,Iriver Ltd,14,93
+574,http://www.corporatecritic.org/companiesatoz/The%20C.aspx,The Schmidt Family Foundation,???,-1
+575,http://www.corporatecritic.org/companiesatoz/O.aspx,OAO Gazprom,11,73
+576,http://www.corporatecritic.org/companiesatoz/G.aspx,Gaskell plc,14,93
+577,http://www.corporatecritic.org/companiesatoz/D.aspx,Delamere Dairy Holdings,9.5,63
+578,http://www.corporatecritic.org/companiesatoz/Asda%20.aspx,Authentic Bread Company,14,93
+579,http://www.corporatecritic.org/companiesatoz/TPG.aspx,Tribeca-May Ltd,13,86
+580,http://www.corporatecritic.org/companiesatoz/M.aspx,Marble Beers Limited,???,-1
+581,http://www.corporatecritic.org/companiesatoz/V.aspx,Virgin Group Holdings Ltd,8,53
+582,http://www.corporatecritic.org/companiesatoz/Agnat.aspx,Ameriprise Financial Inc,13,86
+583,http://www.corporatecritic.org/companiesatoz/Specs.aspx,Stokke Gruppen AS,14,93
+584,http://www.corporatecritic.org/companiesatoz/G.aspx,GEORGANICS LTD,???,-1
+585,http://www.corporatecritic.org/companiesatoz/R.aspx,Rainbow Wholefoods,14,93
+586,http://www.corporatecritic.org/companiesatoz/AMT%20C.aspx,Arrogance Accessories Ltd,14,93
+587,http://www.corporatecritic.org/companiesatoz/Asda%20.aspx,Auro Pflanzenchemie AG,13,86
+588,http://www.corporatecritic.org/companiesatoz/Hero.aspx,HM Capital Partners LLC,14,93
+589,http://www.corporatecritic.org/companiesatoz/Skadd.aspx,Softwalker Ltd,14,93
+590,http://www.corporatecritic.org/companiesatoz/Caurn.aspx,Champion Petfoods LP,???,-1
+591,http://www.corporatecritic.org/companiesatoz/T.aspx,Thaymar Ltd,9,60
+592,http://www.corporatecritic.org/companiesatoz/K.aspx,Katvig ApS,14,93
+593,http://www.corporatecritic.org/companiesatoz/Londo.aspx,Lycatel,(11),73
+594,http://www.corporatecritic.org/companiesatoz/Specs.aspx,Superdry PLC [previously SuperGroup Plc],9,60
+595,http://www.corporatecritic.org/companiesatoz/Scott.aspx,SHUBBAK:A WINDOW ON CONTEMPORARY ARAB CULTURE,???,-1
+596,http://www.corporatecritic.org/companiesatoz/Londo.aspx,Lucy Bee Ltd,15,100
+597,http://www.corporatecritic.org/companiesatoz/Delta.aspx,Deutsche Bahn,6.5,43
+598,http://www.corporatecritic.org/companiesatoz/TPG.aspx,Traidcraft plc,12.5,83
+599,http://www.corporatecritic.org/companiesatoz/C.aspx,Castlefield Partners Limited,???,-1
+600,http://www.corporatecritic.org/companiesatoz/Caurn.aspx,Cawston Press Ltd,12,80
+601,http://www.corporatecritic.org/companiesatoz/Phile.aspx,Plastwood Di Fini Sisto E C Sas,14,93
+602,http://www.corporatecritic.org/companiesatoz/Fung%20.aspx,Funky Gandhi Limited,14,93
+603,http://www.corporatecritic.org/companiesatoz/TPG.aspx,Tranquil PC Ltd,14,93
+604,http://www.corporatecritic.org/companiesatoz/Hero.aspx,Hero,14,93
+605,http://www.corporatecritic.org/companiesatoz/K.aspx,Klondyke Group Limited,6,40
+606,http://www.corporatecritic.org/companiesatoz/RISO%20.aspx,Rutland Partners LLP,9.5,63
+607,http://www.corporatecritic.org/companiesatoz/Londo.aspx,Lotte Group,7.5,50
+608,http://www.corporatecritic.org/companiesatoz/Phile.aspx,Phoenix Farm Group Limited,13,86
+609,http://www.corporatecritic.org/companiesatoz/Maya.aspx,Middlesbrough Football Club,(14),93
+610,http://www.corporatecritic.org/companiesatoz/G.aspx,Giochi Preziosi,(14),93
+611,http://www.corporatecritic.org/companiesatoz/R.aspx,Rip Curl International Pty Ltd,13.5,90
+612,http://www.corporatecritic.org/companiesatoz/The%20W.aspx,The Welsh Whisky Company Limited,14,93
+613,http://www.corporatecritic.org/companiesatoz/V.aspx,Vendis Capital,13,86
+614,http://www.corporatecritic.org/companiesatoz/Ninte.aspx,Northumbrian Water Group,(4.5),30
+615,http://www.corporatecritic.org/companiesatoz/H.aspx,Habermaas GmbH,14,93
+616,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,Eastman Kodak Company,7,46
+617,http://www.corporatecritic.org/companiesatoz/RISO%20.aspx,Road Angel Group,14,93
+618,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,EMC Corporation,5.5,36
+619,http://www.corporatecritic.org/companiesatoz/O.aspx,Orange S.A,8.5,56
+620,http://www.corporatecritic.org/companiesatoz/V.aspx,Viridian Nutrition Ltd,14,93
+621,http://www.corporatecritic.org/companiesatoz/B.aspx,"Bandcamp, Inc.",14,93
+622,http://www.corporatecritic.org/companiesatoz/Hero.aspx,Hotel Chocolat,(9),60
+623,http://www.corporatecritic.org/companiesatoz/F.aspx,Findel plc,8.5,56
+624,http://www.corporatecritic.org/companiesatoz/I.aspx,Ing Chang-Ki Wei-Chi Education Foundation,???,-1
+625,http://www.corporatecritic.org/companiesatoz/H.aspx,Henry Squire & Sons Ltd,14,93
+626,http://www.corporatecritic.org/companiesatoz/N.aspx,Natura Cosmeticos S/A,7.5,50
+627,http://www.corporatecritic.org/companiesatoz/C.aspx,Capital Group Companies Inc,6,40
+628,http://www.corporatecritic.org/companiesatoz/Price.aspx,Punjana Ltd,12.5,83
+629,http://www.corporatecritic.org/companiesatoz/U.aspx,United Coffee group,(9.5),63
+630,http://www.corporatecritic.org/companiesatoz/N.aspx,New Roots,???,-1
+631,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,Equal Exchange inc,???,-1
+632,http://www.corporatecritic.org/companiesatoz/C.aspx,Canterbury International Ltd,14,93
+633,http://www.corporatecritic.org/companiesatoz/AMT%20C.aspx,Anglo American plc,10,66
+634,http://www.corporatecritic.org/companiesatoz/Phile.aspx,PitRok,11,73
+635,http://www.corporatecritic.org/companiesatoz/KPMG%20.aspx,KTC (Edibles) Ltd,9,60
+636,http://www.corporatecritic.org/companiesatoz/L.aspx,Land Securities Group,13.5,90
+637,http://www.corporatecritic.org/companiesatoz/C.aspx,Caspian Topco,14,93
+638,http://www.corporatecritic.org/companiesatoz/Hero.aspx,Hillfarm Oils Ltd,14,93
+639,http://www.corporatecritic.org/companiesatoz/Skadd.aspx,Solarplicity Energy Limited,12.5,83
+640,http://www.corporatecritic.org/companiesatoz/V.aspx,Virgin Money UK PLC (FKA CYBG PLC),???,-1
+641,http://www.corporatecritic.org/companiesatoz/The%20W.aspx,TJX Companies Inc,3,20
+642,http://www.corporatecritic.org/companiesatoz/D.aspx,De Beers SA,11,73
+643,http://www.corporatecritic.org/companiesatoz/Skadd.aspx,SPAR International,14,93
+644,http://www.corporatecritic.org/companiesatoz/C.aspx,Camphill Village Trust Limited,14,93
+645,http://www.corporatecritic.org/companiesatoz/Bellw.aspx,Biotta AG,14,93
+646,http://www.corporatecritic.org/companiesatoz/S.aspx,Saputo Inc,???,-1
+647,http://www.corporatecritic.org/companiesatoz/Group.aspx,Grupo Noboa S.A.,14,93
+648,http://www.corporatecritic.org/companiesatoz/Flowf.aspx,Frescolat SRL,???,-1
+649,http://www.corporatecritic.org/companiesatoz/M.aspx,Marc Laurent SA,14,93
+650,http://www.corporatecritic.org/companiesatoz/Caurn.aspx,Chocolaterie Guylian Nv,5,33
+651,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,Ethex Investment Club Ltd,???,-1
+652,http://www.corporatecritic.org/companiesatoz/F.aspx,First Foods,14,93
+653,http://www.corporatecritic.org/companiesatoz/A.aspx,Acorn Dairy,???,-1
+654,http://www.corporatecritic.org/companiesatoz/Bellw.aspx,Blue Diamond Ltd,6,40
+655,http://www.corporatecritic.org/companiesatoz/F.aspx,Ferrero SpA,6.5,43
+656,http://www.corporatecritic.org/companiesatoz/BMK%20H.aspx,Britannia Hotels,14,93
+657,http://www.corporatecritic.org/companiesatoz/V.aspx,Verizon Communications Inc,5,33
+658,http://www.corporatecritic.org/companiesatoz/F.aspx,Fender Musical Instruments Corporation,14,93
+659,http://www.corporatecritic.org/companiesatoz/Skadd.aspx,Southern Co Inc,13,86
+660,http://www.corporatecritic.org/companiesatoz/Surya.aspx,Swaddlebees,14,93
+661,http://www.corporatecritic.org/companiesatoz/Cream.aspx,Cybex Industrial Ltd,14,93
+662,http://www.corporatecritic.org/companiesatoz/C.aspx,Campbell Soup Co,12,80
+663,http://www.corporatecritic.org/companiesatoz/N.aspx,Neal's Yard (Natural Remedies) Limited,13.5,90
+664,http://www.corporatecritic.org/companiesatoz/Lette.aspx,Lindam Ltd,14,93
+665,http://www.corporatecritic.org/companiesatoz/Surya.aspx,Swatch Group Ltd (The),14,93
+666,http://www.corporatecritic.org/companiesatoz/Hero.aspx,Hoya Corporation,13.5,90
+667,http://www.corporatecritic.org/companiesatoz/Briti.aspx,Broughton Ales,14,93
+668,http://www.corporatecritic.org/companiesatoz/H.aspx,HDI Haftpflichtverband der Deutschen Industrie Versicherungsverein auf Gegenseitigkeit,6,40
+669,http://www.corporatecritic.org/companiesatoz/F.aspx,First Data Corporation,13.5,90
+670,http://www.corporatecritic.org/companiesatoz/G.aspx,GasTerra,6,40
+671,http://www.corporatecritic.org/companiesatoz/Delta.aspx,Diana Dolls Fashion Inc.,14,93
+672,http://www.corporatecritic.org/companiesatoz/Delta.aspx,Dr. August Oetker Kg,2.5,16
+673,http://www.corporatecritic.org/companiesatoz/W.aspx,Weeks Foods Ltd,12.5,83
+674,http://www.corporatecritic.org/companiesatoz/Cream.aspx,CyberLink Corp,???,-1
+675,http://www.corporatecritic.org/companiesatoz/Agnat.aspx,Allianz SE,3.5,23
+676,http://www.corporatecritic.org/companiesatoz/TPG.aspx,Triumph International Spiesshofer & Braun,10,66
+677,http://www.corporatecritic.org/companiesatoz/B.aspx,Belkin International,14,93
+678,http://www.corporatecritic.org/companiesatoz/Agnat.aspx,Allen & Overy LLP,8,53
+679,http://www.corporatecritic.org/companiesatoz/K.aspx,Karabay Limited [Dissolved],14,93
+680,http://www.corporatecritic.org/companiesatoz/AMT%20C.aspx,Armor Group,14,93
+681,http://www.corporatecritic.org/companiesatoz/I.aspx,Investor AB,9.5,63
+682,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,Elysia,14,93
+683,http://www.corporatecritic.org/companiesatoz/Bellw.aspx,Birkenstock Orthopädie GmbH & Co.KG,9,60
+684,http://www.corporatecritic.org/companiesatoz/W.aspx,Welsh Centre for International Affairs,???,-1
+685,http://www.corporatecritic.org/companiesatoz/L.aspx,Lenovo Group Limited,7,46
+686,http://www.corporatecritic.org/companiesatoz/B.aspx,Baby B Free Ltd,14,93
+687,http://www.corporatecritic.org/companiesatoz/Maya.aspx,Metsäliitto Co-operative,14,93
+688,http://www.corporatecritic.org/companiesatoz/O.aspx,OTB SpA,5.5,36
+689,http://www.corporatecritic.org/companiesatoz/Phile.aspx,Plamil Foods Ltd,15,100
+690,http://www.corporatecritic.org/companiesatoz/G.aspx,GCH Capital Ltd,14,93
+691,http://www.corporatecritic.org/companiesatoz/Duali.aspx,Dualit Ltd,9,60
+692,http://www.corporatecritic.org/companiesatoz/W.aspx,Wartsila,14,93
+693,http://www.corporatecritic.org/companiesatoz/Scott.aspx,Serco Group plc,5.5,36
+694,http://www.corporatecritic.org/companiesatoz/W.aspx,Wesfarmers Ltd,5,33
+695,http://www.corporatecritic.org/companiesatoz/A.aspx,Acorn Holdings B.V. (AHBV),6,40
+696,http://www.corporatecritic.org/companiesatoz/The%20C.aspx,The Crown Agents Foundation,???,-1
+697,http://www.corporatecritic.org/companiesatoz/H.aspx,Harman International Industries Inc.,14,93
+698,http://www.corporatecritic.org/companiesatoz/Delta.aspx,Domino's Pizza Group Plc,7,46
+699,http://www.corporatecritic.org/companiesatoz/TPG.aspx,Triballat Noyal,9.5,63
+700,http://www.corporatecritic.org/companiesatoz/W.aspx,WH Brakspear & Sons plc,14,93
+701,http://www.corporatecritic.org/companiesatoz/Phile.aspx,Powell's City of Books,14,93
+702,http://www.corporatecritic.org/companiesatoz/A.aspx,ACDOCO,8.5,56
+703,http://www.corporatecritic.org/companiesatoz/BMK%20H.aspx,Bridgepoint Group Limited,5.5,36
+704,http://www.corporatecritic.org/companiesatoz/T.aspx,Ten Alps PLC,14,93
+705,http://www.corporatecritic.org/companiesatoz/Hero.aspx,Hilco Global,7.5,50
+706,http://www.corporatecritic.org/companiesatoz/L.aspx,Laura Ashley Holdings Plc,14,93
+707,http://www.corporatecritic.org/companiesatoz/T.aspx,Tate & Lyle plc,13,86
+708,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,Esure Group,(5),33
+709,http://www.corporatecritic.org/companiesatoz/Z.aspx,Zweckverband Oberschwabishe Elekrizitatswerke (OEW),14,93
+710,http://www.corporatecritic.org/companiesatoz/M.aspx,Macquarie Group Limited,6,40
+711,http://www.corporatecritic.org/companiesatoz/E.aspx,EQT International Holdings B.V.,???,-1
+712,http://www.corporatecritic.org/companiesatoz/TPG.aspx,Triangle Wholefoods Collective Ltd (t/a Suma Wholefoods),13.5,90
+713,http://www.corporatecritic.org/companiesatoz/W.aspx,Wannabeco LTD,???,-1
+714,http://www.corporatecritic.org/companiesatoz/C.aspx,Castle Dairies Ltd,14,93
+715,http://www.corporatecritic.org/companiesatoz/L.aspx,Leica AG,14,93
+716,http://www.corporatecritic.org/companiesatoz/The%20C.aspx,The Governor and Company of Bank of Ireland,4,26
+717,http://www.corporatecritic.org/companiesatoz/Group.aspx,Groupe Renault,4.5,30
+718,http://www.corporatecritic.org/companiesatoz/N.aspx,NICKYS NURSERY LTD,14,93
+719,http://www.corporatecritic.org/companiesatoz/BMK%20H.aspx,Brintons Ltd,14,93
+720,http://www.corporatecritic.org/companiesatoz/Briti.aspx,Brown-Forman Corporation,13.5,90
+721,http://www.corporatecritic.org/companiesatoz/Murph.aspx,Musgrave Group,14,93
+722,http://www.corporatecritic.org/companiesatoz/Delta.aspx,Doro AB,8.5,56
+723,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,Essential Care (Organics) Ltd,14.5,96
+724,http://www.corporatecritic.org/companiesatoz/F.aspx,Filsol Solar Ltd,14,93
+725,http://www.corporatecritic.org/companiesatoz/E.aspx,Eco Vegan Shoes International BV,???,-1
+726,http://www.corporatecritic.org/companiesatoz/N.aspx,Nadian Pty Ltd,14,93
+727,http://www.corporatecritic.org/companiesatoz/R.aspx,Reckitt Benckiser Group PLC,4.5,30
+728,http://www.corporatecritic.org/companiesatoz/Caurn.aspx,China National Foreign Trade Transportation Corporation,(14),93
+729,http://www.corporatecritic.org/companiesatoz/S.aspx,Saker Vegetarian Foods Ltd,14,93
+730,http://www.corporatecritic.org/companiesatoz/Whitt.aspx,Woolworths Group Plc (Historical Company),14,93
+731,http://www.corporatecritic.org/companiesatoz/G.aspx,G-Star RAW C.V.,8.5,56
+732,http://www.corporatecritic.org/companiesatoz/M.aspx,Market Harborough Building Society,14,93
+733,http://www.corporatecritic.org/companiesatoz/K.aspx,Karbon Kinetics Ltd,???,-1
+734,http://www.corporatecritic.org/companiesatoz/Q.aspx,Q River Ltd,???,-1
+735,http://www.corporatecritic.org/companiesatoz/B.aspx,Bechtel Group Inc,14,93
+736,http://www.corporatecritic.org/companiesatoz/Clove.aspx,Colgate-Palmolive Co,4,26
+737,http://www.corporatecritic.org/companiesatoz/123.aspx,[OLD] Alexon Group Plc,13,86
+738,http://www.corporatecritic.org/companiesatoz/The%20C.aspx,The Fair Trade Spirits Company,14,93
+739,http://www.corporatecritic.org/companiesatoz/O.aspx,Olympus Corporation,5.5,36
+740,http://www.corporatecritic.org/companiesatoz/Lette.aspx,Life Insurance Corporation of India,6,40
+741,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,EE Wholesale UK,15,100
+742,http://www.corporatecritic.org/companiesatoz/L.aspx,La Société de participation Guyan,???,-1
+743,http://www.corporatecritic.org/companiesatoz/Mio%20T.aspx,Mothercare plc,13,86
+744,http://www.corporatecritic.org/companiesatoz/P.aspx,Patagonia Works,12,80
+745,http://www.corporatecritic.org/companiesatoz/N.aspx,Nichols plc,8.5,56
+746,http://www.corporatecritic.org/companiesatoz/K.aspx,Korg Inc,14,93
+747,http://www.corporatecritic.org/companiesatoz/Specs.aspx,"STEM Academia, TOO",???,-1
+748,http://www.corporatecritic.org/companiesatoz/Phile.aspx,PLB Group,14,93
+749,http://www.corporatecritic.org/companiesatoz/Whitt.aspx,WOOSH BIKES LTD,???,-1
+750,http://www.corporatecritic.org/companiesatoz/Europ.aspx,ExxonMobil Corporation,5.5,36
+751,http://www.corporatecritic.org/companiesatoz/Agnat.aspx,Alder Tree Ltd,12,80
+752,http://www.corporatecritic.org/companiesatoz/Maya.aspx,Metro Bank Plc,12.5,83
+753,http://www.corporatecritic.org/companiesatoz/AMT%20C.aspx,Apeejay Surrendra Group,12,80
+754,http://www.corporatecritic.org/companiesatoz/Bellw.aspx,Benevo Foods,15,100
+755,http://www.corporatecritic.org/companiesatoz/Scott.aspx,September Organic Dairy,14,93
+756,http://www.corporatecritic.org/companiesatoz/M.aspx,Massey Energy Company,14,93
+757,http://www.corporatecritic.org/companiesatoz/Fung%20.aspx,Fung Group,(5),33
+758,http://www.corporatecritic.org/companiesatoz/Lette.aspx,Lollipop Childrens Products Ltd,14,93
+759,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,Emmaljunga AB,14,93
+760,http://www.corporatecritic.org/companiesatoz/M.aspx,Mastercard Incorporated,14,93
+761,http://www.corporatecritic.org/companiesatoz/A.aspx,ABN AMRO Holding NV,(14),93
+762,http://www.corporatecritic.org/companiesatoz/Vivar.aspx,VNG (Verbundnetz Gaz) AG,14,93
+763,http://www.corporatecritic.org/companiesatoz/RISO%20.aspx,Robert Saunders (Chigwell) Ltd,14,93
+764,http://www.corporatecritic.org/companiesatoz/Bellw.aspx,Bibico,9,60
+765,http://www.corporatecritic.org/companiesatoz/Clove.aspx,"Cp7 Pet Food Investment, L.P.",???,-1
+766,http://www.corporatecritic.org/companiesatoz/D.aspx,D & G SRL,13,86
+767,http://www.corporatecritic.org/companiesatoz/Londo.aspx,LSE Retail Group LTD,???,-1
+768,http://www.corporatecritic.org/companiesatoz/U.aspx,Unternehmensgruppe Theo Müller,7.5,50
+769,http://www.corporatecritic.org/companiesatoz/F.aspx,Fairtrade Warehouse,14,93
+770,http://www.corporatecritic.org/companiesatoz/C.aspx,Carrs Milling Industries,14,93
+771,http://www.corporatecritic.org/companiesatoz/S.aspx,Samuel Smith Old Brewery (Tadcaster) Ltd,12,80
+772,http://www.corporatecritic.org/companiesatoz/C.aspx,Carlson Companies Inc,14,93
+773,http://www.corporatecritic.org/companiesatoz/F.aspx,First Grade International Ltd,11.5,76
+774,http://www.corporatecritic.org/companiesatoz/Londo.aspx,Lukas Meindl GmbH & Co.,8,53
+775,http://www.corporatecritic.org/companiesatoz/L.aspx,Lazard LLC,14,93
+776,http://www.corporatecritic.org/companiesatoz/Huit%20.aspx,Hyun Won Inc.,14,93
+777,http://www.corporatecritic.org/companiesatoz/Hero.aspx,Hubaco Ltd,14,93
+778,http://www.corporatecritic.org/companiesatoz/H.aspx,Haci Omer Sabanci Holding AS,14,93
+779,http://www.corporatecritic.org/companiesatoz/RISO%20.aspx,Roland Corporation,14,93
+780,http://www.corporatecritic.org/companiesatoz/Glen%20.aspx,Goodlife Foods Ltd,13,86
+781,http://www.corporatecritic.org/companiesatoz/Whitt.aspx,WPP plc,8.5,56
+782,http://www.corporatecritic.org/companiesatoz/Briti.aspx,British Land Company plc,13.5,90
+783,http://www.corporatecritic.org/companiesatoz/Mio%20T.aspx,Modern Times Ltd,???,-1
+784,http://www.corporatecritic.org/companiesatoz/IT'S%20.aspx,IT'S ONLY NATURAL LIMITED,12,80
+785,http://www.corporatecritic.org/companiesatoz/T.aspx,Talktalk Telecom Group PLC,7,46
+786,http://www.corporatecritic.org/companiesatoz/L.aspx,L'Equip Inc,14,93
+787,http://www.corporatecritic.org/companiesatoz/Hero.aspx,Hero cycles Ltd,???,-1
+788,http://www.corporatecritic.org/companiesatoz/Caurn.aspx,Chadwick family,11.5,76
+789,http://www.corporatecritic.org/companiesatoz/Maya.aspx,Melco Holdings Inc,14,93
+790,http://www.corporatecritic.org/companiesatoz/J.aspx,JP Morgan Chase & Company,6,40
+791,http://www.corporatecritic.org/companiesatoz/Scott.aspx,Severn Delta Ltd,14,93
+792,http://www.corporatecritic.org/companiesatoz/T.aspx,Telecom plus plc,12,80
+793,http://www.corporatecritic.org/companiesatoz/I.aspx,Inter Parfums Inc,11,73
+794,http://www.corporatecritic.org/companiesatoz/Price.aspx,Puig SL,7.5,50
+795,http://www.corporatecritic.org/companiesatoz/Flowf.aspx,Fresh Del Monte Produce Inc,5.5,36
+796,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,"Engaged Capital, LLC",???,-1
+797,http://www.corporatecritic.org/companiesatoz/Duali.aspx,DynCorp International Inc,11,73
+798,http://www.corporatecritic.org/companiesatoz/Asda%20.aspx,Assicurazioni Generali spa,(13),86
+799,http://www.corporatecritic.org/companiesatoz/Bellw.aspx,Bills Stores Topco Limited,???,-1
+800,http://www.corporatecritic.org/companiesatoz/Mio%20T.aspx,Mitiska nv,14,93
+801,http://www.corporatecritic.org/companiesatoz/Mio%20T.aspx,Montezuma's Direct Ltd,(9),60
+802,http://www.corporatecritic.org/companiesatoz/Agnat.aspx,Alticor Inc.,12.5,83
+803,http://www.corporatecritic.org/companiesatoz/Skadd.aspx,Skagen Holdings Limited,???,-1
+804,http://www.corporatecritic.org/companiesatoz/M.aspx,Massimo Zanetti Industries SA,9.5,63
+805,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,Ecozone (UK) Ltd,13.5,90
+806,http://www.corporatecritic.org/companiesatoz/R.aspx,Ralph Lauren Corporation,(5),33
+807,http://www.corporatecritic.org/companiesatoz/P.aspx,Petroleo Brasileiro SA - Petrobras,(11),73
+808,http://www.corporatecritic.org/companiesatoz/B.aspx,Barnes & Noble Inc,8,53
+809,http://www.corporatecritic.org/companiesatoz/BMK%20H.aspx,Brewin Dolphin Holdings plc,14,93
+810,http://www.corporatecritic.org/companiesatoz/U.aspx,U and I Group PLC,???,-1
+811,http://www.corporatecritic.org/companiesatoz/O.aspx,OrganiCup Aps,???,-1
+812,http://www.corporatecritic.org/companiesatoz/F.aspx,F Duerr & Sons Ltd,14,93
+813,http://www.corporatecritic.org/companiesatoz/L.aspx,Lastar Inc,14,93
+814,http://www.corporatecritic.org/companiesatoz/Vivar.aspx,VP Elmarso Ltd,???,-1
+815,http://www.corporatecritic.org/companiesatoz/The%20C.aspx,The Fine Cheese Co,14,93
+816,http://www.corporatecritic.org/companiesatoz/F.aspx,Faith in Nature Ltd,13,86
+817,http://www.corporatecritic.org/companiesatoz/E.aspx,Eltax A/S,14,93
+818,http://www.corporatecritic.org/companiesatoz/Clove.aspx,Compass Group plc,11.5,76
+819,http://www.corporatecritic.org/companiesatoz/P.aspx,Pace-e-Solutions,14,93
+820,http://www.corporatecritic.org/companiesatoz/123.aspx,3G Capital Inc,10,66
+821,http://www.corporatecritic.org/companiesatoz/T.aspx,Ted Baker Plc,14,93
+822,http://www.corporatecritic.org/companiesatoz/I.aspx,Iberdrola S.A.,9,60
+823,http://www.corporatecritic.org/companiesatoz/E.aspx,Ecotoys Srl,14,93
+824,http://www.corporatecritic.org/companiesatoz/Agnat.aspx,AgroFair Europe,(13.5),90
+825,http://www.corporatecritic.org/companiesatoz/R.aspx,Ragione sapa di Gilberto Benetton,14,93
+826,http://www.corporatecritic.org/companiesatoz/N.aspx,Nikon Corporation,(5.5),36
+827,http://www.corporatecritic.org/companiesatoz/I.aspx,IntegrIT Systems Ltd,12,80
+828,http://www.corporatecritic.org/companiesatoz/M.aspx,Mackies Ltd,8,53
+829,http://www.corporatecritic.org/companiesatoz/TPG.aspx,TPV Technology,7.5,50
+830,http://www.corporatecritic.org/companiesatoz/W.aspx,Wacoal Holdings Corp,7.5,50
+831,http://www.corporatecritic.org/companiesatoz/S.aspx,Saga PLC,(???),-1
+832,http://www.corporatecritic.org/companiesatoz/Londo.aspx,Luscombe Drinks Ltd (previously Luscombe Cider Ltd),15,100
+833,http://www.corporatecritic.org/companiesatoz/Ninte.aspx,Nokia Oyj,13.5,90
+834,http://www.corporatecritic.org/companiesatoz/I.aspx,Industry Exchange Ltd (The),14,93
+835,http://www.corporatecritic.org/companiesatoz/The%20C.aspx,The People's Operator plc,14,93
+836,http://www.corporatecritic.org/companiesatoz/Londo.aspx,Lynwood Investments CY Ltd,???,-1
+837,http://www.corporatecritic.org/companiesatoz/E.aspx,Energizer Holdings,8,53
+838,http://www.corporatecritic.org/companiesatoz/B.aspx,Bed Bath & Beyond,13,86
+839,http://www.corporatecritic.org/companiesatoz/A.aspx,Adobe Systems Incorporated,7.5,50
+840,http://www.corporatecritic.org/companiesatoz/K.aspx,Kosnic (UK) Ltd,14,93
+841,http://www.corporatecritic.org/companiesatoz/S.aspx,Sandberg AS,14,93
+842,http://www.corporatecritic.org/companiesatoz/S.aspx,SanDisk Corporation,14,93
+843,http://www.corporatecritic.org/companiesatoz/E.aspx,Eoltec,14,93
+844,http://www.corporatecritic.org/companiesatoz/Y.aspx,Yorkshire Building Society,13.5,90
+845,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,Elco Holdings,14,93
+846,http://www.corporatecritic.org/companiesatoz/Mio%20T.aspx,Mouses Favourite,???,-1
+847,http://www.corporatecritic.org/companiesatoz/Briti.aspx,Bronwyn Lowenthal,9.5,63
+848,http://www.corporatecritic.org/companiesatoz/N.aspx,Natural Organic Soap Company,14,93
+849,http://www.corporatecritic.org/companiesatoz/C.aspx,Caradon Ideal Ltd,14,93
+850,http://www.corporatecritic.org/companiesatoz/Clove.aspx,"Coca-Cola Company, The",1.5,10
+851,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,Europa Pet Foods Ltd,14,93
+852,http://www.corporatecritic.org/companiesatoz/Hero.aspx,Holz Toys Ltd,14,93
+853,http://www.corporatecritic.org/companiesatoz/Phile.aspx,Potts Partnership Limited,14,93
+854,http://www.corporatecritic.org/companiesatoz/S.aspx,Saratoga Limited,13,86
+855,http://www.corporatecritic.org/companiesatoz/Skadd.aspx,Source Sustainable Supply Chains Ltd,15,100
+856,http://www.corporatecritic.org/companiesatoz/The%20W.aspx,TomTom N.V.,14,93
+857,http://www.corporatecritic.org/companiesatoz/Clove.aspx,Community Foods (Holdings) Ltd,(14),93
+858,http://www.corporatecritic.org/companiesatoz/V.aspx,ViewSonic Corporation,14,93
+859,http://www.corporatecritic.org/companiesatoz/L.aspx,Lenox GmbH,12,80
+860,http://www.corporatecritic.org/companiesatoz/The%20W.aspx,Tomy Co Ltd,14,93
+861,http://www.corporatecritic.org/companiesatoz/O.aspx,Online Commerce Ltd,14,93
+862,http://www.corporatecritic.org/companiesatoz/E.aspx,European Metal Recycling Ltd,14,93
+863,http://www.corporatecritic.org/companiesatoz/Delta.aspx,Deuter Sport GmbH,(11.5),76
+864,http://www.corporatecritic.org/companiesatoz/Bellw.aspx,Bholdings Limited,13,86
+865,http://www.corporatecritic.org/companiesatoz/H.aspx,Henkel AG & Co. KGaA,6.5,43
+866,http://www.corporatecritic.org/companiesatoz/J.aspx,Jarvis Hotels,14,93
+867,http://www.corporatecritic.org/companiesatoz/G.aspx,G.R. Lane Holdings Ltd,9,60
+868,http://www.corporatecritic.org/companiesatoz/Flowf.aspx,Freehold Group,14,93
+869,http://www.corporatecritic.org/companiesatoz/G.aspx,G4S plc,(6),40
+870,http://www.corporatecritic.org/companiesatoz/Whitt.aspx,Wiggly Wigglers Ltd,14,93
+871,http://www.corporatecritic.org/companiesatoz/AMT%20C.aspx,Arion Banki Hf,(14),93
+872,http://www.corporatecritic.org/companiesatoz/Glen%20.aspx,Greenfield Group Ltd,14,93
+873,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,Evesham Technology Holdings Ltd,14,93
+874,http://www.corporatecritic.org/companiesatoz/Duali.aspx,Dulia family,???,-1
+875,http://www.corporatecritic.org/companiesatoz/Specs.aspx,Star Micronics Co Ltd,14,93
+876,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,Efad Holding,14,93
+877,http://www.corporatecritic.org/companiesatoz/The%20C.aspx,The Littleover Group,12,80
+878,http://www.corporatecritic.org/companiesatoz/Skadd.aspx,Solar Twin,14,93
+879,http://www.corporatecritic.org/companiesatoz/H.aspx,Hamsin Ltd,14,93
+880,http://www.corporatecritic.org/companiesatoz/M.aspx,Malayan United Industries Berhad,14,93
+881,http://www.corporatecritic.org/companiesatoz/E.aspx,Elizabeth Shaw Ltd,(13),86
+882,http://www.corporatecritic.org/companiesatoz/Flowf.aspx,"Fuller, Smith & Turner plc",6,40
+883,http://www.corporatecritic.org/companiesatoz/Maya.aspx,Medela AG,14,93
+884,http://www.corporatecritic.org/companiesatoz/U.aspx,Unicus Regulatory Services Ltd,14,93
+885,http://www.corporatecritic.org/companiesatoz/Flowf.aspx,Flowflex Components Ltd,14,93
+886,http://www.corporatecritic.org/companiesatoz/Ninte.aspx,NOVATEX GmbH Gummi- und Plastikfabrikation,14,93
+887,http://www.corporatecritic.org/companiesatoz/AMT%20C.aspx,Areva Group,(9),60
+888,http://www.corporatecritic.org/companiesatoz/Murph.aspx,Murphy Oil Corporation,14,93
+889,http://www.corporatecritic.org/companiesatoz/Specs.aspx,Specsavers International Healthcare Ltd,10.5,70
+890,http://www.corporatecritic.org/companiesatoz/Whitt.aspx,Wilkinet,14,93
+891,http://www.corporatecritic.org/companiesatoz/Mio%20T.aspx,Mooncup Employee Ownership Employee Trustee Limited,14.5,96
+892,http://www.corporatecritic.org/companiesatoz/P.aspx,Paypal,9.5,63
+893,http://www.corporatecritic.org/companiesatoz/W.aspx,Whirlpool Corp,5.5,36
+894,http://www.corporatecritic.org/companiesatoz/Clove.aspx,Combined Systems Inc,12,80
+895,http://www.corporatecritic.org/companiesatoz/Delta.aspx,delta pronatura Dr. Krauss & Dr. Beckmann KG,8.5,56
+896,http://www.corporatecritic.org/companiesatoz/O.aspx,O'Neill Inc,14,93
+897,http://www.corporatecritic.org/companiesatoz/J.aspx,Judges Choice Pet Food Ltd,14,93
+898,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,Earthmonk,???,-1
+899,http://www.corporatecritic.org/companiesatoz/T.aspx,The Bridge SRL,13.5,90
+900,http://www.corporatecritic.org/companiesatoz/V.aspx,VBites Foods Ltd,(13.5),90
+901,http://www.corporatecritic.org/companiesatoz/RISO%20.aspx,Roche Holding AG,13.5,90
+902,http://www.corporatecritic.org/companiesatoz/Asda%20.aspx,Axminster Carpets Holdings Ltd,14,93
+903,http://www.corporatecritic.org/companiesatoz/BMK%20H.aspx,Britannia Building Society,7,46
+904,http://www.corporatecritic.org/companiesatoz/Clove.aspx,Cotton Babies Inc,11,73
+905,http://www.corporatecritic.org/companiesatoz/Bellw.aspx,Billabong International Ltd,13.5,90
+906,http://www.corporatecritic.org/companiesatoz/Delta.aspx,Dorel Industries Inc,6.5,43
+907,http://www.corporatecritic.org/companiesatoz/Lette.aspx,Livos Pflanzenchemie GmbH und Co. KG,11.5,76
+908,http://www.corporatecritic.org/companiesatoz/Whitt.aspx,Wilkin & Sons Ltd,12,80
+909,http://www.corporatecritic.org/companiesatoz/L.aspx,Leeds Building Society,14,93
+910,http://www.corporatecritic.org/companiesatoz/The%20C.aspx,The Conscious Consumer Ltd,???,-1
+911,http://www.corporatecritic.org/companiesatoz/R.aspx,Rally Design Ltd,???,-1
+912,http://www.corporatecritic.org/companiesatoz/N.aspx,National Trust,5.5,36
+913,http://www.corporatecritic.org/companiesatoz/Flowf.aspx,Foundation for a Just Society Inc,???,-1
+914,http://www.corporatecritic.org/companiesatoz/Londo.aspx,Love Coffee,8,53
+915,http://www.corporatecritic.org/companiesatoz/AMT%20C.aspx,Animal Abuse Injustice and Defence Society,14.5,96
+916,http://www.corporatecritic.org/companiesatoz/S.aspx,Sätila Holding AB,14,93
+917,http://www.corporatecritic.org/companiesatoz/Phile.aspx,Pirean Limited,14,93
+918,http://www.corporatecritic.org/companiesatoz/G.aspx,Garmin Ltd,14,93
+919,http://www.corporatecritic.org/companiesatoz/Hero.aspx,Hilltop Honey Limited,???,-1
+920,http://www.corporatecritic.org/companiesatoz/Price.aspx,Professional Cycle Marketing Ltd,14,93
+921,http://www.corporatecritic.org/companiesatoz/I.aspx,Impact Telecom,13,86
+922,http://www.corporatecritic.org/companiesatoz/O.aspx,Ocean Spray Cranberries Inc,11,73
+923,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,European Metal Recycling Ltd,14,93
+924,http://www.corporatecritic.org/companiesatoz/E.aspx,EMC Corporation,5.5,36
+925,http://www.corporatecritic.org/companiesatoz/E.aspx,East End Foods,(9.5),63
+926,http://www.corporatecritic.org/companiesatoz/Z.aspx,ZTE Corporation,6.5,43
+927,http://www.corporatecritic.org/companiesatoz/Phile.aspx,Planet Organic Ltd,???,-1
+928,http://www.corporatecritic.org/companiesatoz/Surya.aspx,Svenska Cellulosa Aktiebolaget (SCA),(9),60
+929,http://www.corporatecritic.org/companiesatoz/Price.aspx,PVH Corp,5,33
+930,http://www.corporatecritic.org/companiesatoz/The%20W.aspx,The Wonderful Company LLC,8.5,56
+931,http://www.corporatecritic.org/companiesatoz/F.aspx,Farrington Oils Ltd,13.5,90
+932,http://www.corporatecritic.org/companiesatoz/TPG.aspx,Trafficmaster PLC,14,93
+933,http://www.corporatecritic.org/companiesatoz/H.aspx,Havre Global Ab,14,93
+934,http://www.corporatecritic.org/companiesatoz/J.aspx,Jelly Belly Candy Co,14,93
+935,http://www.corporatecritic.org/companiesatoz/E.aspx,Edwin Tucker & Sons Ltd,8.5,56
+936,http://www.corporatecritic.org/companiesatoz/Whitt.aspx,Woodlands Park Dairy,14,93
+937,http://www.corporatecritic.org/companiesatoz/J.aspx,Jekka's Herb Farm,14,93
+938,http://www.corporatecritic.org/companiesatoz/Specs.aspx,Spectrum Brands Holdings Inc,(4.5),30
+939,http://www.corporatecritic.org/companiesatoz/T.aspx,"TA Associates, Inc",11,73
+940,http://www.corporatecritic.org/companiesatoz/Scott.aspx,Seabrook Group Ltd,14,93
+941,http://www.corporatecritic.org/companiesatoz/Specs.aspx,Staples Inc,13,86
+942,http://www.corporatecritic.org/companiesatoz/M.aspx,Maxingvest ag,11,73
+943,http://www.corporatecritic.org/companiesatoz/S.aspx,SAIC Motor Corporation Limited,6.5,43
+944,http://www.corporatecritic.org/companiesatoz/Hero.aspx,Hony Capital,9.5,63
+945,http://www.corporatecritic.org/companiesatoz/Londo.aspx,London Overground,8.5,56
+946,http://www.corporatecritic.org/companiesatoz/O.aspx,OLD: American Apparel Inc- see Gildan Activewear SRL,13.5,90
+947,http://www.corporatecritic.org/companiesatoz/RISO%20.aspx,Rizopia Food Products Inc,14,93
+948,http://www.corporatecritic.org/companiesatoz/T.aspx,The Balmore Trust,???,-1
+949,http://www.corporatecritic.org/companiesatoz/I.aspx,ICAP,14,93
+950,http://www.corporatecritic.org/companiesatoz/H.aspx,Hampstead Tea & Coffee Co Ltd,15,100
+951,http://www.corporatecritic.org/companiesatoz/KPMG%20.aspx,Kwikfold Bikes Ltd,???,-1
+952,http://www.corporatecritic.org/companiesatoz/Skadd.aspx,Skechers USA Inc,7.5,50
+953,http://www.corporatecritic.org/companiesatoz/Cream.aspx,Cut Le Crap,???,-1
+954,http://www.corporatecritic.org/companiesatoz/TPG.aspx,Travelscope Holidays Ltd,14,93
+955,http://www.corporatecritic.org/companiesatoz/P.aspx,Pashley Holdings Limited,11,73
+956,http://www.corporatecritic.org/companiesatoz/Phile.aspx,Prestbury Investment Holdings Ltd,14,93
+957,http://www.corporatecritic.org/companiesatoz/Lette.aspx,Lily's Kitchen Ltd,0,0
+958,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,Errea Sport SpA,14,93
+959,http://www.corporatecritic.org/companiesatoz/P.aspx,Paperback,14,93
+960,http://www.corporatecritic.org/companiesatoz/Hero.aspx,Hiscox Ltd,5.5,36
+961,http://www.corporatecritic.org/companiesatoz/Phile.aspx,Phoenix Equity Partners Holdings LLP,14,93
+962,http://www.corporatecritic.org/companiesatoz/Group.aspx,Groupe PSA,(8),53
+963,http://www.corporatecritic.org/companiesatoz/Mio%20T.aspx,Mondragon Co-operative Corporation (MCC),14,93
+964,http://www.corporatecritic.org/companiesatoz/Bellw.aspx,Blackstone Group L.P. (The),5.5,36
+965,http://www.corporatecritic.org/companiesatoz/A.aspx,ageas SA/NV,5,33
+966,http://www.corporatecritic.org/companiesatoz/C.aspx,Caledonia Investments plc,5.5,36
+967,http://www.corporatecritic.org/companiesatoz/Glen%20.aspx,Greencore Group Plc,13.5,90
+968,http://www.corporatecritic.org/companiesatoz/RISO%20.aspx,Rolls-Royce plc,13.5,90
+969,http://www.corporatecritic.org/companiesatoz/Bellw.aspx,BlackBerry Limited,7,46
+970,http://www.corporatecritic.org/companiesatoz/Clove.aspx,Continental Clothing Company Ltd,14,93
+971,http://www.corporatecritic.org/companiesatoz/Clove.aspx,Comvita Limited,???,-1
+972,http://www.corporatecritic.org/companiesatoz/P.aspx,Paperpod Ltd,(14),93
+973,http://www.corporatecritic.org/companiesatoz/Group.aspx,Guy Wilmot Consulting (Sole Trader),???,-1
+974,http://www.corporatecritic.org/companiesatoz/Delta.aspx,Deutsche Bank AG,4.5,30
+975,http://www.corporatecritic.org/companiesatoz/Delta.aspx,Dong Ah Ind. Co. Ltd,14,93
+976,http://www.corporatecritic.org/companiesatoz/Bellw.aspx,Blackwell Ltd,12,80
+977,http://www.corporatecritic.org/companiesatoz/Bellw.aspx,Bespoke British Pens Limited,11,73
+978,http://www.corporatecritic.org/companiesatoz/N.aspx,Nationwide Building Society,13,86
+979,http://www.corporatecritic.org/companiesatoz/H.aspx,Healthy Sales Group Limited,11.5,76
+980,http://www.corporatecritic.org/companiesatoz/Ninte.aspx,Nutrafoods,14,93
+981,http://www.corporatecritic.org/companiesatoz/E.aspx,Earth Aid Group Ltd.,???,-1
+982,http://www.corporatecritic.org/companiesatoz/T.aspx,Thales Group,(11),73
+983,http://www.corporatecritic.org/companiesatoz/G.aspx,General Electric Company Inc,5,33
+984,http://www.corporatecritic.org/companiesatoz/RISO%20.aspx,Robertson Foundation,???,-1
+985,http://www.corporatecritic.org/companiesatoz/The%20C.aspx,The Edinburgh Woollen Mill (Group) Ltd,14,93
+986,http://www.corporatecritic.org/companiesatoz/R.aspx,Ravensburger AG,14,93
+987,http://www.corporatecritic.org/companiesatoz/Cream.aspx,Cut4Cloth Ltd,14,93
+988,http://www.corporatecritic.org/companiesatoz/RISO%20.aspx,Robinson Webster (Holdings) Ltd,14,93
+989,http://www.corporatecritic.org/companiesatoz/Skadd.aspx,Societe Nationale des Chemins de Fer Francais (SNCF),10,66
+990,http://www.corporatecritic.org/companiesatoz/Clove.aspx,Cowon Systems Inc,14,93
+991,http://www.corporatecritic.org/companiesatoz/TPG.aspx,Twin Trading Ltd,14,93
+992,http://www.corporatecritic.org/companiesatoz/K.aspx,Knowledge and Merchandising Inc Ltd,???,-1
+993,http://www.corporatecritic.org/companiesatoz/Vivar.aspx,Vodafone Group plc,8,53
+994,http://www.corporatecritic.org/companiesatoz/Skadd.aspx,Somerfield Group,14,93
+995,http://www.corporatecritic.org/companiesatoz/Phile.aspx,Pipers Crisps Ltd,14,93
+996,http://www.corporatecritic.org/companiesatoz/W.aspx,Western Digital Corp,13.5,90
+997,http://www.corporatecritic.org/companiesatoz/The%20C.aspx,The Little Group,12,80
+998,http://www.corporatecritic.org/companiesatoz/I.aspx,ING Groep NV,6,40
+999,http://www.corporatecritic.org/companiesatoz/Briti.aspx,BUPA (British United Provident Association),14,93
+1000,http://www.corporatecritic.org/companiesatoz/AMT%20C.aspx,Animal Friends Insurance Services Ltd,14,93
+1001,http://www.corporatecritic.org/companiesatoz/E.aspx,Elco Holdings,14,93
+1002,http://www.corporatecritic.org/companiesatoz/Briti.aspx,Burns Pet Nutrition Ltd,9.5,63
+1003,http://www.corporatecritic.org/companiesatoz/E.aspx,easyGroup (UK) Ltd,13.5,90
+1004,http://www.corporatecritic.org/companiesatoz/B.aspx,Bain Capital LLC,10,66
+1005,http://www.corporatecritic.org/companiesatoz/R.aspx,Renewable Energy Holdings Plc,14,93
+1006,http://www.corporatecritic.org/companiesatoz/N.aspx,NearSt,???,-1
+1007,http://www.corporatecritic.org/companiesatoz/H.aspx,Hanwha Group,8.5,56
+1008,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,Equine & Livestock Insurance Co Ltd,5.5,36
+1009,http://www.corporatecritic.org/companiesatoz/Fung%20.aspx,Furniture Village Holdings Ltd.,8.5,56
+1010,http://www.corporatecritic.org/companiesatoz/D.aspx,Dawson & Son (Retail) Ltd,14,93
+1011,http://www.corporatecritic.org/companiesatoz/Y.aspx,Yora Holding BV,14,93
+1012,http://www.corporatecritic.org/companiesatoz/Skadd.aspx,Skye Cooks Ltd,14,93
+1013,http://www.corporatecritic.org/companiesatoz/Caurn.aspx,Charity Bank Ltd,15,100
+1014,http://www.corporatecritic.org/companiesatoz/TPG.aspx,Tribest Corporation,14,93
+1015,http://www.corporatecritic.org/companiesatoz/RISO%20.aspx,RSPB,12.5,83
+1016,http://www.corporatecritic.org/companiesatoz/Glen%20.aspx,Green Baby Co. Ltd.,14,93
+1017,http://www.corporatecritic.org/companiesatoz/Maya.aspx,Meyer International Holding Ltd,10,66
+1018,http://www.corporatecritic.org/companiesatoz/M.aspx,Marston's plc,8,53
+1019,http://www.corporatecritic.org/companiesatoz/Europ.aspx,EW King & Co Ltd,14,93
+1020,http://www.corporatecritic.org/companiesatoz/Specs.aspx,Springdale Group,14,93
+1021,http://www.corporatecritic.org/companiesatoz/K.aspx,Kerry Group plc,7,46
+1022,http://www.corporatecritic.org/companiesatoz/T.aspx,T Choithram & Sons (London) LTD,14,93
+1023,http://www.corporatecritic.org/companiesatoz/Glen%20.aspx,Green Board Games,14,93
+1024,http://www.corporatecritic.org/companiesatoz/Price.aspx,Prudential Plc,3,20
+1025,http://www.corporatecritic.org/companiesatoz/RISO%20.aspx,ROSKILLY'S LIMITED,14,93
+1026,http://www.corporatecritic.org/companiesatoz/Whitt.aspx,Will's Vegan Shoes Ltd,???,-1
+1027,http://www.corporatecritic.org/companiesatoz/Briti.aspx,Burley Design Co-operative,14,93
+1028,http://www.corporatecritic.org/companiesatoz/Ninte.aspx,Nottingham Building Society,14,93
+1029,http://www.corporatecritic.org/companiesatoz/P.aspx,Paulig Ltd,14,93
+1030,http://www.corporatecritic.org/companiesatoz/Agnat.aspx,ALDA CAPITAL LIMITED,12.5,83
+1031,http://www.corporatecritic.org/companiesatoz/AMT%20C.aspx,Arena Online Limited,14,93
+1032,http://www.corporatecritic.org/companiesatoz/F.aspx,Fairypants,???,-1
+1033,http://www.corporatecritic.org/companiesatoz/AMT%20C.aspx,Archer Daniels Midland Company,3.5,23
+1034,http://www.corporatecritic.org/companiesatoz/Londo.aspx,LVMH Moët Hennessy Louis Vuitton SA,3.5,23
+1035,http://www.corporatecritic.org/companiesatoz/R.aspx,Remarkable (Pencils) Ltd,14,93
+1036,http://www.corporatecritic.org/companiesatoz/Skadd.aspx,Smeg SpA,9,60
+1037,http://www.corporatecritic.org/companiesatoz/E.aspx,E&J Gallo Winery,11.5,76
+1038,http://www.corporatecritic.org/companiesatoz/Skadd.aspx,Slack Technologies Inc,???,-1
+1039,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,Everton Football Club,14,93
+1040,http://www.corporatecritic.org/companiesatoz/Whitt.aspx,Wonderworld Products Co Ltd,14,93
+1041,http://www.corporatecritic.org/companiesatoz/Skadd.aspx,Sony Corporation,5.5,36
+1042,http://www.corporatecritic.org/companiesatoz/Phile.aspx,Po-zu,13.5,90
+1043,http://www.corporatecritic.org/companiesatoz/Scott.aspx,Seven Investment Management Ltd,5.5,36
+1044,http://www.corporatecritic.org/companiesatoz/Lette.aspx,Lilly's Eco Clean Ltd,13,86
+1045,http://www.corporatecritic.org/companiesatoz/Whitt.aspx,Windhorse Trading Limited,14,93
+1046,http://www.corporatecritic.org/companiesatoz/123.aspx,856742 Ontario Inc,???,-1
+1047,http://www.corporatecritic.org/companiesatoz/Agnat.aspx,Altaba [F.K.A. Yahoo! Inc],13,86
+1048,http://www.corporatecritic.org/companiesatoz/AMT%20C.aspx,ARC International,14,93
+1049,http://www.corporatecritic.org/companiesatoz/M.aspx,Marsh & McLennan Cos Inc,3.5,23
+1050,http://www.corporatecritic.org/companiesatoz/Flowf.aspx,Frank Roberts & Sons Ltd,11,73
+1051,http://www.corporatecritic.org/companiesatoz/Specs.aspx,Stellar Winery (PTY) Ltd,15,100
+1052,http://www.corporatecritic.org/companiesatoz/O.aspx,Oase Outdoors ApS,14,93
+1053,http://www.corporatecritic.org/companiesatoz/E.aspx,Enamore Ltd,14,93
+1054,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,Enigma Titanium Limited,???,-1
+1055,http://www.corporatecritic.org/companiesatoz/J.aspx,JEMA 1,???,-1
+1056,http://www.corporatecritic.org/companiesatoz/Flowf.aspx,Fortune Brands,14,93
+1057,http://www.corporatecritic.org/companiesatoz/The%20W.aspx,Topco-Tacoba Forestry Consultants,14,93
+1058,http://www.corporatecritic.org/companiesatoz/B.aspx,Barry M Cosmetics Ltd,14,93
+1059,http://www.corporatecritic.org/companiesatoz/X.aspx,Xerox Corporation,14,93
+1060,http://www.corporatecritic.org/companiesatoz/L.aspx,Le Coq Sportif Holding LCSH,14,93
+1061,http://www.corporatecritic.org/companiesatoz/The%20C.aspx,The company of wine people,14,93
+1062,http://www.corporatecritic.org/companiesatoz/Asda%20.aspx,Avalon Vineyard,14,93
+1063,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,Estée Lauder Companies Inc,5.5,36
+1064,http://www.corporatecritic.org/companiesatoz/Skadd.aspx,Solarcentury,9.5,63
+1065,http://www.corporatecritic.org/companiesatoz/Caurn.aspx,Citigroup Inc,3,20
+1066,http://www.corporatecritic.org/companiesatoz/Briti.aspx,Brothers Brewing Company Ltd,14,93
+1067,http://www.corporatecritic.org/companiesatoz/K.aspx,Kenana Knitters,14,93
+1068,http://www.corporatecritic.org/companiesatoz/Caurn.aspx,Cisco Systems Inc,7,46
+1069,http://www.corporatecritic.org/companiesatoz/BMK%20H.aspx,Braham & Murray Ltd,13.5,90
+1070,http://www.corporatecritic.org/companiesatoz/Phile.aspx,Prestat Ltd,14,93
+1071,http://www.corporatecritic.org/companiesatoz/E.aspx,ENI SpA,4,26
+1072,http://www.corporatecritic.org/companiesatoz/Cream.aspx,Creative Technology Ltd,14,93
+1073,http://www.corporatecritic.org/companiesatoz/Cream.aspx,Cumberland Building Society,13.5,90
+1074,http://www.corporatecritic.org/companiesatoz/L.aspx,Leonard Green & Partners,13.5,90
+1075,http://www.corporatecritic.org/companiesatoz/AMT%20C.aspx,AMT Coffee Ltd.,7.5,50
+1076,http://www.corporatecritic.org/companiesatoz/A.aspx,A. L. Simpkins,14,93
+1077,http://www.corporatecritic.org/companiesatoz/Glen%20.aspx,Greenfibres Ltd,14.5,96
+1078,http://www.corporatecritic.org/companiesatoz/The%20W.aspx,Thornberg Investments Management Inc,14,93
+1079,http://www.corporatecritic.org/companiesatoz/Caurn.aspx,Chelsea Building Society,13.5,90
+1080,http://www.corporatecritic.org/companiesatoz/Londo.aspx,Lydian Capital Partners L P,14,93
+1081,http://www.corporatecritic.org/companiesatoz/The%20W.aspx,THTC CLOTHING LIMITED,13.5,90
+1082,http://www.corporatecritic.org/companiesatoz/V.aspx,Vega Nutritionals Ltd,14,93
+1083,http://www.corporatecritic.org/companiesatoz/Agnat.aspx,Air France-KLM Group,14,93
+1084,http://www.corporatecritic.org/companiesatoz/Cream.aspx,Crosslee Holdings,11,73
+1085,http://www.corporatecritic.org/companiesatoz/V.aspx,Vega Corporation Ltd,14,93
+1086,http://www.corporatecritic.org/companiesatoz/Mio%20T.aspx,Motherease Inc,14,93
+1087,http://www.corporatecritic.org/companiesatoz/N.aspx,"National Grape Co-operative Association, Inc",???,-1
+1088,http://www.corporatecritic.org/companiesatoz/Agnat.aspx,Alpha ApS,14,93
+1089,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,Edizione Srl,14,93
+1090,http://www.corporatecritic.org/companiesatoz/Specs.aspx,Supercover Quilty Group Ltd,14,93
+1091,http://www.corporatecritic.org/companiesatoz/V.aspx,Varma Trust,???,-1
+1092,http://www.corporatecritic.org/companiesatoz/N.aspx,Neonlite Electronic and Lighting (HK) Ltd,10,66
+1093,http://www.corporatecritic.org/companiesatoz/L.aspx,Laltex & Co Ltd,14,93
+1094,http://www.corporatecritic.org/companiesatoz/AMT%20C.aspx,Antofagasta plc,13.5,90
+1095,http://www.corporatecritic.org/companiesatoz/T.aspx,Tamilnadu Industrial Development Corporation Limited,14,93
+1096,http://www.corporatecritic.org/companiesatoz/Y.aspx,Yakit Rakit Ltd (The),12.5,83
+1097,http://www.corporatecritic.org/companiesatoz/J.aspx,Jumping Frog,14,93
+1098,http://www.corporatecritic.org/companiesatoz/T.aspx,Target Corporation,11.5,76
+1099,http://www.corporatecritic.org/companiesatoz/K.aspx,Kellogg Company,3.5,23
+1100,http://www.corporatecritic.org/companiesatoz/Agnat.aspx,AMR Corp,12,80
+1101,http://www.corporatecritic.org/companiesatoz/H.aspx,H&R Block,14,93
+1102,http://www.corporatecritic.org/companiesatoz/Briti.aspx,Britvic Plc,12,80
+1103,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,Essential Trading Co-operative Ltd,13,86
+1104,http://www.corporatecritic.org/companiesatoz/Clove.aspx,Cottontail Co,14,93
+1105,http://www.corporatecritic.org/companiesatoz/Delta.aspx,Diva International Inc,???,-1
+1106,http://www.corporatecritic.org/companiesatoz/A.aspx,Aegon NV,(4.5),30
+1107,http://www.corporatecritic.org/companiesatoz/P.aspx,Perfect Green Toners,14,93
+1108,http://www.corporatecritic.org/companiesatoz/O.aspx,Ocado Group plc,2,13
+1109,http://www.corporatecritic.org/companiesatoz/The%20W.aspx,The White Company,12.5,83
+1110,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,Enterprise Inns plc,14,93
+1111,http://www.corporatecritic.org/companiesatoz/G.aspx,Geomag SA,14,93
+1112,http://www.corporatecritic.org/companiesatoz/Flowf.aspx,Friendly Soap Ltd,???,-1
+1113,http://www.corporatecritic.org/companiesatoz/Caurn.aspx,Cebra,14,93
+1114,http://www.corporatecritic.org/companiesatoz/Lette.aspx,Liebherr-International AG,7,46
+1115,http://www.corporatecritic.org/companiesatoz/T.aspx,TDR Capital LLP,???,-1
+1116,http://www.corporatecritic.org/companiesatoz/Caurn.aspx,CL Financial Group Ltd,14,93
+1117,http://www.corporatecritic.org/companiesatoz/Ninte.aspx,NYK Line (Nippon Yusen Kaisha),14,93
+1118,http://www.corporatecritic.org/companiesatoz/D.aspx,Dart Valley Foods Ltd,14,93
+1119,http://www.corporatecritic.org/companiesatoz/K.aspx,Koch Industries Inc,14,93
+1120,http://www.corporatecritic.org/companiesatoz/Scott.aspx,Sigma Corporation,???,-1
+1121,http://www.corporatecritic.org/companiesatoz/N.aspx,Natural Crisps Ltd,14,93
+1122,http://www.corporatecritic.org/companiesatoz/Lette.aspx,Linklaters LLP,11.5,76
+1123,http://www.corporatecritic.org/companiesatoz/Maya.aspx,Miam Ltd,14,93
+1124,http://www.corporatecritic.org/companiesatoz/Lette.aspx,Lexmark International Group Inc,14,93
+1125,http://www.corporatecritic.org/companiesatoz/J.aspx,Jacobson Group Ltd,8.5,56
+1126,http://www.corporatecritic.org/companiesatoz/E.aspx,Enigma Titanium Limited,???,-1
+1127,http://www.corporatecritic.org/companiesatoz/Hero.aspx,Huawei Investment & Holding Co. Ltd,6.5,43
+1128,http://www.corporatecritic.org/companiesatoz/Maya.aspx,Mercuria Energy Group Limited,10.5,70
+1129,http://www.corporatecritic.org/companiesatoz/A.aspx,Accenture,14,93
+1130,http://www.corporatecritic.org/companiesatoz/Phile.aspx,Prémaxx,14,93
+1131,http://www.corporatecritic.org/companiesatoz/Glen%20.aspx,Goldcorp Inc,12,80
+1132,http://www.corporatecritic.org/companiesatoz/123.aspx,9055-7588 Québec Inc (FKA Bio Spectra),12,80
+1133,http://www.corporatecritic.org/companiesatoz/H.aspx,Harbingers of a New Age,14,93
+1134,http://www.corporatecritic.org/companiesatoz/Mio%20T.aspx,Modibodi Australia Pty Ltd,???,-1
+1135,http://www.corporatecritic.org/companiesatoz/N.aspx,Neutra Health,14,93
+1136,http://www.corporatecritic.org/companiesatoz/Mio%20T.aspx,Mitsubishi Estate Co,(14),93
+1137,http://www.corporatecritic.org/companiesatoz/Skadd.aspx,SMART Technologies Inc,(14),93
+1138,http://www.corporatecritic.org/companiesatoz/O.aspx,Organic Seed & Bean Co Ltd,15,100
+1139,http://www.corporatecritic.org/companiesatoz/C.aspx,Capespan Group Limited,14,93
+1140,http://www.corporatecritic.org/companiesatoz/Mio%20T.aspx,Mio Technology Corporation,14,93
+1141,http://www.corporatecritic.org/companiesatoz/P.aspx,PC Peripherals Ltd,14,93
+1142,http://www.corporatecritic.org/companiesatoz/I.aspx,I Grunwerg Ltd,???,-1
+1143,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,Equop Limited,14,93
+1144,http://www.corporatecritic.org/companiesatoz/K.aspx,Konica Minolta Holdings Inc,14,93
+1145,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,E.ON AG,9,60
+1146,http://www.corporatecritic.org/companiesatoz/The%20C.aspx,The East Coast Group Ltd,14,93
+1147,http://www.corporatecritic.org/companiesatoz/Mio%20T.aspx,Mountain Buggy Ltd,14,93
+1148,http://www.corporatecritic.org/companiesatoz/Lette.aspx,Lindex AB,(14),93
+1149,http://www.corporatecritic.org/companiesatoz/Maya.aspx,Met SpA,14,93
+1150,http://www.corporatecritic.org/companiesatoz/E.aspx,Electra Private Equity Partners Lp,8,53
+1151,http://www.corporatecritic.org/companiesatoz/W.aspx,Wacom Co Ltd,14,93
+1152,http://www.corporatecritic.org/companiesatoz/P.aspx,Pentland Group plc,7,46
+1153,http://www.corporatecritic.org/companiesatoz/Huit%20.aspx,Hull City Association Football Club (Tigers) Ltd,14,93
+1154,http://www.corporatecritic.org/companiesatoz/Vivar.aspx,Volkswagen AG,(3),20
+1155,http://www.corporatecritic.org/companiesatoz/Delta.aspx,Dongbu Group,10,66
+1156,http://www.corporatecritic.org/companiesatoz/The%20C.aspx,The Engage Cloud,???,-1
+1157,http://www.corporatecritic.org/companiesatoz/Price.aspx,Progosa,14,93
+1158,http://www.corporatecritic.org/companiesatoz/A.aspx,AarhusKarlshamn,14,93
+1159,http://www.corporatecritic.org/companiesatoz/S.aspx,SC Johnson & Son Inc,7,46
+1160,http://www.corporatecritic.org/companiesatoz/Mio%20T.aspx,Mitsui Group,12.5,83
+1161,http://www.corporatecritic.org/companiesatoz/B.aspx,Bayerische Motoren Werke AG (BMW),5.5,36
+1162,http://www.corporatecritic.org/companiesatoz/Briti.aspx,Business Post Group,14,93
+1163,http://www.corporatecritic.org/companiesatoz/Scott.aspx,Shiseido Company Limited,8,53
+1164,http://www.corporatecritic.org/companiesatoz/Scott.aspx,Silverfleet Capital Limited,13.5,90
+1165,http://www.corporatecritic.org/companiesatoz/A.aspx,Accell Group,9,60
+1166,http://www.corporatecritic.org/companiesatoz/N.aspx,Nigel's Eco Store Ltd,14,93
+1167,http://www.corporatecritic.org/companiesatoz/Skadd.aspx,soleRebels,13.5,90
+1168,http://www.corporatecritic.org/companiesatoz/F.aspx,Ferrovial SA,13.5,90
+1169,http://www.corporatecritic.org/companiesatoz/Whitt.aspx,World Design and Trade Co Limited,14,93
+1170,http://www.corporatecritic.org/companiesatoz/Ninte.aspx,Nirvana Sugars Ltd,14,93
+1171,http://www.corporatecritic.org/companiesatoz/Maya.aspx,Medina Holdings,11.5,76
+1172,http://www.corporatecritic.org/companiesatoz/S.aspx,Savoir-faire Linux,???,-1
+1173,http://www.corporatecritic.org/companiesatoz/M.aspx,Mattel Inc,12,80
+1174,http://www.corporatecritic.org/companiesatoz/Z.aspx,ZENZEN FOOD LTD,12.5,83
+1175,http://www.corporatecritic.org/companiesatoz/E.aspx,EWE AG,14,93
+1176,http://www.corporatecritic.org/companiesatoz/E.aspx,Efad Holding,14,93
+1177,http://www.corporatecritic.org/companiesatoz/Flowf.aspx,Fresh Trading Limited,4,26
+1178,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,ExxonMobil Corporation,5.5,36
+1179,http://www.corporatecritic.org/companiesatoz/E.aspx,E.ON AG,9,60
+1180,http://www.corporatecritic.org/companiesatoz/O.aspx,Onex Corporation,13.5,90
+1181,http://www.corporatecritic.org/companiesatoz/M.aspx,"Marlin Management Company, LLC",???,-1
+1182,http://www.corporatecritic.org/companiesatoz/Europ.aspx,European Metal Recycling Ltd,14,93
+1183,http://www.corporatecritic.org/companiesatoz/J.aspx,JC Bamford Excavators Ltd,13.5,90
+1184,http://www.corporatecritic.org/companiesatoz/Maya.aspx,"MCJ Co., Ltd.",14,93
+1185,http://www.corporatecritic.org/companiesatoz/BMK%20H.aspx,BMK Handels unt Vertriebs GmbH,14,93
+1186,http://www.corporatecritic.org/companiesatoz/Agnat.aspx,American Electric Power,13,86
+1187,http://www.corporatecritic.org/companiesatoz/N.aspx,Naty AB,8.5,56
+1188,http://www.corporatecritic.org/companiesatoz/V.aspx,Vegeco Ltd,15,100
+1189,http://www.corporatecritic.org/companiesatoz/Specs.aspx,SSE Plc,11,73
+1190,http://www.corporatecritic.org/companiesatoz/Agnat.aspx,Agnaten SE,???,-1
+1191,http://www.corporatecritic.org/companiesatoz/K.aspx,Kerry Co-operative Creameries Limited,14,93
+1192,http://www.corporatecritic.org/companiesatoz/V.aspx,Valley National Gases (VNG),14,93
+1193,http://www.corporatecritic.org/companiesatoz/Agnat.aspx,Altria Group Inc,12.5,83
+1194,http://www.corporatecritic.org/companiesatoz/Agnat.aspx,AMG Group Ltd,9,60
+1195,http://www.corporatecritic.org/companiesatoz/Bellw.aspx,Bio-D Company,14.5,96
+1196,http://www.corporatecritic.org/companiesatoz/A.aspx,Advanced Micro Devices Inc,14,93
+1197,http://www.corporatecritic.org/companiesatoz/K.aspx,Kingfield Heath,14,93
+1198,http://www.corporatecritic.org/companiesatoz/O.aspx,Ontario Teachers' Pension Plan,2.5,16
+1199,http://www.corporatecritic.org/companiesatoz/Flowf.aspx,Foster's Group Ltd,9,60
+1200,http://www.corporatecritic.org/companiesatoz/Delta.aspx,DP Furniture Express Ltd,14,93
+1201,http://www.corporatecritic.org/companiesatoz/D.aspx,David Halsall International Ltd,14,93
+1202,http://www.corporatecritic.org/companiesatoz/Asda%20.aspx,Avis Budget Group,14,93
+1203,http://www.corporatecritic.org/companiesatoz/L.aspx,Lanka Kade (UK) Ltd,14,93
+1204,http://www.corporatecritic.org/companiesatoz/123.aspx,[OLD] Who Made Your Pants?,14,93
+1205,http://www.corporatecritic.org/companiesatoz/E.aspx,Emil Vertriebs-GmbH,14,93
+1206,http://www.corporatecritic.org/companiesatoz/X.aspx,Xcel Energy Inc.,13,86
+1207,http://www.corporatecritic.org/companiesatoz/V.aspx,Visa Inc,13,86
+1208,http://www.corporatecritic.org/companiesatoz/Price.aspx,Proven Engineering Products Ltd,14,93
+1209,http://www.corporatecritic.org/companiesatoz/The%20W.aspx,Theolife,14,93
+1210,http://www.corporatecritic.org/companiesatoz/K.aspx,Koffie F. Rombouts NV,10.5,70
+1211,http://www.corporatecritic.org/companiesatoz/Phile.aspx,Pigeon Corporation,???,-1
+1212,http://www.corporatecritic.org/companiesatoz/Glen%20.aspx,Greggs plc,7.5,50
+1213,http://www.corporatecritic.org/companiesatoz/Caurn.aspx,Cerberus Capital Management,11,73
+1214,http://www.corporatecritic.org/companiesatoz/The%20W.aspx,Tofutti Brands Inc,8,53
+1215,http://www.corporatecritic.org/companiesatoz/TPG.aspx,Trophy International Animal Products (Oxford) Ltd,14,93
+1216,http://www.corporatecritic.org/companiesatoz/Hero.aspx,Hillshire Brands (formerly Sara Lee Corporation),9,60
+1217,http://www.corporatecritic.org/companiesatoz/E.aspx,Enterprise Inns plc,14,93
+1218,http://www.corporatecritic.org/companiesatoz/Flowf.aspx,Formlend Ltd,14,93
+1219,http://www.corporatecritic.org/companiesatoz/L.aspx,L Perlman SECS,9.5,63
+1220,http://www.corporatecritic.org/companiesatoz/Clove.aspx,Computech Limited,14,93
+1221,http://www.corporatecritic.org/companiesatoz/E.aspx,Ecozone (UK) Ltd,13.5,90
+1222,http://www.corporatecritic.org/companiesatoz/K.aspx,Karndean International Limited,14,93
+1223,http://www.corporatecritic.org/companiesatoz/V.aspx,Viessmann Werke GmbH & Co KG,8.5,56
+1224,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,Equinor ASA,(7.5),50
+1225,http://www.corporatecritic.org/companiesatoz/Glen%20.aspx,Global Tea & Commodities Ltd,14,93
+1226,http://www.corporatecritic.org/companiesatoz/B.aspx,Banco de Sabadell S.A.,4.5,30
+1227,http://www.corporatecritic.org/companiesatoz/E.aspx,Everton Football Club,14,93
+1228,http://www.corporatecritic.org/companiesatoz/Caurn.aspx,Chevron Corporation,6.5,43
+1229,http://www.corporatecritic.org/companiesatoz/The%20C.aspx,The Hut Group,14,93
+1230,http://www.corporatecritic.org/companiesatoz/Glen%20.aspx,Good Energy Group Plc,12.5,83
+1231,http://www.corporatecritic.org/companiesatoz/Whitt.aspx,William Jackson Food Group (WJFG),9,60
+1232,http://www.corporatecritic.org/companiesatoz/Specs.aspx,Starbrands (Holdings) Ltd,14,93
+1233,http://www.corporatecritic.org/companiesatoz/Ovo%20E.aspx,Ovo Energy,7,46
+1234,http://www.corporatecritic.org/companiesatoz/C.aspx,"C. I. Union de Bananeros de Uraba, S. A. (Uniban)",14,93
+1235,http://www.corporatecritic.org/companiesatoz/L.aspx,Lego Group,(12.5),83
+1236,http://www.corporatecritic.org/companiesatoz/Delta.aspx,Draper Fisher Jurvetson ePlanet Ventures L.P,14,93
+1237,http://www.corporatecritic.org/companiesatoz/RISO%20.aspx,RusAl (Russian Aluminium),14,93
+1238,http://www.corporatecritic.org/companiesatoz/Price.aspx,Primavera Aromatherapy Limited,14,93
+1239,http://www.corporatecritic.org/companiesatoz/E.aspx,Essential Trading Co-operative Ltd,13,86
+1240,http://www.corporatecritic.org/companiesatoz/BMK%20H.aspx,Booja Booja Co Ltd,(15),100
+1241,http://www.corporatecritic.org/companiesatoz/E.aspx,Equop Limited,14,93
+1242,http://www.corporatecritic.org/companiesatoz/Bellw.aspx,Belvoir Farming Company Limited (previously Belvoir Fruit Farms Ltd),12,80
+1243,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,EQT Corporation,???,-1
+1244,http://www.corporatecritic.org/companiesatoz/E.aspx,Essity Aktiebolag (publ),(???),-1
+1245,http://www.corporatecritic.org/companiesatoz/Scott.aspx,SHS Group Ltd,8.5,56
+1246,http://www.corporatecritic.org/companiesatoz/P.aspx,Pets Choice Ltd,14,93
+1247,http://www.corporatecritic.org/companiesatoz/Whitt.aspx,Wish 4 Fair Trade,14,93
+1248,http://www.corporatecritic.org/companiesatoz/M.aspx,Mark Anthony Brands,14,93
+1249,http://www.corporatecritic.org/companiesatoz/E.aspx,ENGIE,(8.5),56
+1250,http://www.corporatecritic.org/companiesatoz/Phile.aspx,Pirelli SpA,13.5,90
+1251,http://www.corporatecritic.org/companiesatoz/D.aspx,De'Longhi Industrial SA,10,66
+1252,http://www.corporatecritic.org/companiesatoz/C.aspx,Cantor Fitzgerald,14,93
+1253,http://www.corporatecritic.org/companiesatoz/Cream.aspx,"Crocs, Inc",8,53
+1254,http://www.corporatecritic.org/companiesatoz/K.aspx,Klippan AB,14,93
+1255,http://www.corporatecritic.org/companiesatoz/Maya.aspx,MGA Entertainment,14,93
+1256,http://www.corporatecritic.org/companiesatoz/The%20C.aspx,The Cheeky Panda Ltd,???,-1
+1257,http://www.corporatecritic.org/companiesatoz/Asda%20.aspx,AXA Group,9.5,63
+1258,http://www.corporatecritic.org/companiesatoz/Caurn.aspx,Close Parent Ltd,14,93
+1259,http://www.corporatecritic.org/companiesatoz/O.aspx,Oak Hill Capital Partners,9.5,63
+1260,http://www.corporatecritic.org/companiesatoz/Glen%20.aspx,Green Stationery Company,13.5,90
+1261,http://www.corporatecritic.org/companiesatoz/Maya.aspx,Mere Holdings,14,93
+1262,http://www.corporatecritic.org/companiesatoz/B.aspx,"Banco Santander, S.A.",4,26
+1263,http://www.corporatecritic.org/companiesatoz/R.aspx,Raisio Oyj,7.5,50
+1264,http://www.corporatecritic.org/companiesatoz/W.aspx,West Coast Capital,14,93
+1265,http://www.corporatecritic.org/companiesatoz/BMK%20H.aspx,Books On Board,14,93
+1266,http://www.corporatecritic.org/companiesatoz/Agnat.aspx,Amnesty International UK Section Charitable Trust,13,86
+1267,http://www.corporatecritic.org/companiesatoz/Caurn.aspx,Close Brothers Group plc,14,93
+1268,http://www.corporatecritic.org/companiesatoz/Clove.aspx,Constellation Brands Inc.,11.5,76
+1269,http://www.corporatecritic.org/companiesatoz/AMT%20C.aspx,Arriva plc,6,40
+1270,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,ETA Trust,14,93
+1271,http://www.corporatecritic.org/companiesatoz/J.aspx,Jenoptik AG,14,93
+1272,http://www.corporatecritic.org/companiesatoz/Ninte.aspx,"Nord Anglia Education, Inc",12.5,83
+1273,http://www.corporatecritic.org/companiesatoz/Londo.aspx,Ludwig Weinrich GmbH & Co. KG,11,73
+1274,http://www.corporatecritic.org/companiesatoz/Huit%20.aspx,Hyden House Ltd,14,93
+1275,http://www.corporatecritic.org/companiesatoz/L.aspx,Landmark Group Inc,10,66
+1276,http://www.corporatecritic.org/companiesatoz/A.aspx,Abercrombie & Fitch Co,4,26
+1277,http://www.corporatecritic.org/companiesatoz/Scott.aspx,Shanks Group plc,14,93
+1278,http://www.corporatecritic.org/companiesatoz/S.aspx,Salus-Haus Dr.med Otto Greither Nachf. GmbH & Co.KG,12,80
+1279,http://www.corporatecritic.org/companiesatoz/BMK%20H.aspx,Booker Group Plc,1.5,10
+1280,http://www.corporatecritic.org/companiesatoz/V.aspx,Vandemoortele International NV,14,93
+1281,http://www.corporatecritic.org/companiesatoz/S.aspx,Salton Inc,14,93
+1282,http://www.corporatecritic.org/companiesatoz/AMT%20C.aspx,Apax Partners & Co,14,93
+1283,http://www.corporatecritic.org/companiesatoz/A.aspx,A. Vogel AG,11.5,76
+1284,http://www.corporatecritic.org/companiesatoz/O.aspx,Organico Realfoods Limited,13.5,90
+1285,http://www.corporatecritic.org/companiesatoz/I.aspx,Island Bakery Organics Ltd,15,100
+1286,http://www.corporatecritic.org/companiesatoz/Glen%20.aspx,Grant Thornton International,14,93
+1287,http://www.corporatecritic.org/companiesatoz/The%20C.aspx,The Real Seed Collection Ltd,14,93
+1288,http://www.corporatecritic.org/companiesatoz/T.aspx,TCP International Holdings LTD,8.5,56
+1289,http://www.corporatecritic.org/companiesatoz/Maya.aspx,Micron Technology Inc,13.5,90
+1290,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,EH Booth & Co Ltd,3.5,23
+1291,http://www.corporatecritic.org/companiesatoz/Hero.aspx,Hitachi Ltd,5.5,36
+1292,http://www.corporatecritic.org/companiesatoz/O.aspx,Ornua Co-operative Limited,8.5,56
+1293,http://www.corporatecritic.org/companiesatoz/Murph.aspx,Mustek,14,93
+1294,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,ECI Partners LLP,???,-1
+1295,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,Enel SPA,(11.5),76
+1296,http://www.corporatecritic.org/companiesatoz/Price.aspx,Puglisi  Pasta,14,93
+1297,http://www.corporatecritic.org/companiesatoz/S.aspx,SCEA Brard Blanchard,14,93
+1298,http://www.corporatecritic.org/companiesatoz/AMT%20C.aspx,Aquaid (UK) Ltd,14,93
+1299,http://www.corporatecritic.org/companiesatoz/U.aspx,Umax Data Systems,14,93
+1300,http://www.corporatecritic.org/companiesatoz/T.aspx,Thai Beverage Public Company Ltd,14,93
+1301,http://www.corporatecritic.org/companiesatoz/I.aspx,Indela (Initiative for digital rights in Latin America),???,-1
+1302,http://www.corporatecritic.org/companiesatoz/G.aspx,Geobel Ltd,14,93
+1303,http://www.corporatecritic.org/companiesatoz/O.aspx,Old Mutual plc,2.5,16
+1304,http://www.corporatecritic.org/companiesatoz/Fung%20.aspx,FZ Organic Food,(14),93
+1305,http://www.corporatecritic.org/companiesatoz/L.aspx,Legend Holdings Ltd,10,66
+1306,http://www.corporatecritic.org/companiesatoz/J.aspx,J Sainsbury plc,2,13
+1307,http://www.corporatecritic.org/companiesatoz/B.aspx,Barratt Developments plc,13.5,90
+1308,http://www.corporatecritic.org/companiesatoz/TPG.aspx,TVonics Ltd,14,93
+1309,http://www.corporatecritic.org/companiesatoz/M.aspx,Martin McColl Retail Group Ltd,14,93
+1310,http://www.corporatecritic.org/companiesatoz/F.aspx,Falcon Crane Hire Ltd,14,93
+1311,http://www.corporatecritic.org/companiesatoz/Flowf.aspx,Fritz Egger GmBH & Co,14,93
+1312,http://www.corporatecritic.org/companiesatoz/L.aspx,L Brands Inc,4.5,30
+1313,http://www.corporatecritic.org/companiesatoz/E.aspx,eBay Inc,8.5,56
+1314,http://www.corporatecritic.org/companiesatoz/I.aspx,Interaction Connect,14,93
+1315,http://www.corporatecritic.org/companiesatoz/Z.aspx,Zaytoun,14.5,96
+1316,http://www.corporatecritic.org/companiesatoz/M.aspx,Marlec Engineering Co Ltd,14,93
+1317,http://www.corporatecritic.org/companiesatoz/E.aspx,Enel SPA,(11.5),76
+1318,http://www.corporatecritic.org/companiesatoz/Duali.aspx,Dubai Holding,14,93
+1319,http://www.corporatecritic.org/companiesatoz/Specs.aspx,Speymalt Whisky Distributors Ltd,14,93
+1320,http://www.corporatecritic.org/companiesatoz/Delta.aspx,Deutsche Lufthansa AG,14,93
+1321,http://www.corporatecritic.org/companiesatoz/Flowf.aspx,FSP Group,14,93
+1322,http://www.corporatecritic.org/companiesatoz/H.aspx,Hasbro Inc,13,86
+1323,http://www.corporatecritic.org/companiesatoz/Scott.aspx,Sixty SpA,14,93
+1324,http://www.corporatecritic.org/companiesatoz/Vivar.aspx,Vivobarefoot Ltd,(9.5),63
+1325,http://www.corporatecritic.org/companiesatoz/R.aspx,Red Sands Insurance Group,4.5,30
+1326,http://www.corporatecritic.org/companiesatoz/W.aspx,WA Baxter & Sons Ltd,14,93
+1327,http://www.corporatecritic.org/companiesatoz/BMK%20H.aspx,Borders Group Inc,14,93
+1328,http://www.corporatecritic.org/companiesatoz/RISO%20.aspx,Rosedale Aviation Holdings Ltd,14,93
+1329,http://www.corporatecritic.org/companiesatoz/S.aspx,Santa Cruz Natural Incorporated,14,93
+1330,http://www.corporatecritic.org/companiesatoz/Glen%20.aspx,Golden Bear Holdings,14,93
+1331,http://www.corporatecritic.org/companiesatoz/Maya.aspx,Meantime Brewing Co,14,93
+1332,http://www.corporatecritic.org/companiesatoz/P.aspx,Pero (Foods Ltd),12,80
+1333,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,Elizabeth Shaw Ltd,(13),86
+1334,http://www.corporatecritic.org/companiesatoz/P.aspx,Peakon ApS,???,-1
+1335,http://www.corporatecritic.org/companiesatoz/C.aspx,CapVest Ltd,10.5,70
+1336,http://www.corporatecritic.org/companiesatoz/H.aspx,Halfords Group Plc,6.5,43
+1337,http://www.corporatecritic.org/companiesatoz/M.aspx,Mars Inc,2,13
+1338,http://www.corporatecritic.org/companiesatoz/AMT%20C.aspx,"Angelo, Gordon & Co.",8.5,56
+1339,http://www.corporatecritic.org/companiesatoz/AMT%20C.aspx,Artal Group SA,14,93
+1340,http://www.corporatecritic.org/companiesatoz/Surya.aspx,Svenska Handelsbanken AB,(5.5),36
+1341,http://www.corporatecritic.org/companiesatoz/D.aspx,Deckers Outdoor Corporation,(7),46
+1342,http://www.corporatecritic.org/companiesatoz/Delta.aspx,Draper Tool Group,14,93
+1343,http://www.corporatecritic.org/companiesatoz/The%20C.aspx,The Foschini Group Limited,8,53
+1344,http://www.corporatecritic.org/companiesatoz/A.aspx,AG Barr plc,11.5,76
+1345,http://www.corporatecritic.org/companiesatoz/W.aspx,Washington Mutual Inc,14,93
+1346,http://www.corporatecritic.org/companiesatoz/N.aspx,Nairn's Oatcakes Ltd,(11),73
+1347,http://www.corporatecritic.org/companiesatoz/RISO%20.aspx,ROGON Sportmanagement,14,93
+1348,http://www.corporatecritic.org/companiesatoz/Lette.aspx,Living Crafts GmbH & Co. KG,13,86
+1349,http://www.corporatecritic.org/companiesatoz/A.aspx,A & NN Capital Management Fund Ltd,14,93
+1350,http://www.corporatecritic.org/companiesatoz/Asda%20.aspx,Astonish Holdings Ltd,13,86
+1351,http://www.corporatecritic.org/companiesatoz/W.aspx,Wellington Management Group,14,93
+1352,http://www.corporatecritic.org/companiesatoz/IT'S%20.aspx,Itti Bitti Nappy Co Pty,14,93
+1353,http://www.corporatecritic.org/companiesatoz/Hero.aspx,Howies Ltd,11,73
+1354,http://www.corporatecritic.org/companiesatoz/BMK%20H.aspx,Bookeen,9,60
+1355,http://www.corporatecritic.org/companiesatoz/Bellw.aspx,Blackburn Rovers Football Club,14,93
+1356,http://www.corporatecritic.org/companiesatoz/E.aspx,Efergy Ltd,14,93
+1357,http://www.corporatecritic.org/companiesatoz/AMT%20C.aspx,Aon Corporation,14,93
+1358,http://www.corporatecritic.org/companiesatoz/BMK%20H.aspx,Brian Wogan Ltd,14,93
+1359,http://www.corporatecritic.org/companiesatoz/TPG.aspx,Tyrrells Potato Chips Ltd,14,93
+1360,http://www.corporatecritic.org/companiesatoz/Scott.aspx,SEEBECK 115 LIMITED,14,93
+1361,http://www.corporatecritic.org/companiesatoz/Lette.aspx,Liz Claiborne,13,86
+1362,http://www.corporatecritic.org/companiesatoz/Skadd.aspx,Smiths Group plc,13,86
+1363,http://www.corporatecritic.org/companiesatoz/H.aspx,Haier Group,8,53
+1364,http://www.corporatecritic.org/companiesatoz/The%20W.aspx,Thornton & Ross Ltd,7.5,50
+1365,http://www.corporatecritic.org/companiesatoz/Maya.aspx,Mazda Motor Corporation,8,53
+1366,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,Energizer Holdings,8,53
+1367,http://www.corporatecritic.org/companiesatoz/H.aspx,Hempel Foundation,???,-1
+1368,http://www.corporatecritic.org/companiesatoz/E.aspx,Etablissements Charles Nusse,14,93
+1369,http://www.corporatecritic.org/companiesatoz/S.aspx,Safran Group,14,93
+1370,http://www.corporatecritic.org/companiesatoz/T.aspx,Technicolor S.A.,14,93
+1371,http://www.corporatecritic.org/companiesatoz/G.aspx,Gas Natural Group,14,93
+1372,http://www.corporatecritic.org/companiesatoz/Asda%20.aspx,Aurelius Equity Opportunities SE & Co KGaA,???,-1
+1373,http://www.corporatecritic.org/companiesatoz/E.aspx,Edizione Srl,14,93
+1374,http://www.corporatecritic.org/companiesatoz/V.aspx,Vegetarian Shoes Limited,12.5,83
+1375,http://www.corporatecritic.org/companiesatoz/Q.aspx,Qatar Foundation,13,86
+1376,http://www.corporatecritic.org/companiesatoz/Maya.aspx,Melitta Group,???,-1
+1377,http://www.corporatecritic.org/companiesatoz/G.aspx,General Food Merchants Ltd,12.5,83
+1378,http://www.corporatecritic.org/companiesatoz/Delta.aspx,Domino's Pizza Inc,7,46
+1379,http://www.corporatecritic.org/companiesatoz/I.aspx,Invesco Ltd,(3),20
+1380,http://www.corporatecritic.org/companiesatoz/Skadd.aspx,Smith & Nephew plc,13.5,90
+1381,http://www.corporatecritic.org/companiesatoz/C.aspx,Casio Group,9.5,63
+1382,http://www.corporatecritic.org/companiesatoz/R.aspx,Rentokil Initial plc,13,86
+1383,http://www.corporatecritic.org/companiesatoz/O.aspx,Omnicom Group,(10),66
+1384,http://www.corporatecritic.org/companiesatoz/Glen%20.aspx,Good Goods Pty Ltd,???,-1
+1385,http://www.corporatecritic.org/companiesatoz/F.aspx,First American Corporation,14,93
+1386,http://www.corporatecritic.org/companiesatoz/Clove.aspx,Conscious Skincare Ltd,???,-1
+1387,http://www.corporatecritic.org/companiesatoz/Glen%20.aspx,Green ISP,15,100
+1388,http://www.corporatecritic.org/companiesatoz/Flowf.aspx,Flying Trade Group plc,???,-1
+1389,http://www.corporatecritic.org/companiesatoz/Clove.aspx,Cotton Traders Holdings Ltd,14,93
+1390,http://www.corporatecritic.org/companiesatoz/Mio%20T.aspx,MovieMail,14,93
+1391,http://www.corporatecritic.org/companiesatoz/Bellw.aspx,Bewley's Limited,8.5,56
+1392,http://www.corporatecritic.org/companiesatoz/Glen%20.aspx,Green Ventures ApS,14,93
+1393,http://www.corporatecritic.org/companiesatoz/I.aspx,Interplay UK Ltd,14,93
+1394,http://www.corporatecritic.org/companiesatoz/E.aspx,Ernst & Young,9,60
+1395,http://www.corporatecritic.org/companiesatoz/M.aspx,Malagasy,14,93
+1396,http://www.corporatecritic.org/companiesatoz/O.aspx,Omicron Trading Ltd,14,93
+1397,http://www.corporatecritic.org/companiesatoz/The%20W.aspx,THUS Group Plc,(8),53
+1398,http://www.corporatecritic.org/companiesatoz/E.aspx,Ebac Foundation,11,73
+1399,http://www.corporatecritic.org/companiesatoz/Whitt.aspx,Wm Morrison Supermarkets plc,2,13
+1400,http://www.corporatecritic.org/companiesatoz/U.aspx,Ultimate HC Limited,4.5,30
+1401,http://www.corporatecritic.org/companiesatoz/RISO%20.aspx,Robert Bosch Stiftung GMBH,8,53
+1402,http://www.corporatecritic.org/companiesatoz/Glen%20.aspx,Gordon Brothers Group LLC,14,93
+1403,http://www.corporatecritic.org/companiesatoz/Bellw.aspx,Birchwood Hotel & OR Tambo Conference Centre (Pty) Limited,???,-1
+1404,http://www.corporatecritic.org/companiesatoz/O.aspx,Outsider,13.5,90
+1405,http://www.corporatecritic.org/companiesatoz/Skadd.aspx,SoundCloud Limited,12,80
+1406,http://www.corporatecritic.org/companiesatoz/Whitt.aspx,Wittering Ltd,14,93
+1407,http://www.corporatecritic.org/companiesatoz/Group.aspx,Guernica Holdings Ltd,???,-1
+1408,http://www.corporatecritic.org/companiesatoz/Price.aspx,Pure Nuff Stuff Ltd,13.5,90
+1409,http://www.corporatecritic.org/companiesatoz/Flowf.aspx,Forest Laboratories Inc (USA),14,93
+1410,http://www.corporatecritic.org/companiesatoz/Mio%20T.aspx,Mr. Fothergill's Seeds Limited,14,93
+1411,http://www.corporatecritic.org/companiesatoz/Clove.aspx,Cosatto Sales Ltd,14,93
+1412,http://www.corporatecritic.org/companiesatoz/T.aspx,TEAC Corp,14,93
+1413,http://www.corporatecritic.org/companiesatoz/E.aspx,Ethex Investment Club Ltd,???,-1
+1414,http://www.corporatecritic.org/companiesatoz/Z.aspx,Zurich Insurance Group AG,5,33
+1415,http://www.corporatecritic.org/companiesatoz/Scott.aspx,Siemens AG,4.5,30
+1416,http://www.corporatecritic.org/companiesatoz/C.aspx,Carbon Offsets Ltd,14,93
+1417,http://www.corporatecritic.org/companiesatoz/Delta.aspx,Divine Chocolate Ltd,11.5,76
+1418,http://www.corporatecritic.org/companiesatoz/D.aspx,Davenport Vineyards,15,100
+1419,http://www.corporatecritic.org/companiesatoz/N.aspx,Nature Babies,14,93
+1420,http://www.corporatecritic.org/companiesatoz/Specs.aspx,SSP Group Holdings Ltd,6.5,43
+1421,http://www.corporatecritic.org/companiesatoz/A.aspx,A Lot Of Ltd,14,93
+1422,http://www.corporatecritic.org/companiesatoz/Murph.aspx,Myriad Natural Toys & Crafts,14,93
+1423,http://www.corporatecritic.org/companiesatoz/RISO%20.aspx,Riverford Organic Farmers Limited,13,86
+1424,http://www.corporatecritic.org/companiesatoz/I.aspx,Insider Trading,13,86
+1425,http://www.corporatecritic.org/companiesatoz/Specs.aspx,Stoke City Football Club Ltd,14,93
+1426,http://www.corporatecritic.org/companiesatoz/Agnat.aspx,Amerigon Incorporated,14,93
+1427,http://www.corporatecritic.org/companiesatoz/Flowf.aspx,Freeset Ltd,14,93
+1428,http://www.corporatecritic.org/companiesatoz/K.aspx,Kennel Nutrition Ltd,14,93
+1429,http://www.corporatecritic.org/companiesatoz/Price.aspx,Pukka Herbs,2,13
+1430,http://www.corporatecritic.org/companiesatoz/Hero.aspx,HTC Corporation,6.5,43
+1431,http://www.corporatecritic.org/companiesatoz/F.aspx,Farlin Infant Products Corp,14,93
+1432,http://www.corporatecritic.org/companiesatoz/Bellw.aspx,BG Group plc,13,86
+1433,http://www.corporatecritic.org/companiesatoz/U.aspx,Ugo Foods Group Ltd,14,93
+1434,http://www.corporatecritic.org/companiesatoz/N.aspx,Newell Brands Inc,7,46
+1435,http://www.corporatecritic.org/companiesatoz/G.aspx,Gibson Guitar Corp,14,93
+1436,http://www.corporatecritic.org/companiesatoz/Phile.aspx,Plexus,(13),86
+1437,http://www.corporatecritic.org/companiesatoz/Specs.aspx,St Peters Brewery Co plc,14,93
+1438,http://www.corporatecritic.org/companiesatoz/D.aspx,Datong Coal Mine Group Co,14,93
+1439,http://www.corporatecritic.org/companiesatoz/Scott.aspx,Siepmann Stiftung (Aldi Süd),???,-1
+1440,http://www.corporatecritic.org/companiesatoz/Delta.aspx,DRB-Hicom,7.5,50
+1441,http://www.corporatecritic.org/companiesatoz/Londo.aspx,London Mining Plc,14,93
+1442,http://www.corporatecritic.org/companiesatoz/D.aspx,D&M Holdings Inc,14,93
+1443,http://www.corporatecritic.org/companiesatoz/Agnat.aspx,Americana Holdings Ltd,14,93
+1444,http://www.corporatecritic.org/companiesatoz/Phile.aspx,Piper Private Equity Ltd,14,93
+1445,http://www.corporatecritic.org/companiesatoz/Lette.aspx,LFH International Limited,8.5,56
+1446,http://www.corporatecritic.org/companiesatoz/AMT%20C.aspx,Andros Group (Andros et cie),9.5,63
+1447,http://www.corporatecritic.org/companiesatoz/P.aspx,Paramo Ltd,12.5,83
+1448,http://www.corporatecritic.org/companiesatoz/Z.aspx,Zoom Video Communications Inc,???,-1
+1449,http://www.corporatecritic.org/companiesatoz/C.aspx,C.A. Bio,14,93
+1450,http://www.corporatecritic.org/companiesatoz/Glen%20.aspx,Gordon Products Ltd,12.5,83
+1451,http://www.corporatecritic.org/companiesatoz/S.aspx,Sanofi,6.5,43
+1452,http://www.corporatecritic.org/companiesatoz/Scott.aspx,Shared Earth Ltd,13.5,90
+1453,http://www.corporatecritic.org/companiesatoz/Ninte.aspx,Nintendo Co Ltd,11,73
+1454,http://www.corporatecritic.org/companiesatoz/E.aspx,Edgewell Personal Care,???,-1
+1455,http://www.corporatecritic.org/companiesatoz/Skadd.aspx,Société BIC SA,12.5,83
+1456,http://www.corporatecritic.org/companiesatoz/RISO%20.aspx,Russell & Bromley,9.5,63
+1457,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,Ebico,14,93
+1458,http://www.corporatecritic.org/companiesatoz/Scott.aspx,Shared Interest Society Ltd,15,100
+1459,http://www.corporatecritic.org/companiesatoz/Delta.aspx,DrayTek Corp,14,93
+1460,http://www.corporatecritic.org/companiesatoz/Surya.aspx,Swizzels Matlow Limited,14,93
+1461,http://www.corporatecritic.org/companiesatoz/Delta.aspx,Doosan Infracore Co Ltd,14,93
+1462,http://www.corporatecritic.org/companiesatoz/RISO%20.aspx,ROLLAND SRL,???,-1
+1463,http://www.corporatecritic.org/companiesatoz/TPG.aspx,Tullow Oil plc,14,93
+1464,http://www.corporatecritic.org/companiesatoz/W.aspx,W Jordan & Son (Silo) Ltd,14,93
+1465,http://www.corporatecritic.org/companiesatoz/Delta.aspx,Diomed Developments,10,66
+1466,http://www.corporatecritic.org/companiesatoz/Price.aspx,Procter & Gamble Company,3.5,23
+1467,http://www.corporatecritic.org/companiesatoz/Maya.aspx,Meadowsweet UK Ltd,14,93
+1468,http://www.corporatecritic.org/companiesatoz/Lette.aspx,Lion Capital LLP,12.5,83
+1469,http://www.corporatecritic.org/companiesatoz/Scott.aspx,Scrumptious Sweets,14,93
+1470,http://www.corporatecritic.org/companiesatoz/K.aspx,Kavli Trust,12.5,83
+1471,http://www.corporatecritic.org/companiesatoz/BMK%20H.aspx,BP plc,5.5,36
+1472,http://www.corporatecritic.org/companiesatoz/Price.aspx,Principality Building Society,13.5,90
+1473,http://www.corporatecritic.org/companiesatoz/O.aspx,Office Depot,11.5,76
+1474,http://www.corporatecritic.org/companiesatoz/Scott.aspx,Sea Containers Ltd,14,93
+1475,http://www.corporatecritic.org/companiesatoz/A.aspx,A. Nelson & Co. Ltd,14,93
+1476,http://www.corporatecritic.org/companiesatoz/R.aspx,Refresh Group Ltd,14,93
+1477,http://www.corporatecritic.org/companiesatoz/H.aspx,Henderson Group plc,(5),33
+1478,http://www.corporatecritic.org/companiesatoz/V.aspx,Verdo Holding- und Verwaltungs AG,14,93
+1479,http://www.corporatecritic.org/companiesatoz/Briti.aspx,Bummis Inc,14,93
+1480,http://www.corporatecritic.org/companiesatoz/B.aspx,Bell Sports Corp,14,93
+1481,http://www.corporatecritic.org/companiesatoz/V.aspx,Vitabiotics Ltd,13.5,90
+1482,http://www.corporatecritic.org/companiesatoz/A.aspx,Acer Inc.,8,53
+1483,http://www.corporatecritic.org/companiesatoz/O.aspx,O'Hanlons Brewing Co,14,93
+1484,http://www.corporatecritic.org/companiesatoz/E.aspx,Earth Friendly Products,11.5,76
+1485,http://www.corporatecritic.org/companiesatoz/IT'S%20.aspx,Ixxus,14,93
+1486,http://www.corporatecritic.org/companiesatoz/Briti.aspx,Broderna Löfberg AB,14,93
+1487,http://www.corporatecritic.org/companiesatoz/Cream.aspx,Current Cost Ltd,14,93
+1488,http://www.corporatecritic.org/companiesatoz/B.aspx,Bank of America Corp,11.5,76
+1489,http://www.corporatecritic.org/companiesatoz/Hero.aspx,Highlander (Scotland) Ltd,14,93
+1490,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,E&J Gallo Winery,11.5,76
+1491,http://www.corporatecritic.org/companiesatoz/AMT%20C.aspx,Andromède Investissements,14,93
+1492,http://www.corporatecritic.org/companiesatoz/Lette.aspx,Loewe AG,14,93
+1493,http://www.corporatecritic.org/companiesatoz/Huit%20.aspx,Hyundai Mobis Co Ltd,9,60
+1494,http://www.corporatecritic.org/companiesatoz/Briti.aspx,Bunzl plc,13.5,90
+1495,http://www.corporatecritic.org/companiesatoz/H.aspx,Havell's India Ltd,14,93
+1496,http://www.corporatecritic.org/companiesatoz/Londo.aspx,Lumin8 Limited,14,93
+1497,http://www.corporatecritic.org/companiesatoz/I.aspx,Infosys Limited,13.5,90
+1498,http://www.corporatecritic.org/companiesatoz/R.aspx,Rackspace Hosting Inc,13.5,90
+1499,http://www.corporatecritic.org/companiesatoz/N.aspx,NatureDiet Pet Foods,14,93
+1500,http://www.corporatecritic.org/companiesatoz/F.aspx,Firstgroup plc,8.5,56
+1501,http://www.corporatecritic.org/companiesatoz/Flowf.aspx,Focus 100 Ltd,14,93
+1502,http://www.corporatecritic.org/companiesatoz/J.aspx,JP Juices Limited,14,93
+1503,http://www.corporatecritic.org/companiesatoz/O.aspx,Overseas Development Institute Limited,???,-1
+1504,http://www.corporatecritic.org/companiesatoz/Glen%20.aspx,Green Shoes of Totnes Ltd,11,73
+1505,http://www.corporatecritic.org/companiesatoz/KPMG%20.aspx,Kyocera Kabushiki Kaisha Corporation,8.5,56
+1506,http://www.corporatecritic.org/companiesatoz/Europ.aspx,Ex Mill Envelope and Paper Co,14,93
+1507,http://www.corporatecritic.org/companiesatoz/I.aspx,Imagination Technologies Group plc,12,80
+1508,http://www.corporatecritic.org/companiesatoz/G.aspx,GB Renewables Investments Ltd,???,-1
+1509,http://www.corporatecritic.org/companiesatoz/Agnat.aspx,Amazon.com Inc,0,0
+1510,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,Ex Mill Envelope and Paper Co,14,93
+1511,http://www.corporatecritic.org/companiesatoz/E.aspx,Epic Games inc,???,-1
+1512,http://www.corporatecritic.org/companiesatoz/The%20W.aspx,Thomas Lorünser,14,93
+1513,http://www.corporatecritic.org/companiesatoz/U.aspx,UBS AG,3.5,23
+1514,http://www.corporatecritic.org/companiesatoz/Skadd.aspx,Smiffys,14,93
+1515,http://www.corporatecritic.org/companiesatoz/G.aspx,Galeries Lafayette,3.5,23
+1516,http://www.corporatecritic.org/companiesatoz/D.aspx,Daimler AG,5,33
+1517,http://www.corporatecritic.org/companiesatoz/P.aspx,PAI Partners,8,53
+1518,http://www.corporatecritic.org/companiesatoz/Bellw.aspx,Bettys & Taylors Group Ltd,9.5,63
+1519,http://www.corporatecritic.org/companiesatoz/B.aspx,Babykind Ltd,14,93
+1520,http://www.corporatecritic.org/companiesatoz/U.aspx,UB Group,14,93
+1521,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,Élan Media Partners Pty Ltd,14,93
+1522,http://www.corporatecritic.org/companiesatoz/Scott.aspx,Seton House Acquisition Ltd,14,93
+1523,http://www.corporatecritic.org/companiesatoz/R.aspx,Real Good Food Company,14,93
+1524,http://www.corporatecritic.org/companiesatoz/AMT%20C.aspx,Art Meets Matter,14,93
+1525,http://www.corporatecritic.org/companiesatoz/Price.aspx,Provident Financial plc,13.5,90
+1526,http://www.corporatecritic.org/companiesatoz/M.aspx,Malibu Health Products Limited,8.5,56
+1527,http://www.corporatecritic.org/companiesatoz/I.aspx,Inika,14,93
+1528,http://www.corporatecritic.org/companiesatoz/Scott.aspx,SIMPSONS SEEDS LTD,14,93
+1529,http://www.corporatecritic.org/companiesatoz/S.aspx,Sapphire Systems Limited,12,80
+1530,http://www.corporatecritic.org/companiesatoz/T.aspx,Telecom Italia S.p.A.,(13),86
+1531,http://www.corporatecritic.org/companiesatoz/Scott.aspx,Sealed Air Corporation,14,93
+1532,http://www.corporatecritic.org/companiesatoz/N.aspx,Next Plc,(5.5),36
+1533,http://www.corporatecritic.org/companiesatoz/C.aspx,Canada Post Corporation,14,93
+1534,http://www.corporatecritic.org/companiesatoz/Specs.aspx,Sports Brand International,14,93
+1535,http://www.corporatecritic.org/companiesatoz/Lette.aspx,LG Corp,7.5,50
+1536,http://www.corporatecritic.org/companiesatoz/K.aspx,Kao Group,8,53
+1537,http://www.corporatecritic.org/companiesatoz/TPG.aspx,Treasury Wine Estates,11.5,76
+1538,http://www.corporatecritic.org/companiesatoz/Clove.aspx,Connect Plus,9.5,63
+1539,http://www.corporatecritic.org/companiesatoz/F.aspx,FAIR+true,14,93
+1540,http://www.corporatecritic.org/companiesatoz/Glen%20.aspx,Gossypium Ltd,15,100
+1541,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,EW King & Co Ltd,14,93
+1542,http://www.corporatecritic.org/companiesatoz/Phile.aspx,Pin International Co Ltd,14,93
+1543,http://www.corporatecritic.org/companiesatoz/The%20C.aspx,The Character Group plc,14,93
+1544,http://www.corporatecritic.org/companiesatoz/N.aspx,National Australia Bank Ltd (NAB),6.5,43
+1545,http://www.corporatecritic.org/companiesatoz/R.aspx,Rathbone Brothers plc,(6),40
+1546,http://www.corporatecritic.org/companiesatoz/J.aspx,James White Drinks,12.5,83
+1547,http://www.corporatecritic.org/companiesatoz/The%20W.aspx,Toshiba Corp,4,26
+1548,http://www.corporatecritic.org/companiesatoz/Caurn.aspx,Clarins,???,-1
+1549,http://www.corporatecritic.org/companiesatoz/G.aspx,Gebana AG,14,93
+1550,http://www.corporatecritic.org/companiesatoz/K.aspx,Koninklijke Grolsch N.V.,10.5,70
+1551,http://www.corporatecritic.org/companiesatoz/D.aspx,De La Rue plc,14,93
+1552,http://www.corporatecritic.org/companiesatoz/T.aspx,Tandem Group Cycles Ltd,8.5,56
+1553,http://www.corporatecritic.org/companiesatoz/Huit%20.aspx,Huit Holdings Ltd,14,93
+1554,http://www.corporatecritic.org/companiesatoz/Fung%20.aspx,FW Baker Ltd,10.5,70
+1555,http://www.corporatecritic.org/companiesatoz/Scott.aspx,Simba Dickie Group,14,93
+1556,http://www.corporatecritic.org/companiesatoz/E.aspx,Eurasian Resources Group,???,-1
+1557,http://www.corporatecritic.org/companiesatoz/Delta.aspx,Direct Line Insurance Group plc,4.5,30
+1558,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,eBay Inc,8.5,56
+1559,http://www.corporatecritic.org/companiesatoz/Cream.aspx,Cruz y Cruz S.A. de C.V,12,80
+1560,http://www.corporatecritic.org/companiesatoz/RISO%20.aspx,Ruddick Corporation,14,93
+1561,http://www.corporatecritic.org/companiesatoz/The%20C.aspx,The Nathan Cummings Foundation,???,-1
+1562,http://www.corporatecritic.org/companiesatoz/B.aspx,BDO International Ltd,11,73
+1563,http://www.corporatecritic.org/companiesatoz/AMT%20C.aspx,Armstrong Holdings Inc,14,93
+1564,http://www.corporatecritic.org/companiesatoz/Q.aspx,Queenie Organics,???,-1
+1565,http://www.corporatecritic.org/companiesatoz/J.aspx,Just Wholefoods Ltd,14,93
+1566,http://www.corporatecritic.org/companiesatoz/Maya.aspx,MEGA Brands Inc.,14,93
+1567,http://www.corporatecritic.org/companiesatoz/T.aspx,T.M.R. Investments Ltd,14,93
+1568,http://www.corporatecritic.org/companiesatoz/B.aspx,Bayer AG,5,33
+1569,http://www.corporatecritic.org/companiesatoz/W.aspx,Watford Electronics Ltd,14,93
+1570,http://www.corporatecritic.org/companiesatoz/T.aspx,Tesco plc,1.5,10
+1571,http://www.corporatecritic.org/companiesatoz/Mio%20T.aspx,MPE SpA,14,93
+1572,http://www.corporatecritic.org/companiesatoz/A.aspx,Adams Childrenswear Ltd,14,93
+1573,http://www.corporatecritic.org/companiesatoz/A.aspx,Adbusters Media Foundation,15,100
+1574,http://www.corporatecritic.org/companiesatoz/B.aspx,BAE Systems plc,11.5,76
+1575,http://www.corporatecritic.org/companiesatoz/P.aspx,Pernod-Ricard SA,10,66
+1576,http://www.corporatecritic.org/companiesatoz/N.aspx,N Brown Group plc,7,46
+1577,http://www.corporatecritic.org/companiesatoz/C.aspx,Carlyle Group,9,60
+1578,http://www.corporatecritic.org/companiesatoz/J.aspx,JDIF TRUSTEES SARL,???,-1
+1579,http://www.corporatecritic.org/companiesatoz/Glen%20.aspx,Green Eyed Monster Clothing Ltd,14,93
+1580,http://www.corporatecritic.org/companiesatoz/V.aspx,Veg and City Drinks Limited,???,-1
+1581,http://www.corporatecritic.org/companiesatoz/P.aspx,PaperlinX Ltd,14,93
+1582,http://www.corporatecritic.org/companiesatoz/Maya.aspx,Midsona,???,-1
+1583,http://www.corporatecritic.org/companiesatoz/D.aspx,David Murdock,9.5,63
+1584,http://www.corporatecritic.org/companiesatoz/RISO%20.aspx,Rubicon Products Ltd,14,93
+1585,http://www.corporatecritic.org/companiesatoz/Caurn.aspx,Clearspring Ltd,14.5,96
+1586,http://www.corporatecritic.org/companiesatoz/G.aspx,Gazal Corporation Limited,13.5,90
+1587,http://www.corporatecritic.org/companiesatoz/AMT%20C.aspx,Arquest Inc,14,93
+1588,http://www.corporatecritic.org/companiesatoz/Agnat.aspx,Alcatel-Lucent Inc,14,93
+1589,http://www.corporatecritic.org/companiesatoz/L.aspx,Laura's Organics Ltd,14,93
+1590,http://www.corporatecritic.org/companiesatoz/Flowf.aspx,Fonds Partenaires Gestion,14,93
+1591,http://www.corporatecritic.org/companiesatoz/TPG.aspx,Tropical Forest Products,14,93
+1592,http://www.corporatecritic.org/companiesatoz/C.aspx,C&J Clark Ltd,7,46
+1593,http://www.corporatecritic.org/companiesatoz/P.aspx,Petroleos de Venezuela SA (PDVSA),(14),93
+1594,http://www.corporatecritic.org/companiesatoz/Delta.aspx,Dr A. Stoffel Holding AG,14,93
+1595,http://www.corporatecritic.org/companiesatoz/Briti.aspx,Buontempo Enterprises Ltd,14,93
+1596,http://www.corporatecritic.org/companiesatoz/E.aspx,Elysia,14,93
+1597,http://www.corporatecritic.org/companiesatoz/Phile.aspx,Plastaket Manufacturing Co,14,93
+1598,http://www.corporatecritic.org/companiesatoz/Specs.aspx,Sun Microsystems Inc,14,93
+1599,http://www.corporatecritic.org/companiesatoz/D.aspx,Deloitte Touche Tohmatsu Ltd,13,86
+1600,http://www.corporatecritic.org/companiesatoz/Briti.aspx,Brothers We Stand,13.5,90
+1601,http://www.corporatecritic.org/companiesatoz/BMK%20H.aspx,Body Shop International Limited,7.5,50
+1602,http://www.corporatecritic.org/companiesatoz/The%20C.aspx,THE RAW CHOCOLATE CO LTD,15,100
+1603,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,Ecotoys Srl,14,93
+1604,http://www.corporatecritic.org/companiesatoz/Agnat.aspx,Amira Nature Foods,7.5,50
+1605,http://www.corporatecritic.org/companiesatoz/BMK%20H.aspx,Boylesports Holdings Ltd,14,93
+1606,http://www.corporatecritic.org/companiesatoz/E.aspx,EQT Corporation,???,-1
+1607,http://www.corporatecritic.org/companiesatoz/M.aspx,Masraf Al Rayan (MAR) Q.S.C.,12.5,83
+1608,http://www.corporatecritic.org/companiesatoz/H.aspx,Hays Plc,14,93
+1609,http://www.corporatecritic.org/companiesatoz/123.aspx,[OLD] Pants to Poverty Ltd,14,93
+1610,http://www.corporatecritic.org/companiesatoz/F.aspx,Finlav SpA,12.5,83
+1611,http://www.corporatecritic.org/companiesatoz/Skadd.aspx,So Good International Ltd,14,93
+1612,http://www.corporatecritic.org/companiesatoz/K.aspx,Koolkompany Limited,???,-1
+1613,http://www.corporatecritic.org/companiesatoz/C.aspx,C + F Confectionery and Foods Holding,14,93
+1614,http://www.corporatecritic.org/companiesatoz/Briti.aspx,Burts Potato Chips Ltd,14,93
+1615,http://www.corporatecritic.org/companiesatoz/BMK%20H.aspx,Bright Food (Group) Co Ltd,9.5,63
+1616,http://www.corporatecritic.org/companiesatoz/Ovo%20E.aspx,Oxford Products Ltd,14,93
+1617,http://www.corporatecritic.org/companiesatoz/T.aspx,Tata Sons,5,33
+1618,http://www.corporatecritic.org/companiesatoz/T.aspx,Taifun-Tofu Gmbh,(13.5),90
+1619,http://www.corporatecritic.org/companiesatoz/The%20W.aspx,Tiscali SpA,14,93
+1620,http://www.corporatecritic.org/companiesatoz/Briti.aspx,Bruichladdich Distillery Company Ltd,14,93
+1621,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,Earl Shilton Building Society,14,93
+1622,http://www.corporatecritic.org/companiesatoz/Caurn.aspx,Chancerealm Group,14,93
+1623,http://www.corporatecritic.org/companiesatoz/Briti.aspx,BT Group Plc,7.5,50
+1624,http://www.corporatecritic.org/companiesatoz/M.aspx,Martlet Natural Food & Drink,14,93
+1625,http://www.corporatecritic.org/companiesatoz/Flowf.aspx,FREITAG lab. ag,14,93
+1626,http://www.corporatecritic.org/companiesatoz/Bellw.aspx,Bienestar International,14,93
+1627,http://www.corporatecritic.org/companiesatoz/F.aspx,Firefly Solar Ltd,14,93
+1628,http://www.corporatecritic.org/companiesatoz/H.aspx,Heineken Holding N.V.,12.5,83
+1629,http://www.corporatecritic.org/companiesatoz/C.aspx,Camelot Group Plc,2.5,16
+1630,http://www.corporatecritic.org/companiesatoz/R.aspx,Redbush Tea Co,11,73
+1631,http://www.corporatecritic.org/companiesatoz/P.aspx,PFH (NSW) PTY LTD,???,-1
+1632,http://www.corporatecritic.org/companiesatoz/Skadd.aspx,Somerset Postal Flowers,14,93
+1633,http://www.corporatecritic.org/companiesatoz/Y.aspx,Yeo Valley Group Ltd,???,-1
+1634,http://www.corporatecritic.org/companiesatoz/E.aspx,EE Wholesale UK,15,100
+1635,http://www.corporatecritic.org/companiesatoz/Lette.aspx,Lillemor Design AB,14,93
+1636,http://www.corporatecritic.org/companiesatoz/Glen%20.aspx,Grahams the Family Dairy Group LTD,11.5,76
+1637,http://www.corporatecritic.org/companiesatoz/Price.aspx,PricewaterhouseCoopers International Limited (PwC),8.5,56
+1638,http://www.corporatecritic.org/companiesatoz/Vivar.aspx,Vivid Imaginations Ltd,14,93
+1639,http://www.corporatecritic.org/companiesatoz/Y.aspx,Yorkshire Crisp Co,14,93
+1640,http://www.corporatecritic.org/companiesatoz/Briti.aspx,Brockton Capital LLP,12,80
+1641,http://www.corporatecritic.org/companiesatoz/S.aspx,Scoraig Wind,14,93
+1642,http://www.corporatecritic.org/companiesatoz/A.aspx,A B Performance Ltd,???,-1
+1643,http://www.corporatecritic.org/companiesatoz/Scott.aspx,Scottish & Newcastle plc,8.5,56
+1644,http://www.corporatecritic.org/companiesatoz/I.aspx,Individual Restaurant Company plc,14,93
+1645,http://www.corporatecritic.org/companiesatoz/Surya.aspx,Suttons Seeds (Holdings) Limited,13.5,90
+1646,http://www.corporatecritic.org/companiesatoz/M.aspx,Maxdata Computer GmbH & Co,14,93
+1647,http://www.corporatecritic.org/companiesatoz/BMK%20H.aspx,BNFL (British Nuclear Fuels plc),14,93
+1648,http://www.corporatecritic.org/companiesatoz/Asda%20.aspx,Athenaeum Limited,14,93
+1649,http://www.corporatecritic.org/companiesatoz/R.aspx,Revolver World,14,93
+1650,http://www.corporatecritic.org/companiesatoz/W.aspx,Whitbread plc,7,46
+1651,http://www.corporatecritic.org/companiesatoz/W.aspx,West Ham United FC,(14),93
+1652,http://www.corporatecritic.org/companiesatoz/I.aspx,Innerworkings,14,93
+1653,http://www.corporatecritic.org/companiesatoz/O.aspx,O'Briens Irish Sandwich Bars Ltd,14,93
+1654,http://www.corporatecritic.org/companiesatoz/B.aspx,Barclays Plc,1.5,10
+1655,http://www.corporatecritic.org/companiesatoz/L.aspx,Laverana GmbH & Co KG,10.5,70
+1656,http://www.corporatecritic.org/companiesatoz/Phile.aspx,Plan Creations Co Ltd,14,93
+1657,http://www.corporatecritic.org/companiesatoz/M.aspx,Maini Group,14,93
+1658,http://www.corporatecritic.org/companiesatoz/Ninte.aspx,Nutriops SL,13,86
+1659,http://www.corporatecritic.org/companiesatoz/G.aspx,Giovanni Agnelli & C,12,80
+1660,http://www.corporatecritic.org/companiesatoz/Flowf.aspx,Forum for African Women Educationalists,???,-1
+1661,http://www.corporatecritic.org/companiesatoz/R.aspx,Ragman's Lane Farm,14,93
+1662,http://www.corporatecritic.org/companiesatoz/J.aspx,Johnson & Johnson,4,26
+1663,http://www.corporatecritic.org/companiesatoz/X.aspx,Xiaomi Corporation,???,-1
+1664,http://www.corporatecritic.org/companiesatoz/Maya.aspx,MERMAID UK HOLDCO LIMITED,???,-1
+1665,http://www.corporatecritic.org/companiesatoz/R.aspx,Real Nice Organic,15,100
+1666,http://www.corporatecritic.org/companiesatoz/TPG.aspx,Twitter Inc,10.5,70
+1667,http://www.corporatecritic.org/companiesatoz/F.aspx,Fiskars AB OY,14,93
+1668,http://www.corporatecritic.org/companiesatoz/Lette.aspx,LiteBulb Group Ltd,9,60
+1669,http://www.corporatecritic.org/companiesatoz/U.aspx,Unibel,14,93
+1670,http://www.corporatecritic.org/companiesatoz/B.aspx,Bandai Namco Holdings Inc,14,93
+1671,http://www.corporatecritic.org/companiesatoz/Lette.aspx,Liberty International,14,93
+1672,http://www.corporatecritic.org/companiesatoz/Londo.aspx,Lyreco,14,93
+1673,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,Edwin Tucker & Sons Ltd,8.5,56
+1674,http://www.corporatecritic.org/companiesatoz/Price.aspx,Product Creation Ltd,14,93
+1675,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,Eco Vegan Shoes International BV,???,-1
+1676,http://www.corporatecritic.org/companiesatoz/Hero.aspx,HRG Group Inc.,13,86
+1677,http://www.corporatecritic.org/companiesatoz/TPG.aspx,Two Tomorrows Group Ltd,14,93
+1678,http://www.corporatecritic.org/companiesatoz/K.aspx,Karo Pharma,???,-1
+1679,http://www.corporatecritic.org/companiesatoz/Bellw.aspx,BMI,14,93
+1680,http://www.corporatecritic.org/companiesatoz/Delta.aspx,Dragonfly Foods,15,100
+1681,http://www.corporatecritic.org/companiesatoz/The%20W.aspx,The Walt Disney Company,6,40
+1682,http://www.corporatecritic.org/companiesatoz/Agnat.aspx,Amshold Securities Plc,14,93
+1683,http://www.corporatecritic.org/companiesatoz/TPG.aspx,TPG,(13.5),90
+1684,http://www.corporatecritic.org/companiesatoz/E.aspx,Esprit Holdings Ltd,12.5,83
+1685,http://www.corporatecritic.org/companiesatoz/Caurn.aspx,Cheung Kong (Holdings) Ltd,14,93
+1686,http://www.corporatecritic.org/companiesatoz/Briti.aspx,Budweiser Budvar National Corp,14,93
+1687,http://www.corporatecritic.org/companiesatoz/E.aspx,Elna International Corp,14,93
+1688,http://www.corporatecritic.org/companiesatoz/Caurn.aspx,Church & Dwight Co Inc,7,46
+1689,http://www.corporatecritic.org/companiesatoz/KPMG%20.aspx,Kuyichi BV,14,93
+1690,http://www.corporatecritic.org/companiesatoz/Specs.aspx,Standard Life Aberdeen PLC,???,-1
+1691,http://www.corporatecritic.org/companiesatoz/B.aspx,Bacardi & Company Limited,13,86
+1692,http://www.corporatecritic.org/companiesatoz/D.aspx,D J Squire & Co. Ltd,6,40
+1693,http://www.corporatecritic.org/companiesatoz/Specs.aspx,Start Licensing,???,-1
+1694,http://www.corporatecritic.org/companiesatoz/Cream.aspx,Crediton Dairies,???,-1
+1695,http://www.corporatecritic.org/companiesatoz/J.aspx,JH Moore & Son (Rickmansworth) Ltd,14,93
+1696,http://www.corporatecritic.org/companiesatoz/Europ.aspx,Everton Football Club,14,93
+1697,http://www.corporatecritic.org/companiesatoz/H.aspx,Hammerson PLC,13.5,90
+1698,http://www.corporatecritic.org/companiesatoz/Y.aspx,Yorkshire Hemp Limited,14,93
+1699,http://www.corporatecritic.org/companiesatoz/K.aspx,Kit & Kin Ltd,???,-1
+1700,http://www.corporatecritic.org/companiesatoz/Group.aspx,Guat Shoes,14,93
+1701,http://www.corporatecritic.org/companiesatoz/Whitt.aspx,William Sinclair & Sons (Stationers) Ltd,14,93
+1702,http://www.corporatecritic.org/companiesatoz/Mio%20T.aspx,Mondelez International,2,13
+1703,http://www.corporatecritic.org/companiesatoz/S.aspx,Sanpower Group,14,93
+1704,http://www.corporatecritic.org/companiesatoz/Specs.aspx,Spring Meadow Holdings Ltd,14,93
+1705,http://www.corporatecritic.org/companiesatoz/E.aspx,Equinor ASA,(7.5),50
+1706,http://www.corporatecritic.org/companiesatoz/Londo.aspx,Lush Cosmetics Ltd,12,80
+1707,http://www.corporatecritic.org/companiesatoz/Briti.aspx,Bryncir Products Ltd,14,93
+1708,http://www.corporatecritic.org/companiesatoz/W.aspx,Warburtons 1876 Limited,10.5,70
+1709,http://www.corporatecritic.org/companiesatoz/N.aspx,Nestlé SA,0.5,3
+1710,http://www.corporatecritic.org/companiesatoz/N.aspx,Netflix,10,66
+1711,http://www.corporatecritic.org/companiesatoz/W.aspx,Wellspring Advisors LLC,14,93
+1712,http://www.corporatecritic.org/companiesatoz/Z.aspx,ZOOLOGICAL SOCIETY OF LONDON,12.5,83
+1713,http://www.corporatecritic.org/companiesatoz/Delta.aspx,Draper's Organic Cotton,14,93
+1714,http://www.corporatecritic.org/companiesatoz/B.aspx,Baycliffe Limited,11.5,76
+1715,http://www.corporatecritic.org/companiesatoz/K.aspx,KCOM Group PLC,14,93
+1716,http://www.corporatecritic.org/companiesatoz/Caurn.aspx,CIME  S.C.A.,???,-1
+1717,http://www.corporatecritic.org/companiesatoz/O.aspx,Oaxaca Ltd.,???,-1
+1718,http://www.corporatecritic.org/companiesatoz/Group.aspx,GUS plc,14,93
+1719,http://www.corporatecritic.org/companiesatoz/Agnat.aspx,Allchurches Trust Ltd,7,46
+1720,http://www.corporatecritic.org/companiesatoz/I.aspx,Independent Service Engineering Limited,14,93
+1721,http://www.corporatecritic.org/companiesatoz/The%20C.aspx,The Coconut Collaborative,12.5,83
+1722,http://www.corporatecritic.org/companiesatoz/123.aspx,[MERGED] Dunfermline Building Society,13,86
+1723,http://www.corporatecritic.org/companiesatoz/Glen%20.aspx,Gold Peak Industries (Holdings) Ltd,8.5,56
+1724,http://www.corporatecritic.org/companiesatoz/Hero.aspx,Homecare Group Holdings,14,93
+1725,http://www.corporatecritic.org/companiesatoz/J.aspx,Jeyes Group Plc,(8),53
+1726,http://www.corporatecritic.org/companiesatoz/V.aspx,VAUDE Sport GmbH & Co. KG,13,86
+1727,http://www.corporatecritic.org/companiesatoz/Bellw.aspx,Best Western International Inc,14,93
+1728,http://www.corporatecritic.org/companiesatoz/Vivar.aspx,Voluntary Service Overseas,???,-1
+1729,http://www.corporatecritic.org/companiesatoz/BMK%20H.aspx,Bodywise (UK) Ltd,14,93
+1730,http://www.corporatecritic.org/companiesatoz/Lette.aspx,Liverpool Organic Brewery,???,-1
+1731,http://www.corporatecritic.org/companiesatoz/I.aspx,Iskra Wind Turbine Manufacturers Ltd,14,93
+1732,http://www.corporatecritic.org/companiesatoz/W.aspx,Wala-Stiftung,13,86
+1733,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,Ebooks.com pty limited,14,93
+1734,http://www.corporatecritic.org/companiesatoz/Skadd.aspx,Soma Organic,14,93
+1735,http://www.corporatecritic.org/companiesatoz/123.aspx,21st Century Fox Inc,6.5,43
+1736,http://www.corporatecritic.org/companiesatoz/S.aspx,Schroders plc,4.5,30
+1737,http://www.corporatecritic.org/companiesatoz/L.aspx,La Poste,14,93
+1738,http://www.corporatecritic.org/companiesatoz/S.aspx,SAUR,14,93
+1739,http://www.corporatecritic.org/companiesatoz/B.aspx,Bambino Mio Ltd,12,80
+1740,http://www.corporatecritic.org/companiesatoz/Flowf.aspx,FTF Sweets,14,93
+1741,http://www.corporatecritic.org/companiesatoz/Maya.aspx,McBride plc,7.5,50
+1742,http://www.corporatecritic.org/companiesatoz/E.aspx,Eastman Kodak Company,7,46
+1743,http://www.corporatecritic.org/companiesatoz/Mio%20T.aspx,Mitsubishi Materials Corporation,(14),93
+1744,http://www.corporatecritic.org/companiesatoz/Lette.aspx,Living Nature Natural Products Ltd,(14),93
+1745,http://www.corporatecritic.org/companiesatoz/BMK%20H.aspx,BMO Financial Group,4,26
+1746,http://www.corporatecritic.org/companiesatoz/V.aspx,VEGO Good Food UG,14,93
+1747,http://www.corporatecritic.org/companiesatoz/Scott.aspx,Severin-Elektrik GmbH & Co. KG,???,-1
+1748,http://www.corporatecritic.org/companiesatoz/S.aspx,Safaricom,(???),-1
+1749,http://www.corporatecritic.org/companiesatoz/Scott.aspx,Severn Trent plc,13,86
+1750,http://www.corporatecritic.org/companiesatoz/Scott.aspx,Silampos SA,14,93
+1751,http://www.corporatecritic.org/companiesatoz/E.aspx,Earthmonk,???,-1
+1752,http://www.corporatecritic.org/companiesatoz/The%20W.aspx,TofuTown.com GmbH,13.5,90
+1753,http://www.corporatecritic.org/companiesatoz/The%20C.aspx,THE FAYREFIELD GROUP LTD,11,73
+1754,http://www.corporatecritic.org/companiesatoz/U.aspx,"Urban Outfitters, Inc",14,93
+1755,http://www.corporatecritic.org/companiesatoz/E.aspx,E. Merck oHG,14,93
+1756,http://www.corporatecritic.org/companiesatoz/L.aspx,LAN Airlines S.A.,14,93
+1757,http://www.corporatecritic.org/companiesatoz/Skadd.aspx,SPAR Food Distributors Ltd,6.5,43
+1758,http://www.corporatecritic.org/companiesatoz/S.aspx,SCHUCO International KG,14,93
+1759,http://www.corporatecritic.org/companiesatoz/A.aspx,Active Fitzroy Investment LP,???,-1
+1760,http://www.corporatecritic.org/companiesatoz/Bellw.aspx,Big Bear Group Ltd,7.5,50
+1761,http://www.corporatecritic.org/companiesatoz/S.aspx,SA Brain & Co Ltd,11.5,76
+1762,http://www.corporatecritic.org/companiesatoz/The%20W.aspx,TOMS Shoes LLC,9,60
+1763,http://www.corporatecritic.org/companiesatoz/AMT%20C.aspx,Aria Assistance Group Ltd,14,93
+1764,http://www.corporatecritic.org/companiesatoz/G.aspx,Give A Car,14,93
+1765,http://www.corporatecritic.org/companiesatoz/Skadd.aspx,Southern Petrochemical Industries Corporation,14,93
+1766,http://www.corporatecritic.org/companiesatoz/Phile.aspx,Pon Holdings B.V.,???,-1
+1767,http://www.corporatecritic.org/companiesatoz/U.aspx,Unilever PLC,5,33
+1768,http://www.corporatecritic.org/companiesatoz/Lette.aspx,Lite-On Technology Corporation,14,93
+1769,http://www.corporatecritic.org/companiesatoz/Londo.aspx,Lotus Pads,14,93
+1770,http://www.corporatecritic.org/companiesatoz/R.aspx,Raleigh Cycle Ltd (JES),9,60
+1771,http://www.corporatecritic.org/companiesatoz/F.aspx,Fiat Chrysler Automobiles N.V. (FCA),6.5,43
+1772,http://www.corporatecritic.org/companiesatoz/Bellw.aspx,Bellway Plc,12.5,83
+1773,http://www.corporatecritic.org/companiesatoz/RISO%20.aspx,RSA Insurance,4,26
+1774,http://www.corporatecritic.org/companiesatoz/Price.aspx,Pukka Pads 2000 Ltd,14,93
+1775,http://www.corporatecritic.org/companiesatoz/O.aspx,OKOBAY VENTURES LTD,11.5,76
+1776,http://www.corporatecritic.org/companiesatoz/P.aspx,People Tree Fair Trade Group Ltd,(12),80
+1777,http://www.corporatecritic.org/companiesatoz/The%20W.aspx,Tonic T-Shirts Ltd,14,93
+1778,http://www.corporatecritic.org/companiesatoz/AMT%20C.aspx,Anheuser-Busch InBev SA/NV,9,60
+1779,http://www.corporatecritic.org/companiesatoz/Scott.aspx,Shanghai Automotive Industry Corporation,9,60
+1780,http://www.corporatecritic.org/companiesatoz/E.aspx,Essential Care (Organics) Ltd,14.5,96
+1781,http://www.corporatecritic.org/companiesatoz/L.aspx,Leathams Plc,14,93
+1782,http://www.corporatecritic.org/companiesatoz/K.aspx,Kohlberg & Co LLC,14,93
+1783,http://www.corporatecritic.org/companiesatoz/Ninte.aspx,Novartis AG,8,53
+1784,http://www.corporatecritic.org/companiesatoz/Whitt.aspx,Winfresh Group,14,93
+1785,http://www.corporatecritic.org/companiesatoz/F.aspx,Financial Systems & Consultancy,14,93
+1786,http://www.corporatecritic.org/companiesatoz/Phile.aspx,Phillips 66,???,-1
+1787,http://www.corporatecritic.org/companiesatoz/F.aspx,Fellowes,14,93
+1788,http://www.corporatecritic.org/companiesatoz/E.aspx,Ecco Holding A/S,8,53
+1789,http://www.corporatecritic.org/companiesatoz/D.aspx,Dakine,14,93
+1790,http://www.corporatecritic.org/companiesatoz/TPG.aspx,Traidcraft Foundation,13,86
+1791,http://www.corporatecritic.org/companiesatoz/Delta.aspx,Desford Holdings,13.5,90
+1792,http://www.corporatecritic.org/companiesatoz/Glen%20.aspx,Greene King plc,6,40
+1793,http://www.corporatecritic.org/companiesatoz/T.aspx,TDK Corp,14,93
+1794,http://www.corporatecritic.org/companiesatoz/Glen%20.aspx,Golden Casket Company,14,93
+1795,http://www.corporatecritic.org/companiesatoz/Lette.aspx,Linwood Fabrics Ltd,14,93
+1796,http://www.corporatecritic.org/companiesatoz/J.aspx,Johnson Matthey plc,13,86
+1797,http://www.corporatecritic.org/companiesatoz/Phile.aspx,Plum Baby Ltd,14,93
+1798,http://www.corporatecritic.org/companiesatoz/BMK%20H.aspx,BNP Paribas,3.5,23
+1799,http://www.corporatecritic.org/companiesatoz/AMT%20C.aspx,Artesian Property Partnership,13,86
+1800,http://www.corporatecritic.org/companiesatoz/G.aspx,Gear Shift Cycles,14,93
+1801,http://www.corporatecritic.org/companiesatoz/W.aspx,Wearth London Limited,???,-1
+1802,http://www.corporatecritic.org/companiesatoz/E.aspx,Eat Natural Ltd,9.5,63
+1803,http://www.corporatecritic.org/companiesatoz/123.aspx,3V Natural Foods Group,10,66
+1804,http://www.corporatecritic.org/companiesatoz/Bellw.aspx,Big Barn CIC,???,-1
+1805,http://www.corporatecritic.org/companiesatoz/Scott.aspx,Sequana Capital,14,93
+1806,http://www.corporatecritic.org/companiesatoz/S.aspx,SAAT (Foundation for the Administration of Triodos Bank Shares),14,93
+1807,http://www.corporatecritic.org/companiesatoz/J.aspx,Janome Sewing Machine Co Ltd,14,93
+1808,http://www.corporatecritic.org/companiesatoz/C.aspx,Caisse de Depot et Placement du Quebec,11.5,76
+1809,http://www.corporatecritic.org/companiesatoz/S.aspx,Schwarz Beteiligungs-KG (Schwarz Group),5,33
+1810,http://www.corporatecritic.org/companiesatoz/G.aspx,George Bateman and Son ltd,???,-1
+1811,http://www.corporatecritic.org/companiesatoz/O.aspx,OrganiPets Limited,14,93
+1812,http://www.corporatecritic.org/companiesatoz/Glen%20.aspx,Green Tulip,10.5,70
+1813,http://www.corporatecritic.org/companiesatoz/S.aspx,Sappi Ltd,14,93
+1814,http://www.corporatecritic.org/companiesatoz/Glen%20.aspx,Greenscents Ltd,???,-1
+1815,http://www.corporatecritic.org/companiesatoz/J.aspx,J. Wild (Confectioners) Ltd,14,93
+1816,http://www.corporatecritic.org/companiesatoz/KPMG%20.aspx,KPMG International,13.5,90
+1817,http://www.corporatecritic.org/companiesatoz/T.aspx,Tamar Organics,14,93
+1818,http://www.corporatecritic.org/companiesatoz/E.aspx,ETA Trust,14,93
+1819,http://www.corporatecritic.org/companiesatoz/D.aspx,Dahon,9,60
+1820,http://www.corporatecritic.org/companiesatoz/B.aspx,Barker and Bland,12,80
+1821,http://www.corporatecritic.org/companiesatoz/Delta.aspx,Deutsche Telekom AG,13.5,90
+1822,http://www.corporatecritic.org/companiesatoz/G.aspx,Gap Inc (The),(5),33
+1823,http://www.corporatecritic.org/companiesatoz/P.aspx,Pfizer Inc,5.5,36
+1824,http://www.corporatecritic.org/companiesatoz/123.aspx,[OLD] Phone Co-op,(5.5),36
+1825,http://www.corporatecritic.org/companiesatoz/Hero.aspx,Hill Station plc,14,93
+1826,http://www.corporatecritic.org/companiesatoz/P.aspx,Pastificio Rana Spa,14,93
+1827,http://www.corporatecritic.org/companiesatoz/Cream.aspx,Crystal Spring,13,86
+1828,http://www.corporatecritic.org/companiesatoz/Bellw.aspx,Blacks Outdoor Retail Ltd,6,40
+1829,http://www.corporatecritic.org/companiesatoz/Y.aspx,"Yellow Group, The",14,93
+1830,http://www.corporatecritic.org/companiesatoz/J.aspx,John Lewis Partnership Trust Limited,???,-1
+1831,http://www.corporatecritic.org/companiesatoz/Glen%20.aspx,GO OUTDOORS TOPCO LIMITED,10.5,70
+1832,http://www.corporatecritic.org/companiesatoz/BMK%20H.aspx,Bottle Green Drinks,14,93
+1833,http://www.corporatecritic.org/companiesatoz/R.aspx,Recreational  Equipment Inc,14,93
+1834,http://www.corporatecritic.org/companiesatoz/I.aspx,International Bon Ton Toys B V,14,93
+1835,http://www.corporatecritic.org/companiesatoz/Specs.aspx,Stroud Brewery,???,-1
+1836,http://www.corporatecritic.org/companiesatoz/Whitt.aspx,WS Badger Co Inc,13.5,90
+1837,http://www.corporatecritic.org/companiesatoz/Flowf.aspx,Fujitsu Ltd,4.5,30
+1838,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,Epic Games inc,???,-1
+1839,http://www.corporatecritic.org/companiesatoz/K.aspx,Kingfisher plc,4,26
+1840,http://www.corporatecritic.org/companiesatoz/G.aspx,Gintare Business Solutions Limited,???,-1
+1841,http://www.corporatecritic.org/companiesatoz/O.aspx,Okiocredit,14,93
+1842,http://www.corporatecritic.org/companiesatoz/V.aspx,Viewtown Nurseries,14,93
+1843,http://www.corporatecritic.org/companiesatoz/TPG.aspx,Trevor Baylis Brands plc,14,93
+1844,http://www.corporatecritic.org/companiesatoz/N.aspx,National Farmers Union Mutual Insurance Society Limited,7,46
+1845,http://www.corporatecritic.org/companiesatoz/Phile.aspx,Pictet Group,6,40
+1846,http://www.corporatecritic.org/companiesatoz/Whitt.aspx,William Grant & Sons Holdings Ltd,14,93
+1847,http://www.corporatecritic.org/companiesatoz/Fung%20.aspx,Fyffes plc,0,0
+1848,http://www.corporatecritic.org/companiesatoz/Glen%20.aspx,Granville Holdings Ltd,14,93
+1849,http://www.corporatecritic.org/companiesatoz/Maya.aspx,McDonald's Corporation,1.5,10
+1850,http://www.corporatecritic.org/companiesatoz/V.aspx,Vitagermine SAS,14,93
+1851,http://www.corporatecritic.org/companiesatoz/The%20C.aspx,The Restaurant Group plc,7.5,50
+1852,http://www.corporatecritic.org/companiesatoz/Group.aspx,Groupe SEB,(8.5),56
+1853,http://www.corporatecritic.org/companiesatoz/The%20W.aspx,Total Produce plc,8.5,56
+1854,http://www.corporatecritic.org/companiesatoz/B.aspx,Beaming Baby Ltd,???,-1
+1855,http://www.corporatecritic.org/companiesatoz/The%20C.aspx,The Rainbow Chain,14,93
+1856,http://www.corporatecritic.org/companiesatoz/F.aspx,Fenton Pharmaceuticals Ltd,14,93
+1857,http://www.corporatecritic.org/companiesatoz/Scott.aspx,Simpsons Premium Ltd,???,-1
+1858,http://www.corporatecritic.org/companiesatoz/Specs.aspx,Sun Capital Partners Inc,4.5,30
+1859,http://www.corporatecritic.org/companiesatoz/K.aspx,KfW Bankengruppe,14,93
+1860,http://www.corporatecritic.org/companiesatoz/U.aspx,Utilita,14,93
+1861,http://www.corporatecritic.org/companiesatoz/Londo.aspx,Lotus Bakeries NV,???,-1
+1862,http://www.corporatecritic.org/companiesatoz/Phile.aspx,PLANET COCONUT LTD,14,93
+1863,http://www.corporatecritic.org/companiesatoz/V.aspx,Victorinox AG,(14),93
+1864,http://www.corporatecritic.org/companiesatoz/M.aspx,Madécasse LLC,15,100
+1865,http://www.corporatecritic.org/companiesatoz/N.aspx,National Grid plc,13.5,90
+1866,http://www.corporatecritic.org/companiesatoz/G.aspx,Genee World Ltd,14,93
+1867,http://www.corporatecritic.org/companiesatoz/BMK%20H.aspx,"Bonduelle S.A,",14,93
+1868,http://www.corporatecritic.org/companiesatoz/Caurn.aspx,Chocolaterie Robert SA,???,-1
+1869,http://www.corporatecritic.org/companiesatoz/H.aspx,Hambleden Herbs,15,100
+1870,http://www.corporatecritic.org/companiesatoz/H.aspx,Halewood International Ltd,14,93
+1871,http://www.corporatecritic.org/companiesatoz/Caurn.aspx,Chiquita Brands International Sarl,(3.5),23
+1872,http://www.corporatecritic.org/companiesatoz/M.aspx,Mamas & Papas Ltd,14,93
+1873,http://www.corporatecritic.org/companiesatoz/Scott.aspx,Sennheiser Electronic GmbH & Co. KG,14,93
+1874,http://www.corporatecritic.org/companiesatoz/The%20W.aspx,Thermomax Ltd,14,93
+1875,http://www.corporatecritic.org/companiesatoz/Briti.aspx,BuzzFeed Inc,???,-1
+1876,http://www.corporatecritic.org/companiesatoz/Caurn.aspx,Channel Four Television Corporation,14,93
+1877,http://www.corporatecritic.org/companiesatoz/Scott.aspx,Securitas AB,???,-1
+1878,http://www.corporatecritic.org/companiesatoz/A.aspx,Agfa-Gevaert NV,14,93
+1879,http://www.corporatecritic.org/companiesatoz/Londo.aspx,London 58 Limited,7,46
+1880,http://www.corporatecritic.org/companiesatoz/Group.aspx,Guido M. Barilla E F. Lli Societa',13.5,90
+1881,http://www.corporatecritic.org/companiesatoz/O.aspx,Omega Pharma,8.5,56
+1882,http://www.corporatecritic.org/companiesatoz/Specs.aspx,Sunnflair Holdings Ltd,14,93
+1883,http://www.corporatecritic.org/companiesatoz/A.aspx,African Petroleum Corporation Ltd,11,73
+1884,http://www.corporatecritic.org/companiesatoz/Phile.aspx,Philex Plc,14,93
+1885,http://www.corporatecritic.org/companiesatoz/Surya.aspx,Suzuki Motor Corp,8.5,56
+1886,http://www.corporatecritic.org/companiesatoz/G.aspx,General Mills Inc,4,26
+1887,http://www.corporatecritic.org/companiesatoz/A.aspx,Abundance Investment Ltd,???,-1
+1888,http://www.corporatecritic.org/companiesatoz/Asda%20.aspx,AstraZeneca Plc,12,80
+1889,http://www.corporatecritic.org/companiesatoz/G.aspx,Gaz de France,14,93
+1890,http://www.corporatecritic.org/companiesatoz/Bellw.aspx,Bentley Organic Limited,12.5,83
+1891,http://www.corporatecritic.org/companiesatoz/Maya.aspx,Ministry of Tea,14,93
+1892,http://www.corporatecritic.org/companiesatoz/S.aspx,Samworth Brothers (Holdings) Ltd,14,93
+1893,http://www.corporatecritic.org/companiesatoz/B.aspx,Beechdean Dairies Ltd,8,53
+1894,http://www.corporatecritic.org/companiesatoz/Whitt.aspx,Wikr Inc,12,80
+1895,http://www.corporatecritic.org/companiesatoz/Vivar.aspx,VSM Group AB,14,93
+1896,http://www.corporatecritic.org/companiesatoz/Bellw.aspx,"Berger Group Holdings, Inc",???,-1
+1897,http://www.corporatecritic.org/companiesatoz/V.aspx,Vina Concha y Toro SA,12.5,83
+1898,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,Eurasian Resources Group,???,-1
+1899,http://www.corporatecritic.org/companiesatoz/Skadd.aspx,Skye Leisure Ventures,14,93
+1900,http://www.corporatecritic.org/companiesatoz/Price.aspx,Pure the Clean Planet Trust,14,93
+1901,http://www.corporatecritic.org/companiesatoz/F.aspx,Fair Deal Trading Gmbh,15,100
+1902,http://www.corporatecritic.org/companiesatoz/P.aspx,PepsiCo Inc,2.5,16
+1903,http://www.corporatecritic.org/companiesatoz/Specs.aspx,State Oil Company of Azerbaijan (SOCAR),14,93
+1904,http://www.corporatecritic.org/companiesatoz/Mio%20T.aspx,Munich Re (Munchener Ruckversicherungs-Gesellschaft Aktiongesellschaft),2.5,16
+1905,http://www.corporatecritic.org/companiesatoz/Glen%20.aspx,Green Mobile Ltd,14,93
+1906,http://www.corporatecritic.org/companiesatoz/R.aspx,Richer Sounds,12,80
+1907,http://www.corporatecritic.org/companiesatoz/L.aspx,LANDLIFE,13.5,90
+1908,http://www.corporatecritic.org/companiesatoz/Delta.aspx,DS Smith plc,14,93
+1909,http://www.corporatecritic.org/companiesatoz/V.aspx,Venture Foods (UK) Ltd,15,100
+1910,http://www.corporatecritic.org/companiesatoz/Skadd.aspx,Sonett GmbH,(12),80
+1911,http://www.corporatecritic.org/companiesatoz/M.aspx,Marconi Corporation Plc,14,93
+1912,http://www.corporatecritic.org/companiesatoz/Ovo%20E.aspx,Oxfam,12.5,83
+1913,http://www.corporatecritic.org/companiesatoz/The%20W.aspx,TotsBots Ltd,14.5,96
+1914,http://www.corporatecritic.org/companiesatoz/The%20C.aspx,The Moulton Bicycle Company Limited,11,73
+1915,http://www.corporatecritic.org/companiesatoz/W.aspx,Walmart Inc.,(0),0
+1916,http://www.corporatecritic.org/companiesatoz/Group.aspx,Grupo Modelo,9,60
+1917,http://www.corporatecritic.org/companiesatoz/The%20W.aspx,TopQualiTea,14,93
+1918,http://www.corporatecritic.org/companiesatoz/V.aspx,Veetee Investments Corporation,13,86
+1919,http://www.corporatecritic.org/companiesatoz/B.aspx,Bahlsen GmbH & Co. KG,11.5,76
+1920,http://www.corporatecritic.org/companiesatoz/Mio%20T.aspx,Mobile Interactive Group,14,93
+1921,http://www.corporatecritic.org/companiesatoz/Surya.aspx,Swan Products Limited,???,-1
+1922,http://www.corporatecritic.org/companiesatoz/Whitt.aspx,Willis Group Holdings Plc,14,93
+1923,http://www.corporatecritic.org/companiesatoz/C.aspx,Cairn Energy Plc,14,93
+1924,http://www.corporatecritic.org/companiesatoz/Scott.aspx,Sharp Corporation,(6.5),43
+1925,http://www.corporatecritic.org/companiesatoz/Bellw.aspx,BIOFA Naturprodukte W. Hahn GmbH,14,93
+1926,http://www.corporatecritic.org/companiesatoz/E.aspx,Europa Pet Foods Ltd,14,93
+1927,http://www.corporatecritic.org/companiesatoz/D.aspx,D-Link,14,93
+1928,http://www.corporatecritic.org/companiesatoz/D.aspx,Dean Foods Co,12,80
+1929,http://www.corporatecritic.org/companiesatoz/W.aspx,Wells Fargo & Company,11.5,76
+1930,http://www.corporatecritic.org/companiesatoz/Clove.aspx,Co-operative Group Ltd,6,40
+1931,http://www.corporatecritic.org/companiesatoz/H.aspx,Health Made Easy,???,-1
+1932,http://www.corporatecritic.org/companiesatoz/J.aspx,Jarvis plc,14,93
+1933,http://www.corporatecritic.org/companiesatoz/U.aspx,"United Parcel Service, Inc",12.5,83
+1934,http://www.corporatecritic.org/companiesatoz/Lette.aspx,Little Valley Brewery,???,-1
+1935,http://www.corporatecritic.org/companiesatoz/Clove.aspx,Co-operative Bank Holdings Limited,7,46
+1936,http://www.corporatecritic.org/companiesatoz/F.aspx,Federal Express Corporation (FedEx),13,86
+1937,http://www.corporatecritic.org/companiesatoz/The%20C.aspx,The Sutton Trust,14,93
+1938,http://www.corporatecritic.org/companiesatoz/Group.aspx,Gruppo Ferroli SPA,14,93
+1939,http://www.corporatecritic.org/companiesatoz/AMT%20C.aspx,Asahi Group Holdings Ltd,???,-1
+1940,http://www.corporatecritic.org/companiesatoz/BMK%20H.aspx,Bolling Coffee Ltd,14,93
+1941,http://www.corporatecritic.org/companiesatoz/AMT%20C.aspx,Ariston Thermo Group,14,93
+1942,http://www.corporatecritic.org/companiesatoz/N.aspx,Nemofeffer SA,14,93
+1943,http://www.corporatecritic.org/companiesatoz/BMK%20H.aspx,Bridisco Group,14,93
+1944,http://www.corporatecritic.org/companiesatoz/Huit%20.aspx,Humax Digital,14,93
+1945,http://www.corporatecritic.org/companiesatoz/P.aspx,Pearson plc,12,80
+1946,http://www.corporatecritic.org/companiesatoz/V.aspx,Veolia Environnement,13.5,90
+1947,http://www.corporatecritic.org/companiesatoz/BMK%20H.aspx,Bristol-Myers Squibb Co,13,86
+1948,http://www.corporatecritic.org/companiesatoz/V.aspx,Vintage Roots,14,93
+1949,http://www.corporatecritic.org/companiesatoz/B.aspx,Baby Dan A/S,14,93
+1950,http://www.corporatecritic.org/companiesatoz/L.aspx,Lenbrook Group,14,93
+1951,http://www.corporatecritic.org/companiesatoz/The%20W.aspx,Tokyo Electric Power Co Inc,14,93
+1952,http://www.corporatecritic.org/companiesatoz/L.aspx,La Terra e il Cielo,14,93
+1953,http://www.corporatecritic.org/companiesatoz/Glen%20.aspx,Global Ethics Group Ltd,???,-1
+1954,http://www.corporatecritic.org/companiesatoz/Group.aspx,Groupe CGI Inc,14,93
+1955,http://www.corporatecritic.org/companiesatoz/Hero.aspx,Hershey Company (The),(5),33
+1956,http://www.corporatecritic.org/companiesatoz/P.aspx,Pacifica Beauty LLC,10,66
+1957,http://www.corporatecritic.org/companiesatoz/Caurn.aspx,Chiltern Seeds Limited,14,93
+1958,http://www.corporatecritic.org/companiesatoz/AMT%20C.aspx,Arsenal Holdings plc,14,93
+1959,http://www.corporatecritic.org/companiesatoz/P.aspx,Panasonic Corporation,4.5,30
+1960,http://www.corporatecritic.org/companiesatoz/G.aspx,Geobra Brandstatter Group,14,93
+1961,http://www.corporatecritic.org/companiesatoz/W.aspx,W ROBINSON & SON (SEEDS & PLANTS) LTD,14,93
+1962,http://www.corporatecritic.org/companiesatoz/Group.aspx,Gruppo Illy spa,9.5,63
+1963,http://www.corporatecritic.org/companiesatoz/Ninte.aspx,Notcutts Group Ltd,7.5,50
+1964,http://www.corporatecritic.org/companiesatoz/Lette.aspx,Levi Strauss & Co,7,46
+1965,http://www.corporatecritic.org/companiesatoz/R.aspx,Refresco Group N.V. (prev. refresco-gerber),(???),-1
+1966,http://www.corporatecritic.org/companiesatoz/C.aspx,Carrefour,13,86
+1967,http://www.corporatecritic.org/companiesatoz/The%20C.aspx,The Organic Family Ltd,15,100
+1968,http://www.corporatecritic.org/companiesatoz/RISO%20.aspx,Roland Seguin,14,93
+1969,http://www.corporatecritic.org/companiesatoz/Mio%20T.aspx,Mitsubishi Chemical Corporation,(8.5),56
+1970,http://www.corporatecritic.org/companiesatoz/IT'S%20.aspx,ITV plc,(10),66
+1971,http://www.corporatecritic.org/companiesatoz/RISO%20.aspx,Ryanair Holdings PLC,13.5,90
+1972,http://www.corporatecritic.org/companiesatoz/Glen%20.aspx,Green Power Ten Co.Ltd,14,93
+1973,http://www.corporatecritic.org/companiesatoz/BMK%20H.aspx,Border Biscuits Ltd,???,-1
+1974,http://www.corporatecritic.org/companiesatoz/E.aspx,Estée Lauder Companies Inc,5.5,36
+1975,http://www.corporatecritic.org/companiesatoz/L.aspx,LELOi AB,???,-1
+1976,http://www.corporatecritic.org/companiesatoz/Hero.aspx,Hilton Hotels Corp,13.5,90
+1977,http://www.corporatecritic.org/companiesatoz/G.aspx,GlaxoSmithKline,4,26
+1978,http://www.corporatecritic.org/companiesatoz/BMK%20H.aspx,Boparan Holdco Ltd,???,-1
+1979,http://www.corporatecritic.org/companiesatoz/E.aspx,Endless,12.5,83
+1980,http://www.corporatecritic.org/companiesatoz/The%20W.aspx,Thomas Cook Group Ltd,13,86
+1981,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,Ernst & Young,9,60
+1982,http://www.corporatecritic.org/companiesatoz/Cream.aspx,Cubit Group Ltd,14,93
+1983,http://www.corporatecritic.org/companiesatoz/Specs.aspx,Steenbergs,14,93
+1984,http://www.corporatecritic.org/companiesatoz/Flowf.aspx,Foodco Group Pty Limited,7,46
+1985,http://www.corporatecritic.org/companiesatoz/Price.aspx,Pure Origin Ltd,14,93
+1986,http://www.corporatecritic.org/companiesatoz/M.aspx,Madison Dearborn Partners,13,86
+1987,http://www.corporatecritic.org/companiesatoz/Scott.aspx,Singularity Education Group,11.5,76
+1988,http://www.corporatecritic.org/companiesatoz/C.aspx,Calzaturificio Zamberlan SRL,11.5,76
+1989,http://www.corporatecritic.org/companiesatoz/U.aspx,United Utilities plc,13.5,90
+1990,http://www.corporatecritic.org/companiesatoz/Agnat.aspx,Ami SRL,13,86
+1991,http://www.corporatecritic.org/companiesatoz/Clove.aspx,Coventry Building Society,13.5,90
+1992,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,Efergy Ltd,14,93
+1993,http://www.corporatecritic.org/companiesatoz/G.aspx,Genesco Inc,6.5,43
+1994,http://www.corporatecritic.org/companiesatoz/Maya.aspx,"Micro-Star International Co., Ltd.",8,53
+1995,http://www.corporatecritic.org/companiesatoz/D.aspx,Daniel Field Direct Limited,???,-1
+1996,http://www.corporatecritic.org/companiesatoz/Group.aspx,Guess? Inc,(3),20
+1997,http://www.corporatecritic.org/companiesatoz/Clove.aspx,ConocoPhillips,12,80
+1998,http://www.corporatecritic.org/companiesatoz/Glen%20.aspx,Good Food A/S,14,93
+1999,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,Eltax A/S,14,93
+2000,http://www.corporatecritic.org/companiesatoz/H.aspx,Hanover Acceptances Ltd,14,93
+2001,http://www.corporatecritic.org/companiesatoz/Skadd.aspx,Skipton Building Society,13.5,90
+2002,http://www.corporatecritic.org/companiesatoz/E.aspx,Ebooks.com pty limited,14,93
+2003,http://www.corporatecritic.org/companiesatoz/S.aspx,Sage Group plc (The),13.5,90
+2004,http://www.corporatecritic.org/companiesatoz/M.aspx,M-real,13.5,90
+2005,http://www.corporatecritic.org/companiesatoz/G.aspx,Galloway Timber,14,93
+2006,http://www.corporatecritic.org/companiesatoz/R.aspx,Rickenbacker International Corporation,14,93
+2007,http://www.corporatecritic.org/companiesatoz/123.aspx,3M Company,12.5,83
+2008,http://www.corporatecritic.org/companiesatoz/O.aspx,OPEF BV,14,93
+2009,http://www.corporatecritic.org/companiesatoz/BMK%20H.aspx,Bradford & Bingley,14,93
+2010,http://www.corporatecritic.org/companiesatoz/P.aspx,Perskey Holdings Ltd,13,86
+2011,http://www.corporatecritic.org/companiesatoz/BMK%20H.aspx,Booost Trading Ltd,14,93
+2012,http://www.corporatecritic.org/companiesatoz/Price.aspx,Promotional Candy Company,14,93
+2013,http://www.corporatecritic.org/companiesatoz/Whitt.aspx,Wynnster Outdoor Leisure,14,93
+2014,http://www.corporatecritic.org/companiesatoz/S.aspx,Saracen Bikes Ltd,14,93
+2015,http://www.corporatecritic.org/companiesatoz/P.aspx,Pavers Holdings Ltd,10.5,70
+2016,http://www.corporatecritic.org/companiesatoz/Glen%20.aspx,Green Paints,14,93
+2017,http://www.corporatecritic.org/companiesatoz/M.aspx,MasterCard Foundation,14,93
+2018,http://www.corporatecritic.org/companiesatoz/Agnat.aspx,Allenby family,14,93
+2019,http://www.corporatecritic.org/companiesatoz/U.aspx,UK Whitegoods,14,93
+2020,http://www.corporatecritic.org/companiesatoz/Skadd.aspx,Sofidel SPA,12,80
+2021,http://www.corporatecritic.org/companiesatoz/Bellw.aspx,Bialetti Holding SRL,12,80
+2022,http://www.corporatecritic.org/companiesatoz/Mio%20T.aspx,Molson Coors Brewing Company,9,60
+2023,http://www.corporatecritic.org/companiesatoz/A.aspx,AAC Capital Partners Holding BV,13,86
+2024,http://www.corporatecritic.org/companiesatoz/Lette.aspx,Liverpool Victoria Friendly Society Ltd,7,46
+2025,http://www.corporatecritic.org/companiesatoz/W.aspx,WE International BV,14,93
+2026,http://www.corporatecritic.org/companiesatoz/Hero.aspx,Huggababy,14,93
+2027,http://www.corporatecritic.org/companiesatoz/Asda%20.aspx,ASUSTeK Computer Inc,9,60
+2028,http://www.corporatecritic.org/companiesatoz/The%20W.aspx,Town & Country Pet Foods Ltd,7.5,50
+2029,http://www.corporatecritic.org/companiesatoz/Skadd.aspx,Skadden Arps Slate Meagher & Flom,8,53
+2030,http://www.corporatecritic.org/companiesatoz/E.aspx,Equal Exchange inc,???,-1
+2031,http://www.corporatecritic.org/companiesatoz/D.aspx,Dell Technologies,5.5,36
+2032,http://www.corporatecritic.org/companiesatoz/Londo.aspx,Lyme Regis Fine Foods Ltd,14,93
+2033,http://www.corporatecritic.org/companiesatoz/B.aspx,Balmain Invest & Trade Inc,9,60
+2034,http://www.corporatecritic.org/companiesatoz/I.aspx,Iiyama Benelux B V,14,93
+2035,http://www.corporatecritic.org/companiesatoz/L.aspx,Langdon Group,14,93
+2036,http://www.corporatecritic.org/companiesatoz/Londo.aspx,London & Scottish International Ltd,14,93
+2037,http://www.corporatecritic.org/companiesatoz/I.aspx,Intel Corporation,12,80
+2038,http://www.corporatecritic.org/companiesatoz/Flowf.aspx,FUJIFILM Holdings Corporation,4.5,30
+2039,http://www.corporatecritic.org/companiesatoz/P.aspx,PHB Ethical Beauty Ltd,???,-1
+2040,http://www.corporatecritic.org/companiesatoz/C.aspx,Capita Group plc,14,93
+2041,http://www.corporatecritic.org/companiesatoz/E.aspx,"Engaged Capital, LLC",???,-1
+2042,http://www.corporatecritic.org/companiesatoz/The%20C.aspx,The Kraft Heinz Company,1,6
+2043,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,Essity Aktiebolag (publ),(???),-1
+2044,http://www.corporatecritic.org/companiesatoz/%C3%89.aspx,ENGIE,(8.5),56
+2045,http://www.corporatecritic.org/companiesatoz/C.aspx,Carpetright plc,14,93
+2046,http://www.corporatecritic.org/companiesatoz/I.aspx,INSPIRED PET NUTRITION LIMITED (was Wagg Foods Ltd),8.5,56
+2047,http://www.corporatecritic.org/companiesatoz/Lette.aspx,Letterbox DVD,14,93
+2048,http://www.corporatecritic.org/companiesatoz/Bellw.aspx,Bernina-Holding AG,14,93
+2049,http://www.corporatecritic.org/companiesatoz/Delta.aspx,Deluxe Product Ltd,14,93
+2050,http://www.corporatecritic.org/companiesatoz/V.aspx,Viva!,13,86
+2051,http://www.corporatecritic.org/companiesatoz/Mio%20T.aspx,Morris and Son (Leeds) Ltd.,14,93
+2052,http://www.corporatecritic.org/companiesatoz/Caurn.aspx,Clifford Chance LLP,12.5,83
+2053,http://www.corporatecritic.org/companiesatoz/F.aspx,Fairphone B.V,13,86
+2054,http://www.corporatecritic.org/companiesatoz/F.aspx,Faurecia,???,-1

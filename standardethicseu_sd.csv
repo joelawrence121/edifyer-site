@@ -1,0 +1,619 @@
+,company,rating,sd_rating
+0,LafargeHolcim,E,25
+1,Fresenius SE & Co.,E+,37
+2,FinecoBank,EE+,75
+3,UBI Banca,Suspended,-1
+4,Adecco Group,EEE-,87
+5,Wirecard,Suspended,-1
+6,MVV Energie ,EE-,50
+7,EnBW Energie Baden-Wurttemberg ,E,25
+8,Neoen,E+,37
+9,Credito Emiliano,E,25
+10,ERG,E+,37
+11,Ferrovial,EE-,50
+12,Iren,E+,37
+13,Suez,EE-,50
+14,BKW,E+,37
+15,EVN,EE-,50
+16,Elia Group,EE-,50
+17,EDP Renovaveis,E+,37
+18,Groupe Bruxelles Lambert,E,25
+19,AXA,EE,62
+20,CEZ,E,25
+21,Verbund ,EE,62
+22,Campari,E,25
+23,Linde Plc,EE,62
+24,Pennon Group,EE+,75
+25,Adyen,EE-,50
+26,Hera,EE-,50
+27,Acea,EE-,50
+28,Bank Pekao ,E+,37
+29,Intertek Group ,EEE-,87
+30,AB Volvo,E+,37
+31,Uniper,EE-,50
+32,DiaSorin,EE-,50
+33,Dow,EE-,50
+34,Severn Trent,EE,62
+35,China Unicom (Hong Kong),E,25
+36,CaixaBank,E+,37
+37,VINCI,EE-,50
+38,CSPC Pharmaceutical Group ,E,25
+39,Techtronic Industries,E+,37
+40,United Utilities Group,EE,62
+41,Amadeus IT Group,EE,62
+42,Roche Holding,E+,37
+43,Sunny Optical Technology Group,E,25
+44,China Shenhua Energy,E-,12
+45,Hengan International Group ,E,25
+46,Banco Desio Brianza,E+,37
+47,AAC Technologies Holdings,E+,37
+48,CK Infrastructure Holdings ,E,25
+49,Solvay,EE-,50
+50,UniCredit,EE+,75
+51,Sino Land Company,E,25
+52,Hang Lung Properties ,E,25
+53,AIB Group,E+,37
+54,Air Liquide,EE+,75
+55,Philips,EE,62
+56,Tenaris,E,25
+57,Nordea Bank,EE,62
+58,Novartis,EE-,50
+59,Henderson Land Development,E,25
+60,Swedbank,EE,62
+61,L'Oreal,E+,37
+62,Grifols,E+,37
+63,CNH Industrial,E+,37
+64,CITIC Limited,E,25
+65,Naturgy Energy Group (formerly Gas Natural SDG),E+,37
+66,Adidas,EE,62
+67,Sino Biopharmaceutical ,E,25
+68,Continental,EE-,50
+69,BNP Paribas,EE+,75
+70,Capgemini,EEE-,87
+71,UBS Group,E+,37
+72,PetroChina,E,25
+73,Acciona,EE-,50
+74,LVMH,E+,37
+75,Want Want China Holdings,E,25
+76,Geberit,EEE-,87
+77,AB Inbev,E-,12
+78,Banca Generali,EE,62
+79,Power Assets Holdings,E+,37
+80,Enel,EE,62
+81,WH Group ,E,25
+82,STMicroelectronics,EE,62
+83,ING Groep,E+,37
+84,Banco BPM,EE-,50
+85,China Mengniu Dairy,E,25
+86,Terna,E+,37
+87,Dassault Systemes,E+,37
+88,Umicore,EE+,75
+89,Schroders,E+,37
+90,Salvatore Ferragamo,E,25
+91,BPER Banca (formerly Banca Popolare Emilia Romagna),EE-,50
+92,BHP Group Plc (formerly BHP Billiton),E,25
+93,Ence Energia y Celulosa ,EE-,50
+94,EssilorLuxottica,EE-,50
+95,SIAS,EE-,50
+96,ASTM,EE-,50
+97,Adyen,Pending,-1
+98,Geely Automobile Holdings,E,25
+99,Leonardo (formerly Finmeccanica),EE,62
+100,Verizon Communications,EE-,50
+101,PKO Bank Polski,EE-,50
+102,Vivendi,E,25
+103,Atlantia,E-,12
+104,Alcon,Pending,-1
+105,Total,EE-,50
+106,Pirelli & C.,E+,37
+107,Warehouses de Pauw (WDP),E+,37
+108,Pfizer,E+,37
+109,Kering,E-,12
+110,UnipolSai,EE+,75
+111,ABB,EE,62
+112,Bayer,E+,37
+113,New World Development Company,EE-,50
+114,China Life Insurance Company,E,25
+115,Shenzhou International Group Holdings,E,25
+116,Sinopec Corp,E-,12
+117,Wharf REIC,E+,37
+118,Link REIT,EE,62
+119,Galaxy Entertainment Group,E,25
+120,CK Asset Holdings,E+,37
+121,Bank of Communications,E,25
+122,China Resources Land,E,25
+123,Country Garden Holdings,E,25
+124,CK Hutchison Holdings,E+,37
+125,Sands China,E,25
+126,Hong Kong and China Gas,E+,37
+127,Hong Kong Exchanges and Clearing (HKEX),EE+,75
+128,Bank of China Hong Kong Holdings,E+,37
+129,Sun Hung Kai Properties,E,25
+130,Hang Seng Bank,E+,37
+131,Industrial and Commercial Bank of China (ICBC),E-,12
+132,Ping An Insurance Group Co of China,E-,12
+133,FinecoBank,EE,62
+134,China Overseas Land & Investment,E,25
+135,Unibail-Rodamco-Westfield ,EEE-,87
+136,CNOOC,E-,12
+137,Amplifon,E+,37
+138,Nordea Bank,EE+,75
+139,Sanofi,EE-,50
+140,Cofinimmo,EE+,75
+141,Swatch,E,25
+142,Saint-Gobain,EE,62
+143,Tencent Holdings,E-,12
+144,Valeo,EE,62
+145,Carrefour,EE-,50
+146,Credito Valtellinese,EE-,50
+147,AIA Group,EE,62
+148,Commerzbank,EE-,50
+149,ANA Holdings,E+,37
+150,Deutsche Boerse,EE-,50
+151,China Construction Bank,E,25
+152,Electricité de France (EDF),E+,37
+153,Deutsche Post,EE+,75
+154,SBM Offshore,Removed from SE Indices,-1
+155,Swedbank,EE,62
+156,Nordea Bank,EE+,75
+157,Novo Nordisk,EE-,50
+158,AB Volvo,E+,37
+159,A2A,EE,62
+160,Takeda Pharmaceutical,EE,62
+161,Henkel,E,25
+162,Bank of China,E-,12
+163,Colruyt,E,25
+164,Michelin,EE+,75
+165,Sony Corporation,EE,62
+166,Boeing,Suspended,-1
+167,Atlas Copco,EE,62
+168,Cellnex Telecom,EE-,50
+169,UBI Banca,EE,62
+170,China Mobile,E,25
+171,Carnival Plc,E,25
+172,Volkswagen,E-,12
+173,Equinor,EE,62
+174,A.P. Moller - Maersk,E+,37
+175,Poste Italiane,E+,37
+176,Engie,EE-,50
+177,CLP Holdings,E,25
+178,Ferguson PLC (formerly Wolseley),EE,62
+179,Mizuho Financial Group,EE-,50
+180,CIE Automotive,E,25
+181,CNH Industrial,E+,37
+182,Mitsubishi UFJ Financial Group (MUFG),E+,37
+183,Ashtead group plc,EE-,50
+184,Hitachi,EE-,50
+185,Informa,EE,62
+186,argenx,EE-,50
+187,Renault,E+,37
+188,Banca Carige,Suspended,-1
+189,Enel,EE+,75
+190,Wirecard,EE-,50
+191,MTR Corporation,EE-,50
+192,ArcelorMittal,E+,37
+193,Swire Pacific,E,25
+194,Covestro,EE+,75
+195,Walgreens Boots Alliance,E+,37
+196,Hermès International,E,25
+197,Ferrari,E+,37
+198,Danske Bank,Suspended,-1
+199,Unibail-Rodamco,Pending,-1
+200,FinecoBank,EE,62
+201,Deutsche Post,EE,62
+202,Yoox Net-A-Porter,Suspended because Delisted,-1
+203,UnipolSai,EE+,75
+204,Boeing,E+,37
+205,Sanofi,Pending,-1
+206,Energias de Portugal,E+,37
+207,Philips,EE,62
+208,Philips Lighting,EE+,75
+209,London Stock Exchange Group,EEE-,87
+210,Fortum,EE+,75
+211,Nissan,E+,37
+212,ASR Nederland,EE-,50
+213,Daiwa Securities Group,EE-,50
+214,Ørsted,EE,62
+215,Mitsubishi Electric,EE-,50
+216,ENI,EE+,75
+217,Nestlé,EE-,50
+218,A2A,EE-,50
+219,Airbus Group,EE-,50
+220,Buzzi Unicem,E+,37
+221,UnitedHealth,E,25
+222,United Technologies,E,25
+223,Merck & Co.,E+,37
+224,Home Depot,E+,37
+225,Exxon Mobil,E-,12
+226,DowDuPont,E,25
+227,Veolia Environnement,EE,62
+228,Procter & Gamble,EE,62
+229,Johnson & Johnson,E,25
+230,Cisco Systems,EE+,75
+231,Vopak,E+,37
+232,SBM Offshore,Pending,-1
+233,Randstad,EE,62
+234,DSM Kon,EE,62
+235,Boskalis Westmin,E+,37
+236,Altice,E,25
+237,Akzo Nobel,EE+,75
+238,Aalberts Industries,E+,37
+239,Nike,EE-,50
+240,Intel Corporation,EE,62
+241,Philips,EE,62
+242,Banca MPS,EE-,50
+243,KPN,E+,37
+244,Heineken N.V.,EE-,50
+245,Coca-Cola Company,EE,62
+246,Pfizer,Pending,-1
+247,Moncler,E+,37
+248,Goldman Sachs,E+,37
+249,Aegon,EE+,75
+250,NN Group,EEE-,87
+251,Visa,EE,62
+252,ASML Holding,EE+,75
+253,Inditex,E-,12
+254,Aena,E,25
+255,ACS,E,25
+256,Tecnicas Reunidas,E+,37
+257,Melia Hotels International,E+,37
+258,Mapfre,E+,37
+259,Inmobiliaria Colonial,E+,37
+260,Bankinter,E+,37
+261,Indra,EE-,50
+262,DIA,EE-,50
+263,Merlin Properties,EE+,75
+264,Mediaset Espana,E,25
+265,Wolters Kluwer,EEE-,87
+266,Prysmian,EE+,75
+267,Repsol,EE-,50
+268,Red Electrica,EE-,50
+269,Cellnex Telecom,EE-,50
+270,Microsoft Corporation,EE,62
+271,Amadeus IT Group,EE-,50
+272,Siemens Gamesa,EE,62
+273,Apple,EE-,50
+274,Enagás,E+,37
+275,Acciona,E+,37
+276,McDonald's Corporation,E+,37
+277,Sika,E+,37
+278,ABN Amro,EE-,50
+279,Sofina,E,25
+280,3i Group,EE,62
+281,SAP,EE+,75
+282,Lonza Group,EE-,50
+283,Acerinox,E+,37
+284,Viscofan,EE-,50
+285,Endesa,E+,37
+286,Chevron Corporation,EE-,50
+287,Abertis,EE+,75
+288,Caterpillar,EE-,50
+289,Telefonica,EE-,50
+290,Wal-Mart Stores,E,25
+291,3M,EE,62
+292,Telecom Italia,E,25
+293,UnipolSai,EE,62
+294,Vivendi,E+,37
+295,JPMorgan Chase,EE-,50
+296,FinecoBank,EE,62
+297,Mondi Group,EE+,75
+298,IBM,EE+,75
+299,CYBG Group,E+,37
+300,Ferrovial,EE-,50
+301,The Travelers,EE+,75
+302,The Walt Disney,EE,62
+303,Gas Natural SDG,EE-,50
+304,American Express,EE-,50
+305,Telecom Italia,E+,37
+306,Delta Lloyd,Removed,-1
+307,Iberdrola,EE,62
+308,General Electric,EE-,50
+309,Banco de Sabadell,EE-,50
+310,Grifols,E,25
+311,Adidas,EE,62
+312,Atos,EE-,50
+313,CRH,EE-,50
+314,Aperam,E+,37
+315,Societe Generale,EE-,50
+316,Standard Chartered,EE-,50
+317,ITV,EE,62
+318,Deutsche Telekom,EE-,50
+319,Swisscom,E+,37
+320,Enel,EE+,75
+321,BNP Paribas Fortis,E,25
+322,Crèdit Industriel et Commercial,E,25
+323,KBC Group,E,25
+324,DNB Group,E,25
+325,Banco Comercial Português,E+,37
+326,Italgas,E+,37
+327,Natixis,E+,37
+328,Deutsche Pfandbriefbank,EE-,50
+329,Danske Bank,EE,62
+330,Raiffeisen Bank International,E+,37
+331,Bankia,EE-,50
+332,CaixaBank,E+,37
+333,Recordati,E+,37
+334,British American Tobacco,E+,37
+335,Skandinaviska Enskilda Banken (SEB),EE-,50
+336,Swedbank,EE,62
+337,Svenska Handelsbanken,EE,62
+338,Bank of Ireland,E+,37
+339,Allied Irish Banks,E+,37
+340,Credit Suisse,E+,37
+341,Banco BPM,EE-,50
+342,Banco Popolare,Removed because Delisted,-1
+343,Banca Popolare Milano,Removed because Delisted,-1
+344,Banca MPS,Suspended,-1
+345,Daimler,E+,37
+346,Brembo,EE-,50
+347,Ahold Delhaize,EE-,50
+348,Poste Italiane,EE-,50
+349,UBS Group,E+,37
+350,Bayer,EE-,50
+351,Mediobanca,EE-,50
+352,Paddy Power Betfair,E,25
+353,Next,EE-,50
+354,Kingfisher,EE+,75
+355,ITV,EE,62
+356,Fresnillo,E+,37
+357,Old Mutual,EE-,50
+358,London Stock Exchange Group,EEE-,87
+359,Land Securities Group,EE+,75
+360,Anglo American,E,25
+361,Wolseley,EE,62
+362,International Consolidated Airlines Group,EE,62
+363,Smith & Nephew,EE,62
+364,Centrica,EE-,50
+365,Rolls-Royce Holdings,EE,62
+366,Experian,EE+,75
+367,Tesco,EE,62
+368,Legal & General Group,EE,62
+369,RELX,EE,62
+370,Aviva,EE,62
+371,BAE Systems,EE,62
+372,SSE,EE,62
+373,Sky,EE-,50
+374,CRH,Pending,-1
+375,BHP Billiton,E,25
+376,Glencore,E-,12
+377,WPP,EE+,75
+378,Compass Group,EE-,50
+379,Associated British Foods,E,25
+380,Rio Tinto,E,25
+381,Prudential,EE-,50
+382,Imperial Brands,E+,37
+383,National Grid,E+,37
+384,Shire,EE,62
+385,Unilever,EE-,50
+386,BT Group,EE,62
+387,Diageo,EE-,50
+388,Reckitt Benckiser Group,EE,62
+389,AstraZeneca,E+,37
+390,Vodafone Group,EEE-,87
+391,BP,EE-,50
+392,GlaxoSmithKline,E,25
+393,British American Tobacco,Pending,-1
+394,Royal Dutch Shell,EE-,50
+395,Standard Chartered,Pending,-1
+396,Banca Ifis,E,25
+397,Banca Carige,E+,37
+398,Banca Generali,EE-,50
+399,Klepierre,E+,37
+400,HSBC Holdings,EE,62
+401,UnipolSai,EE,62
+402,Ontex Group,EE,62
+403,Erste Group Bank,E,25
+404,National Bank of Greece,E,25
+405,Lloyds Banking Group,E+,37
+406,Galapagos,E,25
+407,Sodexo,E,25
+408,Credito Emiliano,E-,12
+409,Banca Intermobiliare,E,25
+410,Banco Desio Brianza,E,25
+411,Credito Valtellinese,EE-,50
+412,ProSiebenSat.1,E,25
+413,Nokia,EE,62
+414,Swiss Life,EE,62
+415,Azimut Holding,E+,37
+416,Banca MPS,EE,62
+417,Nordea Bank,EE+,75
+418,Banca Profilo,E+,37
+419,Royal Bank of Scotland,E-,12
+420,Banca Finnat,E,25
+421,Banca Popolare Emilia Romagna,EE-,50
+422,ING Group,E+,37
+423,FinecoBank,EE-,50
+424,Banca Popolare di Sondrio,EE-,50
+425,BBVA,EE,62
+426,Peugeot,E+,37
+427,Daimler,E+,37
+428,Banco Santander,E+,37
+429,Deutsche Bank,E-,12
+430,Prysmian,EE,62
+431,Telecom Italia,Suspended,-1
+432,Barclays Plc,E,25
+433,Poste Italiane,EE-,50
+434,Essilor Intl.,EE,62
+435,Volkswagen,E-,12
+436,Luxottica,E+,37
+437,UBS Group,Suspended,-1
+438,Ferrari,E,25
+439,UnipolSai,EE-,50
+440,Volkswagen,Pending,-1
+441,Deutsche Bank,Pending,-1
+442,Daimler,Pending,-1
+443,Henkel,E,25
+444,HeidelbergCement,E,25
+445,Beiersdorf,E,25
+446,ThyssenKrupp,E+,37
+447,Fresenius SE & Co.,E+,37
+448,Fresenius Medical Care,E+,37
+449,Continental,E+,37
+450,Commerzbank,E+,37
+451,Vonovia,EE-,50
+452,Siemens,EE-,50
+453,K+S,EE-,50
+454,RWE,EE-,50
+455,Merck,EE-,50
+456,Deutsche Telekom,EE-,50
+457,Deutsche Boerse,EE-,50
+458,BMW,EE-,50
+459,Bayer,EE-,50
+460,SAP,EE,62
+461,Munich Re,EE,62
+462,Linde,EE,62
+463,Infineon Technologies,EE,62
+464,E.ON,EE,62
+465,Deutsche Lufthansa,EE,62
+466,Deutsche Post,EE,62
+467,BASF,EE,62
+468,Adidas,EE,62
+469,Allianz,EE,62
+470,Campari,E+,37
+471,Pirelli & C.,Removed because Delisted,-1
+472,Intesa San Paolo,EE,62
+473,Vivendi,E+,37
+474,Telecom Italia,E+,37
+475,Saipem,EE-,50
+476,Banca MPS,EE-,50
+477,Unipol Gruppo Finanziario,EE,62
+478,LafargeHolcim,E+,37
+479,Ansaldo STS,E+,37
+480,Telecom Italia,EE-,50
+481,Luxottica,EE-,50
+482,UnipolSai,E+,37
+483,Umicore,EE+,75
+484,UCB,E+,37
+485,Telenet Group,E,25
+486,KBC Group,E+,37
+487,Groupe Bruxelles Lambert,E,25
+488,Elia Group,EE,62
+489,Delta Lloyd,EE+,75
+490,Delhaize Group,PENDING,-1
+491,D'Ieteren,E,25
+492,Colruyt,E,25
+493,Cofinimmo,EE+,75
+494,Bpost,EE,62
+495,Proximus,EE+,75
+496,Bekaert,EE,62
+497,Befimmo,EE-,50
+498,Ageas,E,25
+499,Ackermans & van Haaren,E+,37
+500,AB Inbev,E,25
+501,Pirelli & C.,EE,62
+502,Zurich Insurance Group,EE,62
+503,Vivendi,EE-,50
+504,VINCI,EE-,50
+505,Veolia Environnement,EE,62
+506,Valeo,EE,62
+507,Unibail-Rodamco,EEE-,87
+508,UBS Group,EE-,50
+509,Transocean,E-,12
+510,Total,EE-,50
+511,TechnipFMC,EE,62
+512,Syngenta,EE-,50
+513,Swisscom,E+,37
+514,Swiss Re,EEE-,87
+515,Swatch,E,25
+516,Solvay,E+,37
+517,Societe Generale,EE,62
+518,SGS,E+,37
+519,Schneider Electric,EE,62
+520,Sanofi,EE+,75
+521,Saint Gobain,EE,62
+522,Safran,E+,37
+523,Roche Holding,E,25
+524,Richemont,E,25
+525,Renault,E+,37
+526,Publicis Groupe,EE-,50
+527,Pernod Ricard,E+,37
+528,Orange,E-,12
+529,Novartis,EE-,50
+530,Nestlé,EE-,50
+531,Michelin,EE,62
+532,LVMH,E,25
+533,Legrand,EE-,50
+534,Lafarge,E+,37
+535,L'Oreal,E,25
+536,Kering,E,25
+537,Julius Baer Gruppe,EE-,50
+538,Holcim,EE-,50
+539,Givaudan,EE-,50
+540,Gemalto,EE,62
+541,Geberit,EE+,75
+542,Engie,E+,37
+543,Essilor Intl.,EE,62
+544,Electricité De France (EDF),E+,37
+545,Danone,EE,62
+546,Credit Suisse,EE-,50
+547,Credit Agricole,E,25
+548,Carrefour,EE-,50
+549,Cap Gemini,EEE-,87
+550,Bouygues,EE-,50
+551,BNP Paribas,EE+,75
+552,AXA,EE,62
+553,ArcelorMittal,E+,37
+554,Alstom,E+,37
+555,Alcatel-Lucent,EE,62
+556,Airbus Group,EE-,50
+557,Air Liquide,EE+,75
+558,Adecco Group,EEE-,87
+559,Actelion,E+,37
+560,Accor,EE-,50
+561,ABB,EE+,75
+562,Gtech,Removed,-1
+563,Mediobanca,E+,37
+564,Moncler,E,25
+565,Campari,EE-,50
+566,Pirelli & C.,EE-,50
+567,Banca MPS,E+,37
+568,Luxottica,EE-,50
+569,Yoox,EE-,50
+570,World Duty Free,E+,37
+571,UnipolSai,E,25
+572,UniCredit,EE+,75
+573,UBI Banca,EE,62
+574,Tod's,E+,37
+575,Terna,E,25
+576,Tenaris,E+,37
+577,Telecom Italia,EE-,50
+578,STMicroelectronics,EE,62
+579,Snam Rete Gas,EE-,50
+580,Salvatore Ferragamo,E,25
+581,Saipem,EE,62
+582,Prysmian,EE,62
+583,Moncler,PENDING,-1
+584,Banca Mediolanum,E-,12
+585,Mediobanca,E+,37
+586,Mediaset,E-,12
+587,Luxottica,EE-,50
+588,Intesa San Paolo,EE-,50
+589,Gtech,E-,12
+590,Generali,EE,62
+591,Exor,E,25
+592,ENI,EEE-,87
+593,Enel Green Power,EE,62
+594,Enel,EE+,75
+595,CNH Industrial,E,25
+596,Campari,EE-,50
+597,Buzzi Unicem,E,25
+598,Banco Popolare,EE,62
+599,Banca Popolare Milano,EE-,50
+600,Banca Popolare Emilia Romagna,EE,62
+601,Banca MPS,EE-,50
+602,Azimut Holding,EE,62
+603,Autogrill,E,25
+604,Atlantia,E,25
+605,A2A,EE-,50
+606,Banca MPS,EE-,50
+607,FCA,E,25
+608,Finmeccanica,EE-,50
+609,Saipem,EE,62
+610,Pirelli & C.,E+,37
+611,DiaSorin,EE-,50
+612,Finmeccanica,PENDING,-1
+613,A2A,EE-,50
+614,CNH Industrial,E+,37
+615,FCA,E+,37
+616,Saipem,EE+,75
+617,Prysmian,EE,62

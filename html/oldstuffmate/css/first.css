@@ -49,79 +49,87 @@
     background-color: #F8F8F8;
     width: 100%;
     padding: 20px;
-    border-left: 20px solid #379683;
     grid-area: first;
-    cursor: pointer;
+    font-size: 1.5rem;
   }
-  .metric1:hover ~ .definition1{
+  .metric1:hover ~ .furtherinfo > .definition1{
     display: block;
   }
   .metric2 {
     background-color: 	#F8F8F8;
     width: 100%;
     padding: 20px;
-    border-left: 5px solid #379683;
     grid-area: second;
+    font-size: 1.5rem;
   }
-  .metric2:hover ~ .definition2{
+  .metric2:hover ~ .furtherinfo > .definition2{
     display: block;
   }
   .metric3 {
     background-color: 	#F8F8F8;
     width: 100%;
     padding: 20px;
-    border-left: 50px solid #379683;
     grid-area: third;
+    font-size: 1.5rem;
   }
-  .metric3:hover ~ .definition3{
+  .metric3:hover ~ .furtherinfo > .definition3{
     display: block;
-
   }
   .metric4 {
     background-color:	#F8F8F8;
     width: 100%;
     padding: 20px;
-    border-left: 80px solid #379683;
     grid-area: fourth;
+    font-size: 1.5rem;
   }
-  .metric4:hover ~ .definition4{
+  .metric4:hover ~ .furtherinfo > .definition4{
     display: block;
   }
   .metric5 {
     background-color:	#F8F8F8;
     width: 100%;
     padding: 20px;
-    border-left: 20px solid #379683;
     grid-area: fifth;
+    font-size: 1.5rem;
   }
-  .metric5:hover ~ .definition5{
+  .metric5:hover ~ .furtherinfo > .definition5{
     display: block;
   }
+  .furtherinfo {
+    width: 50%;
+    position: absolute;
+    top:10px;
+    right:4%;
+  }
  .definition1 {
-    text-align: right;
+    text-align: left;
     display: none;
  }
  .definition2 {
-    text-align: right;
+    text-align: left;
     display: none;
  }
  .definition3 {
-    text-align: right;
+    text-align: left;
     display: none;
  }
  .definition4 {
-    text-align: right;
+    text-align: left;
     display: none;
  }
  .definition5 {
-    text-align: right;
+    text-align: left;
     display: none;
  }
+ 
   /* Add a card effect for articles */
   .card {
      background-color: 	#F8F8F8;
      padding: 20px;
      margin-top: 20px;
+  }
+  .chart_div {
+    border-style: solid;
   }
   .met {
     background-color: 	#F8F8F8;
@@ -135,11 +143,17 @@
         'fourth fourth fourth fourth desc desc'
         'fifth fifth fifth fifth desc desc';
     grid-gap: 10px;
+    position: relative;
+    font-size: 1.25rem;
   }
+  
   .alternates {
       font-size: 20px;
       line-height: 1.6;
       
+  }
+  .greenstar {
+    color: green;
   }
   
   /* Clear floats after the columns */
