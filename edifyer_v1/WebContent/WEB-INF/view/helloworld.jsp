@@ -9,7 +9,7 @@
 </head>
 <body>
 <!--  Name taken from the passed HTML param -->
-<h3>Student Name: ${param.studentName}</h3>
+<h3>Your name: ${param.inputName}</h3>
 <br><br>
 <!--  Message taken from the model -->
 <h3>Message: ${message}</h3>

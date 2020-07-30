@@ -6,8 +6,10 @@
 </head>
 
 <body>
-<h2>Foundation</h2>
-<a href="hello/showForm">Example Form</a>
+<h2>Edifyer</h2>
+<a href="showRating">Rating Template</a>
+<br><br>
+<a href="showFunct">Function Example</a>
 </body>
 
 </html>
