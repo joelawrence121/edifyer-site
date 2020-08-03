@@ -1,0 +1,136 @@
+/*html,
+body {
+  background-color: #2962FF;
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+          justify-content: center;
+  height: 100%;
+  position: relative;
+}*/
+.progress-ring__circle {
+  -webkit-transition: 0.35s stroke-dashoffset;
+  transition: 0.35s stroke-dashoffset;
+  -webkit-transform: rotate(-90deg);
+          transform: rotate(-90deg);
+  -webkit-transform-origin: 50% 50%;
+          transform-origin: 50% 50%;
+}
+
+
+.progress-ring {
+        position: absolute;
+        top: 200px;
+        left:35vw;
+        
+}
+#display {
+        position: absolute;
+        top: 330px;
+        left: 45vw;
+        font-size: 100px;
+        color: #ff4c4c;
+        z-index: 1;
+}
+#companyname {
+  top: 20px;
+  left: -20px;
+  position: relative;
+  text-align: center;
+  font-size: 80px;
+  padding: 0;
+  margin: 0;
+}
+*{margin: 0; padding: 0; border: 0; outline: 0;}
+
+  body {
+    font-family: Arial;
+    padding: 20px;
+    background: white;
+    color: #05386b;
+  }
+  
+  .header {
+    padding: 0px;
+    font-size: 20px;
+    text-align: center;
+    position: fixed;
+    top: 0;
+    z-index: 3;
+    
+  }
+
+.title {
+  position: fixed;
+  left: 34vw;
+}
+
+#home {
+  font-size: 30px;
+}
+  
+  
+
+  #tagline {
+    color: grey;
+    font-size: 0.5em;
+    margin: 0;
+    padding: 0;
+  }
+
+  /* Clear floats after the columns */
+ .input-group {
+  width: 400px;
+  margin: auto;
+  position: fixed;
+  left: 41vw;
+  top:0.5vh;
+  
+  
+ }
+ .insearch {
+   width: 100%;
+ }
+  .form-control {
+    width: 100%;
+    height: 35px;
+  }
+  .suggestdiv {
+    width: 100%;
+    margin: auto;
+  }
+  
+  .list-group {
+    list-style-type:none;
+    margin: 0;
+  padding: 0;
+  }
+  .dropdown {
+    width: 100%;
+    height: 60px;
+    text-align: left;
+    font-size: 0.75em;
+    opacity: 0.9;
+    cursor: pointer;
+  }
+ .dropdown:hover{
+   background-color: #cccccc;
+ }
+  /* Footer */
+  .footer {
+    position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: red;
+   color: white;
+   text-align: center;
+  }
+  
+  .links {
+    color: white;
+  }
+  /* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other */
+  
