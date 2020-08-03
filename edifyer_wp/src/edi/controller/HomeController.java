@@ -5,11 +5,12 @@ import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
-import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseBody;
 
+import edi.entity.Company;
 import edi.service.EdifyerService;
 
 @Controller
@@ -33,9 +34,16 @@ public class HomeController {
 	}
 	
 	@RequestMapping("find")
-	public String findCompany(@RequestParam String company) {
-		System.out.println("Found: " + company);
-		return "admin/list";
+	public String findCompany(@RequestParam String company, Model theModel) {
+				
+		// get the company by name and store in model
+		Company theCompany = edifyerService.getCompany(company);
+		theModel.addAttribute("theCompany", theCompany);
+	
+		// redirect to rating page
+		System.out.println("Added " + theCompany + " to the model. ");
+		
+		return "company-test";	
 	}
 
 	

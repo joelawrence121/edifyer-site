@@ -14,11 +14,13 @@ public interface EdifyerDAO {
 	
 	public Company getCompany(int theId);
 	
-	public List<Company> getCompanies();
+	public List<Company> getAllCompanies();
 	
-	public List<Source> getSources();
+	public List<Source> getAllSources();
 
-	public List<Rating> getRatings();
+	public List<Rating> getAllRatings();
 
 	public List<Company> search(@Param("keyword") String keyword);
+
+	public Company getCompany(String company);
 }

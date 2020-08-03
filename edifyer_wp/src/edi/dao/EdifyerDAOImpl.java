@@ -19,7 +19,7 @@ public class EdifyerDAOImpl implements EdifyerDAO {
 	private SessionFactory sessionFactory;
 	
 	@Override
-	public List<Company> getCompanies() {
+	public List<Company> getAllCompanies() {
 		
 		// get current hibernate session 
 		Session currentSession = sessionFactory.getCurrentSession();
@@ -50,7 +50,7 @@ public class EdifyerDAOImpl implements EdifyerDAO {
 
 
 	@Override
-	public List<Source> getSources() {
+	public List<Source> getAllSources() {
 		// get current hibernate session 
 		Session currentSession = sessionFactory.getCurrentSession();
 		
@@ -66,7 +66,7 @@ public class EdifyerDAOImpl implements EdifyerDAO {
 
 
 	@Override
-	public List<Rating> getRatings() {
+	public List<Rating> getAllRatings() {
 		// get current hibernate session 
 		Session currentSession = sessionFactory.getCurrentSession();
 		
@@ -87,6 +87,23 @@ public class EdifyerDAOImpl implements EdifyerDAO {
 		Query<Company> theQuery = currentSession.createQuery("from Company where name like '%" + keyword+"%'", Company.class);
 		List<Company> terms = theQuery.getResultList();
 		return terms;
+	}
+
+
+	@Override
+	public Company getCompany(String company) {
+		
+		// get current session 
+		Session currentSession = sessionFactory.getCurrentSession();
+		
+		// find company by company name 
+		Query<Company> theQuery = currentSession.createQuery("from Company where name = '" + company + "'", Company.class);
+		
+		// save company object into session 
+		Company theCompany = theQuery.getSingleResult();
+		
+		// return the company 
+		return theCompany;
 	}
 
 }

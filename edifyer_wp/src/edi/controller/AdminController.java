@@ -25,9 +25,9 @@ public class AdminController {
 	public String listCompanies(Model theModel) {
 		
 		// get all the companies, ratings, sources from the dao
-		List<Company> theCompanies = edifyerService.getCompanies();
-		List<Source> theSources = edifyerService.getSources();
-		List<Rating> theRatings = edifyerService.getRatings();
+		List<Company> theCompanies = edifyerService.getAllCompanies();
+		List<Source> theSources = edifyerService.getAllSources();
+		List<Rating> theRatings = edifyerService.getAllRatings();
 		
 		// add the data to the spring model 
 		theModel.addAttribute("companies", theCompanies);

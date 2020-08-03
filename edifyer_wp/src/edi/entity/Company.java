@@ -28,11 +28,12 @@ public class Company {
 	@Column(name="category")
 	private String category;
 	
-	@OneToMany(fetch=FetchType.LAZY, cascade= {CascadeType.PERSIST, CascadeType.MERGE,
+	// eager loading so we can display a companies ratings from the company object
+	@OneToMany(fetch=FetchType.EAGER, cascade= {CascadeType.PERSIST, CascadeType.MERGE,
 			CascadeType.DETACH, CascadeType.REFRESH})
 	@JoinColumn(name="company_id")
 	private List<Rating> ratings;
-	
+
 	public Company() {
 		
 	}
@@ -64,6 +65,11 @@ public class Company {
 
 	public void setCategory(String category) {
 		this.category = category;
+	}
+	
+	
+	public List<Rating> getRatings() {
+		return ratings;
 	}
 	
 	// convenience method for adding ratings 

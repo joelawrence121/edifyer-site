@@ -21,20 +21,20 @@ public class EdifyerServiceImpl implements EdifyerService {
 	
 	@Override
 	@Transactional
-	public List<Company> getCompanies() {
-		return edifyerDAO.getCompanies();	
+	public List<Company> getAllCompanies() {
+		return edifyerDAO.getAllCompanies();	
 	}
 
 	@Override
 	@Transactional
-	public List<Source> getSources() {
-		return edifyerDAO.getSources();
+	public List<Source> getAllSources() {
+		return edifyerDAO.getAllSources();
 	}
 
 	@Override
 	@Transactional
-	public List<Rating> getRatings() {
-		return edifyerDAO.getRatings();
+	public List<Rating> getAllRatings() {
+		return edifyerDAO.getAllRatings();
 	}
 	
 	@Override
@@ -47,6 +47,12 @@ public class EdifyerServiceImpl implements EdifyerService {
 	@Transactional
 	public List<Company> search(String parameter) {
 		return edifyerDAO.search(parameter);
+	}
+
+	@Override
+	@Transactional
+	public Company getCompany(String company) {
+		return edifyerDAO.getCompany(company);
 	}
 
 }
