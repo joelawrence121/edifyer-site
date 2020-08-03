@@ -1,0 +1,78 @@
+
+  /* Add a gray background color with some padding */
+  body {
+    font-family: Arial;
+    padding: 20px;
+    background: white;
+    color: #05386b;
+  }
+  
+  /* Header/Blog Title */
+  .header {
+    padding: 30px;
+    font-size: 40px;
+    text-align: center;
+    
+  }
+
+
+  /* Add a card effect for articles */
+  
+  
+
+  #tagline {
+    color: grey;
+    font-size: 0.5em;
+    margin: 0;
+    padding: 0;
+  }
+
+  /* Clear floats after the columns */
+ .input-group {
+  width: 60vw;
+  margin: auto;
+ }
+ .insearch {
+   width: 100%;
+ }
+  .form-control {
+    width: 100%;
+    height: 35px;
+  }
+  .suggestdiv {
+    width: 100%;
+    margin: auto;
+  }
+  
+  .list-group {
+    list-style-type:none;
+    margin: 0;
+  padding: 0;
+  }
+  .dropdown {
+    width: 100%;
+    height: 60px;
+    text-align: left;
+    font-size: 0.75em;
+    background-color: #ededeb;
+    cursor: pointer;
+  }
+ .dropdown:hover{
+   background-color: #cccccc;
+ }
+  /* Footer */
+  .footer {
+    position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: red;
+   color: white;
+   text-align: center;
+  }
+  
+  .links {
+    color: white;
+  }
+  /* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other */
+  
