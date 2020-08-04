@@ -15,9 +15,10 @@ for (i = 0; i<companyscorearray.length; i++){
     companyScore = companyscorearray[i][1];
   }
 }
-//const companyScore = 77;
-//document.getElementById("companyname").innerHTML = companyName;
-//Define var to hold setInterval() function
+
+//ALL WE NEED IS COMPANYNAME AND COMPANYSCORE
+
+
 let interval = null;
 
 //Define var to hold stopwatch status
