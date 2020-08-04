@@ -2,6 +2,7 @@ package edi.entity;
 
 import java.util.ArrayList;
 import java.util.List;
+
 import javax.persistence.CascadeType;
 import javax.persistence.Column;
 import javax.persistence.Entity;
@@ -12,6 +13,7 @@ import javax.persistence.Id;
 import javax.persistence.JoinColumn;
 import javax.persistence.OneToMany;
 import javax.persistence.Table;
+import javax.persistence.Transient;
 
 @Entity
 @Table(name="company")
@@ -33,14 +35,37 @@ public class Company {
 			CascadeType.DETACH, CascadeType.REFRESH})
 	@JoinColumn(name="company_id")
 	private List<Rating> ratings;
+	
+	@Transient
+	private double avg_rate;
 
 	public Company() {
+		
+//		double sum = 0;
+//		for(Rating tempRating : ratings) {
+//			sum+=tempRating.getSdrate();
+//		}
+//		avg_rate = sum / ratings.size();
 		
 	}
 
 	public Company(String name, String category) {
 		this.name = name;
 		this.category = category;
+		
+//		double sum = 0;
+//		for(Rating tempRating : ratings) {
+//			sum+=tempRating.getSdrate();
+//		}
+//		avg_rate = sum / ratings.size();
+	}
+	
+	public double getAvg_rate() {
+		return avg_rate;
+	}
+
+	public void setAvg_rate(double avg_rate) {
+		this.avg_rate = avg_rate;
 	}
 
 	public int getId() {

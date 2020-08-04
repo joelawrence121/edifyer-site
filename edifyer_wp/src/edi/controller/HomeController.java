@@ -43,7 +43,7 @@ public class HomeController {
 		// redirect to rating page
 		System.out.println("Added " + theCompany + " to the model. ");
 		
-		return "company-test";	
+		return "rating";	
 	}
 
 	
