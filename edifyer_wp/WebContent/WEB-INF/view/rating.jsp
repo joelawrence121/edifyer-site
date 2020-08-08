@@ -32,22 +32,41 @@ body {
 }
 
 #hidden-score {
-	opacity: 0;
+	display: none;
 	color: red;
 }
+.encapsulateProgress {
+	text-align: center;
+	border: 1px black solid;
+}
 .progress-ring {
-        position: absolute;
+		/* display: block;
+		margin: auto; */
+        /* position: absolute;
         top: 200px;
-        left:35vw;
+        left:35vw; */
+        display: inline-block;
+        margin-left: 225px;
+        
         
 }
+#wrapdisplay {
+	position: absolute;
+	top: 245px;
+    left: 50%;
+    
+    margin-left: -50px;
+	
+}
 #display {
-        position: absolute;
+        /* position: absolute;
         top: 330px;
-        left: 45vw;
-        font-size: 100px;
+        left: 45vw; */
+        text-align: center;
+		
+        font-size: 125px;
         color: #ff4c4c;
-        z-index: 1;
+        /* z-index: 1; */
 }
 #companyname {
   top: 20px;
@@ -171,7 +190,8 @@ body {
   
 <div id="hidden-score">${theCompany.ratings[0].sdrate}
 </div>
-<div id="display">0</div>
+<div id="wrapdisplay">
+<div id="display">0</div></div>
  
 
 <h1 id="companyname">
@@ -209,6 +229,7 @@ body {
   var passedArray = <?php echo json_encode($the_big_array); ?>;
     </script>
     <script src="${pageContext.request.contextPath}/resources/js/search.js"></script>
+<div class="encapsulateProgress">
 <svg
    class="progress-ring"
    width="600"
@@ -217,13 +238,14 @@ body {
   <circle
     class="progress-ring__circle"
     stroke="#9DB68C"
-    stroke-width="40"
+    stroke-width="20"
     fill="transparent"
     r="180"
     cx="400"
     cy="200"/>
     
 </svg>
+</div>
 
 
 
