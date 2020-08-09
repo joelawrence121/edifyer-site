@@ -17,6 +17,18 @@
   <div class="headings">
   <h2 id="home">How We Rate</h2>
   <p id="tagline">We analyse companies to help you consume responsibly</p>
+  
+  <!-- Put the list of the sources here:  -->
+  <br>
+  <h3>Our sources of information: </h3>
+  <ul class="oval">
+  	<li>lorem ipsum</li>
+  	<li>lorem ipsum</li>
+  	<li>lorem ipsum</li>
+  	<li>lorem ipsum</li>
+  	<li>lorem ipsum</li>
+  </ul>
+
   </div>
 </div>
 

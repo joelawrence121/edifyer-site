@@ -45,8 +45,11 @@
         <ul class="list-group" id="list"></ul>
   </form>
 </div>
+
+<!-- Can't get these on the same line, annoying -->
 <div class="footer">
-  <a class="links" href="how.jsp">How it works?</a>&emsp;&emsp;&emsp;&emsp;<a class="links" href="about.jsp">About Us</a>
+  <form method="get" action="how"><button type="submit" class="btn-link">How It Works?</button></form>
+  <form method="get" action="about"><button type="submit" class="btn-link">About Us</button></form>
 </div>
 
 </body>

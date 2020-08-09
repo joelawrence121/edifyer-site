@@ -7,6 +7,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseBody;
 
@@ -44,6 +45,20 @@ public class HomeController {
 		System.out.println("Added " + theCompany + " to the model. ");
 		
 		return "rating";	
+	}
+	
+	@RequestMapping(value="/how", method = RequestMethod.GET)
+	public String loadHow(Model theModel) {
+		// load in the sources 
+
+		
+		return "how";
+	}
+	
+	@RequestMapping(value="/about", method = RequestMethod.GET)
+	public String loadAbout(Model theModel) {
+
+		return "about";
 	}
 
 	
