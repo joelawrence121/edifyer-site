@@ -1,3 +1,5 @@
+<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
+
 <!DOCTYPE html>
 <html xmlns:th="http://wwww.thymeleaf.org">
 <head>
@@ -22,11 +24,9 @@
   <br>
   <h3>Our sources of information: </h3>
   <ul class="oval">
-  	<li>lorem ipsum</li>
-  	<li>lorem ipsum</li>
-  	<li>lorem ipsum</li>
-  	<li>lorem ipsum</li>
-  	<li>lorem ipsum</li>
+  <c:forEach var="tempSource" items="${theSources}">	
+  	<li><a href=${tempSource.homeLink}>${tempSource.name}</a></li>
+  </c:forEach>
   </ul>
 
   </div>

@@ -12,6 +12,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseBody;
 
 import edi.entity.Company;
+import edi.entity.Source;
 import edi.service.EdifyerService;
 
 @Controller
@@ -49,8 +50,13 @@ public class HomeController {
 	
 	@RequestMapping(value="/how", method = RequestMethod.GET)
 	public String loadHow(Model theModel) {
-		// load in the sources 
+		
+		// add list of sources to the model
+		
+		List<Source> theSources = edifyerService.getAllSources();
+		theModel.addAttribute("theSources", theSources);
 
+		System.out.println("Added " + theSources + " to the model. ");
 		
 		return "how";
 	}
