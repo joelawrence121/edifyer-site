@@ -1,4 +1,6 @@
-/*html,
+
+	<style>
+	/*html,
 body {
   background-color: #2962FF;
   display: -webkit-box;
@@ -20,22 +22,41 @@ body {
 }
 
 #hidden-score {
-	opacity: 0;
+	display: none;
 	color: red;
 }
+.encapsulateProgress {
+	text-align: center;
+	border: 1px black solid;
+}
 .progress-ring {
-        position: absolute;
+		/* display: block;
+		margin: auto; */
+        /* position: absolute;
         top: 200px;
-        left:35vw;
+        left:35vw; */
+        display: inline-block;
+        margin-left: 225px;
+        
         
 }
+#wrapdisplay {
+	position: absolute;
+	top: 245px;
+    left: 50%;
+    
+    margin-left: -50px;
+	
+}
 #display {
-        position: absolute;
+        /* position: absolute;
         top: 330px;
-        left: 45vw;
-        font-size: 100px;
+        left: 45vw; */
+        text-align: center;
+		
+        font-size: 125px;
         color: #ff4c4c;
-        z-index: 1;
+        /* z-index: 1; */
 }
 #companyname {
   top: 20px;
@@ -51,7 +72,7 @@ body {
   body {
     font-family: Arial;
     padding: 20px;
-    background: green;
+    background: white;
     color: #05386b;
   }
   
@@ -137,3 +158,4 @@ body {
   }
   /* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other */
   
+	</style>

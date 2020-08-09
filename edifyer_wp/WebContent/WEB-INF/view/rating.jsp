@@ -6,187 +6,50 @@
   <meta charset="UTF-8">
   <title>Edifyer: ${theCompany.name}</title>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
-	<!-- <link type="text/css"
+  <link type="text/css"
 		  rel="stylesheet"
-		  href="${pageContext.request.contextPath}/resources/css/templatestyle.css" /> -->
-	<style>
-	/*html,
-body {
-  background-color: #2962FF;
-  display: -webkit-box;
-  display: flex;
-  -webkit-box-align: center;
-          align-items: center;
-  -webkit-box-pack: center;
-          justify-content: center;
-  height: 100%;
-  position: relative;
-}*/
-.progress-ring__circle {
-  -webkit-transition: 0.35s stroke-dashoffset;
-  transition: 0.35s stroke-dashoffset;
-  -webkit-transform: rotate(-90deg);
-          transform: rotate(-90deg);
-  -webkit-transform-origin: 50% 50%;
-          transform-origin: 50% 50%;
-}
+		  href="${pageContext.request.contextPath}/resources/css/templatestyle.css" /> 
+  <link type="text/css"
+		  rel="stylesheet"
+		  href="${pageContext.request.contextPath}/resources/css/search.css" />	  
+  <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <style>
+  .ui-autocomplete-loading {
+    background: white url("images/ui-anim_basic_16x16.gif") right center no-repeat;
+  }
+  </style>
+	<script type="text/javascript">
+		$(function() {
+			$("#companyName").autocomplete({
+				source: "company/search", 
+				minLength: 2,
+				select: function(event, ui) {
+					this.value = ui.item.label;
+					return false;
+				}
+			});
 
-#hidden-score {
-	display: none;
-	color: red;
-}
-.encapsulateProgress {
-	text-align: center;
-	border: 1px black solid;
-}
-.progress-ring {
-		/* display: block;
-		margin: auto; */
-        /* position: absolute;
-        top: 200px;
-        left:35vw; */
-        display: inline-block;
-        margin-left: 225px;
-        
-        
-}
-#wrapdisplay {
-	position: absolute;
-	top: 245px;
-    left: 50%;
-    
-    margin-left: -50px;
-	
-}
-#display {
-        /* position: absolute;
-        top: 330px;
-        left: 45vw; */
-        text-align: center;
-		
-        font-size: 125px;
-        color: #ff4c4c;
-        /* z-index: 1; */
-}
-#companyname {
-  top: 20px;
-  left: -20px;
-  position: relative;
-  text-align: center;
-  font-size: 80px;
-  padding: 0;
-  margin: 0;
-}
-*{margin: 0; padding: 0; border: 0; outline: 0;}
-
-  body {
-    font-family: Arial;
-    padding: 20px;
-    background: white;
-    color: #05386b;
-  }
-  
-  .header {
-    padding: 0px;
-    font-size: 20px;
-    text-align: center;
-    position: fixed;
-    top: 0;
-    z-index: 3;
-    
-  }
-
-.title {
-  position: fixed;
-  left: 34vw;
-}
-
-#home {
-  font-size: 30px;
-}
-  
-  
-
-  #tagline {
-    color: grey;
-    font-size: 0.5em;
-    margin: 0;
-    padding: 0;
-  }
-
-  /* Clear floats after the columns */
- .input-group {
-  width: 400px;
-  margin: auto;
-  position: fixed;
-  left: 41vw;
-  top:0.5vh;
-  
-  
- }
- .insearch {
-   width: 100%;
- }
-  .form-control {
-    width: 100%;
-    height: 35px;
-  }
-  .suggestdiv {
-    width: 100%;
-    margin: auto;
-  }
-  
-  .list-group {
-    list-style-type:none;
-    margin: 0;
-  padding: 0;
-  }
-  .dropdown {
-    width: 100%;
-    height: 60px;
-    text-align: left;
-    font-size: 0.75em;
-    opacity: 0.9;
-    cursor: pointer;
-  }
- .dropdown:hover{
-   background-color: #cccccc;
- }
-  /* Footer */
-  .footer {
-    position: fixed;
-   left: 0;
-   bottom: 0;
-   width: 100%;
-   background-color: red;
-   color: white;
-   text-align: center;
-  }
-  
-  .links {
-    color: white;
-  }
-  /* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other */
-  
-	</style>
+		});
+	</script>
 
 </head>
 <body onload= "startStop()">
 <!-- partial:index.partial.html -->
 <div class="header">
 <div class="title">
-  <a id= "home-link" href="index.php">
+  <a id= "home-link" href="index.jsp">
   <h2 id="home">Edifyer</h2></a>
   </div>
-  <div class="input-group">
-    <div class="insearch">
-    <input autofocus placeholder="Enter a company to find out how ethical it is" class="form-control" type="text" autocomplete="off" name="search" id="search"/>
-    </div>
-    <div class="suggestdiv">
-    <ul class="list-group" id="list"></ul>
-    </div>
+    <form action="find" method="get">
+    	<input autofocus placeholder="Enter another company to get an ethics rating" class="form-control" type="text" autocomplete="off" name="company" id="companyName"/>
+    	<button type="submit" style="position: absolute; left:-9999px"></button>
+        <ul class="list-group" id="list"></ul>
+  </form>
   </div>
-  </div>
+
   
 <div id="hidden-score">${theCompany.ratings[0].sdrate}
 </div>
