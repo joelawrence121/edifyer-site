@@ -23,10 +23,9 @@
 		$(function() {
 			$("#companyName").autocomplete({
 				source: "company/search", 
-				minLength: 2,
+				minLength: 3,
 				select: function(event, ui) {
 					this.value = ui.item.label;
-					return false;
 				}
 			});
 
@@ -46,8 +45,12 @@
         <ul class="list-group" id="list"></ul>
   </form>
 </div>
+
 <div class="footer">
-  <a class="links" href="howitworks.html">How it works?</a>&emsp;&emsp;&emsp;&emsp;<a class="links" href="aboutus.html">About Us</a>
+	<div id="outer">
+  		<div class="inner"><form method="get" action="how"><button type="submit" class="btn-link">How It Works?</button></form></div>
+  		<div class="inner"><form method="get" action="about"><button type="submit" class="btn-link">About Us</button></form></div>
+  	</div>
 </div>
 
 </body>

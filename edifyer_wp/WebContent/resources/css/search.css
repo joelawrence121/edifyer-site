@@ -75,4 +75,52 @@
     color: white;
   }
   /* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other */
-  
+ 
+ /* CSS for the about list */
+ .oval{
+    counter-reset: list-counter;
+    list-style: none;
+    float:left;
+}
+.oval li{
+    margin: 1.5em 0;    
+}
+.oval li:before{
+    content: counter(list-counter);
+    counter-increment: list-counter;
+    width: .5em;
+    height: 1em;
+    padding: .5em;
+    margin-right: 1em;
+    border-radius: 50%;
+    border: .25em solid #ccc;
+    background: #000;
+    color: #fff;
+    font-family: arial;
+    font-weight: bold;
+    text-align: center;
+    display: inline-block;
+    
+}
+
+ /* Make submit button look like standard link */
+ .btn-link {
+    border: none;
+    outline: none;
+    background: none;
+    cursor: pointer;
+    color: black;
+    padding: 0;
+    font-family: inherit;
+    font-size: inherit;
+}
+
+#outer
+{
+    width:100%;
+    text-align: center;
+}
+.inner
+{
+    display: inline-block;
+}

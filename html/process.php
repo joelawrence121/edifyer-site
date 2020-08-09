@@ -2,10 +2,7 @@
 <html lang="en" >
 <head>
   <meta charset="UTF-8">
-  <title>Edifyer: <?php
-  $name = $_GET["companyname"]; 
-  echo $name; 
-  ?></title>
+  <title>Edifyer: ${theCompany.name}</title>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
 <link rel="stylesheet" href="css/templatestyle.css">
 
@@ -33,10 +30,7 @@
   0
 </div>
 <h1 id="companyname">
-  <?php
-      
-      echo $name;
-  ?>
+  ${theCompany.name}
   </h1>
   <p id="wordedresult"></p>
   <?php 

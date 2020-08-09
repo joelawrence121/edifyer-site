@@ -9,12 +9,13 @@ let displayHours = 0;
 
 const companyName = document.getElementById("companyname").innerHTML.trim();
 var i;
-var companyScore = 0;
-for (i = 0; i<companyscorearray.length; i++){
-  if (companyName==companyscorearray[i][0]){
-    companyScore = companyscorearray[i][1];
-  }
-}
+var companyScore = document.getElementById("hidden-score").innerHTML;
+console.log(companyScore);
+//for (i = 0; i<companyscorearray.length; i++){
+//  if (companyName==companyscorearray[i][0]){
+//    companyScore = companyscorearray[i][1];
+//  }
+//}
 
 //ALL WE NEED IS COMPANYNAME AND COMPANYSCORE
 
