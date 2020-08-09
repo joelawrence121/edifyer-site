@@ -26,7 +26,6 @@
 				minLength: 2,
 				select: function(event, ui) {
 					this.value = ui.item.label;
-					return false;
 				}
 			});
 
@@ -47,7 +46,7 @@
   </form>
 </div>
 <div class="footer">
-  <a class="links" href="howitworks.html">How it works?</a>&emsp;&emsp;&emsp;&emsp;<a class="links" href="aboutus.html">About Us</a>
+  <a class="links" href="how.jsp">How it works?</a>&emsp;&emsp;&emsp;&emsp;<a class="links" href="about.jsp">About Us</a>
 </div>
 
 </body>

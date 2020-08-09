@@ -5,6 +5,9 @@
 <head>
   <meta charset="UTF-8">
   <title>Edifyer: ${theCompany.name}</title>
+  
+  <!--  There are so many style sheet links idk which ones are relevant  -->
+  
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
   <link type="text/css"
 		  rel="stylesheet"
@@ -40,11 +43,12 @@
 <!-- partial:index.partial.html -->
 <div class="header">
 <div class="title">
-  <a id= "home-link" href="index.jsp">
+  <a id="home-link" href="index.jsp">
   <h2 id="home">Edifyer</h2></a>
   </div>
     <form action="find" method="get">
     	<input autofocus placeholder="Enter another company to get an ethics rating" class="form-control" type="text" autocomplete="off" name="company" id="companyName"/>
+    	<!-- -9999px to remove it from the screen, user can just press enter -->
     	<button type="submit" style="position: absolute; left:-9999px"></button>
         <ul class="list-group" id="list"></ul>
   </form>
@@ -57,10 +61,12 @@
 <div id="display">0</div></div>
  
 
+
 <h1 id="companyname">
   ${theCompany.name}
   </h1>
   <p id="wordedresult"></p>
+  <!-- can we get rid of this? -->
   <?php 
     $filename = 'companyratings.csv';
 
@@ -109,8 +115,6 @@
     
 </svg>
 </div>
-
-
 
 <!-- partial -->
   <script  src="${pageContext.request.contextPath}/resources/js/animation-script.js"></script>
