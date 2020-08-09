@@ -23,7 +23,7 @@
 		$(function() {
 			$("#companyName").autocomplete({
 				source: "company/search", 
-				minLength: 2,
+				minLength: 3,
 				select: function(event, ui) {
 					this.value = ui.item.label;
 				}
@@ -46,10 +46,11 @@
   </form>
 </div>
 
-<!-- Can't get these on the same line, annoying -->
 <div class="footer">
-  <form method="get" action="how"><button type="submit" class="btn-link">How It Works?</button></form>
-  <form method="get" action="about"><button type="submit" class="btn-link">About Us</button></form>
+	<div id="outer">
+  		<div class="inner"><form method="get" action="how"><button type="submit" class="btn-link">How It Works?</button></form></div>
+  		<div class="inner"><form method="get" action="about"><button type="submit" class="btn-link">About Us</button></form></div>
+  	</div>
 </div>
 
 </body>

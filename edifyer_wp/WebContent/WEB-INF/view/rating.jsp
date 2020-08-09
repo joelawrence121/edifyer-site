@@ -119,7 +119,12 @@
 <!-- partial -->
   <script  src="${pageContext.request.contextPath}/resources/js/animation-script.js"></script>
   <div class="footer">
-  <a class="links" href="howitworks.html">How it works?</a>&emsp;&emsp;&emsp;&emsp;<a class="links" href="aboutus.html">About Us</a>
+  <div class="footer">
+	<div id="outer">
+  		<div class="inner"><form method="get" action="how"><button type="submit" class="btn-link">How It Works?</button></form></div>
+  		<div class="inner"><form method="get" action="about"><button type="submit" class="btn-link">About Us</button></form></div>
+  	</div>
 </div>
+  </div>
 </body>
 </html>
