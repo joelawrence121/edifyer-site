@@ -1,8 +1,3 @@
-ALTER TABLE `edifyer_db`.`company`
-DROP count;
-
-DROP TABLE ratingLog;
-
 CREATE TABLE `edifyer_db`.`companyLog` (
   `company_id` INT NOT NULL,
   `date` DATETIME NOT NULL,
