@@ -101,7 +101,7 @@
             <version>${jaction.xml.version}</version>
         </dependency>
 
-</dependencies>
+	</dependencies>
 	
 
 	<build>

@@ -55,4 +55,9 @@ public class EdifyerServiceImpl implements EdifyerService {
 		return edifyerDAO.getCompany(company);
 	}
 
+	@Override
+	public void logSearch(Company theCompany) {
+		edifyerDAO.logSearch(theCompany);		
+	}
+
 }

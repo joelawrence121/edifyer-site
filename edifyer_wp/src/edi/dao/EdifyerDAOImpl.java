@@ -1,6 +1,7 @@
 package edi.dao;
 
 import java.util.List;
+
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.query.Query;
@@ -10,6 +11,7 @@ import org.springframework.stereotype.Repository;
 import edi.entity.Company;
 import edi.entity.Rating;
 import edi.entity.Source;
+import edi.entity.CompanyLog;
 
 @Repository
 public class EdifyerDAOImpl implements EdifyerDAO {
@@ -104,6 +106,29 @@ public class EdifyerDAOImpl implements EdifyerDAO {
 		
 		// return the company 
 		return theCompany;
+	}
+
+
+	@Override
+	public void logSearch(Company theCompany) {
+		
+		// get current session 
+		Session currentSession = sessionFactory.getCurrentSession();
+		
+		// get current date and convert into string 
+		java.util.Date dt = new java.util.Date();
+
+		java.text.SimpleDateFormat sdf = 
+		     new java.text.SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
+
+		String currentTime = sdf.format(dt);
+		
+		// create new companyLog object
+		CompanyLog theCompanyLog = new CompanyLog(theCompany.getId(), currentTime);
+		
+		// save into the session 
+		currentSession.save(theCompanyLog);
+		
 	}
 
 }

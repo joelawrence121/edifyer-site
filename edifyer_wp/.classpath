@@ -118,5 +118,6 @@
 	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jackson-annotations-2.11.1.jar"/>
 	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jackson-core-2.11.1.jar"/>
 	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jackson-databind-2.11.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/aspectjweaver-1.9.6.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

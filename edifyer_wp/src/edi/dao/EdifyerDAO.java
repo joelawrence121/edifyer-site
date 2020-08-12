@@ -23,4 +23,6 @@ public interface EdifyerDAO {
 	public List<Company> search(@Param("keyword") String keyword);
 
 	public Company getCompany(String company);
+
+	public void logSearch(Company theCompany);
 }

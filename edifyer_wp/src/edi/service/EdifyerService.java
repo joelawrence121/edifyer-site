@@ -19,4 +19,6 @@ public interface EdifyerService {
 
 	public Company getCompany(String company);
 
+	public void logSearch(Company theCompany);
+
 }
