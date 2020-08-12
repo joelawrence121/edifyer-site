@@ -1,6 +1,7 @@
 package edi.service;
 
 import java.util.List;
+import java.util.Map;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
@@ -8,6 +9,7 @@ import org.springframework.transaction.annotation.Transactional;
 
 import edi.dao.EdifyerDAO;
 import edi.entity.Company;
+import edi.entity.CompanyLog;
 import edi.entity.Rating;
 import edi.entity.Source;
 
@@ -56,8 +58,27 @@ public class EdifyerServiceImpl implements EdifyerService {
 	}
 
 	@Override
+	@Transactional
 	public void logSearch(Company theCompany) {
 		edifyerDAO.logSearch(theCompany);		
+	}
+
+	@Override
+	@Transactional
+	public List<CompanyLog> getRecentLogs() {
+		return edifyerDAO.getRecentLogs();
+	}
+
+	@Override
+	@Transactional
+	public Map<Company, Integer> getTopSearched() {
+		return edifyerDAO.getTopSearched();
+	}
+
+	@Override
+	@Transactional
+	public Map<String, Integer> getLogStats() {
+		return edifyerDAO.getLogStats();
 	}
 
 }

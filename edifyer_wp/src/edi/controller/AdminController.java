@@ -1,6 +1,7 @@
 package edi.controller;
 
 import java.util.List;
+import java.util.Map;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
@@ -9,6 +10,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 import edi.entity.Company;
+import edi.entity.CompanyLog;
 import edi.entity.Rating;
 import edi.entity.Source;
 import edi.service.EdifyerService;
@@ -37,29 +39,20 @@ public class AdminController {
 		return "list-companies";
 	}
 	
-//	@GetMapping("/showFormForAdd")
-//	public String showAddForm(Model theModel) {
-//		
-//		// create model attribute to bind form data
-//		Customer theCustomer = new Customer();
-//		
-//		theModel.addAttribute("customer", theCustomer);
-//		
-//		return "customer-form";
-//	}
-//	
-//	
-//	@GetMapping("/showFormForUpdate")
-//	public String showFormForUpdate(@RequestParam("customerId") int theId, 
-//									Model theModel) {
-//		
-//		// get customer from service 
-//		Customer theCustomer = customerService.getCustomer(theId);
-//		
-//		// set customer as a model attrbiute to pre populate the form 
-//		theModel.addAttribute("customer", theCustomer);
-//		
-//		// send over to the form 
-//		return "customer-form";
-//	}
+	@GetMapping("/analytics")
+	public String getAnalytics(Model theModel) {
+		
+		// get the relevant stats from the dao 
+		List<CompanyLog> recentLogs = edifyerService.getRecentLogs();
+		Map<Company, Integer> topSearchedCompanies = edifyerService.getTopSearched();
+		Map<String, Integer> logStats = edifyerService.getLogStats();
+		
+		
+		// add the data to the spring model 
+		theModel.addAttribute("recentLogs", recentLogs);
+		theModel.addAttribute("topSearchedCompanies", topSearchedCompanies);
+		theModel.addAttribute("logStats", logStats);
+		
+		return "analytics";
+	}
 }

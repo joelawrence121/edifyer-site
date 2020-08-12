@@ -1,6 +1,7 @@
 package edi.dao;
 
 import java.util.List;
+import java.util.Map;
 
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
@@ -129,6 +130,52 @@ public class EdifyerDAOImpl implements EdifyerDAO {
 		// save into the session 
 		currentSession.save(theCompanyLog);
 		
+	}
+
+
+	@Override
+	public List<CompanyLog> getRecentLogs() {
+		
+		// get current hibernate session 
+		Session currentSession = sessionFactory.getCurrentSession();
+		
+		// get logs in the last 24 hours
+		Query<CompanyLog> theQuery = currentSession.createQuery("from CompanyLog WHERE date >= sysdate() - 86400", CompanyLog.class);
+		
+		// get the result list 
+		List<CompanyLog> theCompanyLogs = theQuery.getResultList();
+		
+		return theCompanyLogs;
+		
+	}
+
+
+	@Override
+	public Map<Company, Integer> getTopSearched() {
+		
+		// get current session 
+		
+		// execute query to get top searched companies using count and put into map 
+		
+		// return the map
+		
+		return null;
+	}
+
+
+	@Override
+	public Map<String, Integer> getLogStats() {
+		
+		// get the current session 
+		
+		// execute multiple queries to 
+			// searches in past 24 hours 
+			// searches in past week 
+			// total searches 
+		
+		// return the map
+		
+		return null;
 	}
 
 }
