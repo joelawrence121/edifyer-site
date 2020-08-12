@@ -1,7 +1,8 @@
 package edi.dao;
 
+import java.math.BigInteger;
+import java.util.ArrayList;
 import java.util.List;
-import java.util.Map;
 
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
@@ -10,9 +11,9 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
 
 import edi.entity.Company;
+import edi.entity.CompanyLog;
 import edi.entity.Rating;
 import edi.entity.Source;
-import edi.entity.CompanyLog;
 
 @Repository
 public class EdifyerDAOImpl implements EdifyerDAO {
@@ -134,16 +135,18 @@ public class EdifyerDAOImpl implements EdifyerDAO {
 
 
 	@Override
-	public List<CompanyLog> getRecentLogs() {
+	public List<Object[]> getRecentLogs() {
 		
 		// get current hibernate session 
 		Session currentSession = sessionFactory.getCurrentSession();
 		
 		// get logs in the last 24 hours
-		Query<CompanyLog> theQuery = currentSession.createQuery("from CompanyLog WHERE date >= sysdate() - 86400", CompanyLog.class);
+		Query<Object[]> theQuery = currentSession.createNativeQuery("SELECT company.name, companyLog.date FROM companyLog, company "
+				+ "WHERE company.id = companyLog.company_id AND companyLog.date >= sysdate() - 86400 "
+				+ "ORDER BY companyLog.date DESC");
 		
 		// get the result list 
-		List<CompanyLog> theCompanyLogs = theQuery.getResultList();
+		List<Object[]> theCompanyLogs = theQuery.getResultList();
 		
 		return theCompanyLogs;
 		
@@ -151,31 +154,48 @@ public class EdifyerDAOImpl implements EdifyerDAO {
 
 
 	@Override
-	public Map<Company, Integer> getTopSearched() {
+	public List<Object[]> getTopSearched() {
 		
-		// get current session 
+		// get current hibernate session 
+		Session currentSession = sessionFactory.getCurrentSession();
+				
+		// get logs in the last 24 hours
+		Query<Object[]> theQuery = currentSession.createNativeQuery("SELECT company.name, count(companyLog.company_id) "
+				+ "FROM companyLog, company "
+				+ "WHERE company.id = companyLog.company_id "
+				+ "GROUP BY companyLog.company_id "
+				+ "ORDER BY count(companyLog.company_id) DESC").setMaxResults(5);
 		
-		// execute query to get top searched companies using count and put into map 
-		
-		// return the map
-		
-		return null;
+		// get the result list 
+		List<Object[]> topSearched = theQuery.getResultList();
+				
+		return topSearched;
 	}
 
 
 	@Override
-	public Map<String, Integer> getLogStats() {
+	public List<Long> getLogStats() {
 		
-		// get the current session 
+		// get current hibernate session 
+		Session currentSession = sessionFactory.getCurrentSession();
+				
+		// get logs in the last 24 hours	
+		BigInteger pastDayResult = (BigInteger) currentSession.createNativeQuery("SELECT count(*)"
+				+ " FROM companyLog WHERE companyLog.date >= sysdate() - 86400 ").getSingleResult();
 		
-		// execute multiple queries to 
-			// searches in past 24 hours 
-			// searches in past week 
-			// total searches 
+		BigInteger pastWeekResult = (BigInteger) currentSession.createNativeQuery("SELECT count(*)"
+				+ " FROM companyLog WHERE companyLog.date >= sysdate() - 604800 ").getSingleResult();
 		
-		// return the map
+		BigInteger allTimeResult = (BigInteger) currentSession.createNativeQuery("SELECT count(*)"
+				+ " FROM companyLog ").getSingleResult();
 		
-		return null;
+		// merge the results 
+		List<Long> logStats = new ArrayList<>();
+		logStats.add(pastDayResult.longValue());
+		logStats.add(pastWeekResult.longValue());
+		logStats.add(allTimeResult.longValue());
+		
+		return logStats;
 	}
 
 }

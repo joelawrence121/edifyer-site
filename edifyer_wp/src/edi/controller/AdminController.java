@@ -43,9 +43,9 @@ public class AdminController {
 	public String getAnalytics(Model theModel) {
 		
 		// get the relevant stats from the dao 
-		List<CompanyLog> recentLogs = edifyerService.getRecentLogs();
-		Map<Company, Integer> topSearchedCompanies = edifyerService.getTopSearched();
-		Map<String, Integer> logStats = edifyerService.getLogStats();
+		List<Object[]> recentLogs = edifyerService.getRecentLogs();
+		List<Object[]> topSearchedCompanies = edifyerService.getTopSearched();
+		List<Long> logStats = edifyerService.getLogStats();
 		
 		
 		// add the data to the spring model 

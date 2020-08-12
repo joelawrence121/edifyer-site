@@ -30,18 +30,52 @@
 	
 	<div id="container">	
 		<div id="content">	
+			<h2>Log Stats</h2>
+			<table>						
+				<tr>
+					<td> Past 24h </td>	
+					<td> ${logStats.get(0)} </td>					
+				</tr>
+				<tr>
+					<td> Past week </td>	
+					<td> ${logStats.get(1)} </td>					
+				</tr>
+				<tr>
+					<td> All time </td>	
+					<td> ${logStats.get(2)} </td>					
+				</tr>		
+			</table>
+			
+			<br><br>
+			
+			<h2>Most Searched For</h2>
+			<table>
+				<tr>
+					<th>Company</th>
+					<th>Count</th>
+				</tr>
+				
+				<c:forEach var="record" items="${topSearchedCompanies}">			
+					<tr>
+						<td> ${record[0]} </td>
+						<td> ${record[1]} </td>						
+					</tr>		
+				</c:forEach>
+			</table>
+			
+			<br><br>
+			
 			<h2>Recent Logs (past 24hrs)</h2>
 			<table>
 				<tr>
-					<th>Company Id</th>
-					<th>Date</th>
+					<th>Company</th>
+					<th>Search Log</th>
 				</tr>
 				
-				<!-- loop over and print companies -->
-				<c:forEach var="recentLog" items="${recentLogs}">			
+				<c:forEach var="record" items="${recentLogs}">			
 					<tr>
-						<td> ${recentLog.company_id} </td>
-						<td> ${recentLog.date} </td>						
+						<td> ${record[0]} </td>
+						<td> ${record[1]} </td>						
 					</tr>		
 				</c:forEach>
 			</table>

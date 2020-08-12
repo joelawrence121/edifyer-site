@@ -1,13 +1,11 @@
 package edi.dao;
 import java.util.List;
-import java.util.Map;
 
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;
 import org.springframework.stereotype.Repository;
 
 import edi.entity.Company;
-import edi.entity.CompanyLog;
 import edi.entity.Rating;
 import edi.entity.Source;
 
@@ -28,9 +26,9 @@ public interface EdifyerDAO {
 
 	public void logSearch(Company theCompany);
 
-	public List<CompanyLog> getRecentLogs();
+	public List<Object[]> getRecentLogs();
 
-	public Map<Company, Integer> getTopSearched();
+	public List<Object[]> getTopSearched();
 
-	public Map<String, Integer> getLogStats();
+	public List<Long> getLogStats();
 }

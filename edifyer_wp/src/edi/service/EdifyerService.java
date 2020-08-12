@@ -1,7 +1,6 @@
 package edi.service;
 
 import java.util.List;
-import java.util.Map;
 
 import edi.entity.Company;
 import edi.entity.CompanyLog;
@@ -24,10 +23,10 @@ public interface EdifyerService {
 
 	public void logSearch(Company theCompany);
 
-	public List<CompanyLog> getRecentLogs();
+	public List<Object[]> getRecentLogs();
 
-	public Map<Company, Integer> getTopSearched();
+	public List<Object[]> getTopSearched();
 
-	public Map<String, Integer> getLogStats();
+	public List<Long> getLogStats();
 
 }
