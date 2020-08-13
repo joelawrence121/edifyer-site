@@ -1,5 +1,4 @@
 
-	<style>
 	/*html,
 body {
   background-color: #2962FF;
@@ -23,7 +22,7 @@ body {
 
 #hidden-score {
 	display: none;
-	color: red;
+	color: rgb(89, 233, 84)e;
 }
 .encapsulateProgress {
 	text-align: center;
@@ -36,13 +35,13 @@ body {
         top: 200px;
         left:35vw; */
         display: inline-block;
-        margin-left: 225px;
+        margin-left: 225px; 
         
         
 }
 #wrapdisplay {
 	position: absolute;
-	top: 245px;
+	top: 238px;
     left: 50%;
     
     margin-left: -50px;
@@ -55,7 +54,7 @@ body {
         text-align: center;
 		
         font-size: 125px;
-        color: #ff4c4c;
+        color: rgb(89, 233, 84)e;
         /* z-index: 1; */
 }
 #companyname {
@@ -157,5 +156,3 @@ body {
     color: white;
   }
   /* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other */
-  
-	</style>
