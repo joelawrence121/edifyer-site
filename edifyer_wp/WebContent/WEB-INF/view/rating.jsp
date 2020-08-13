@@ -28,7 +28,7 @@
 		$(function() {
 			$("#companyName").autocomplete({
 				source: "company/search", 
-				minLength: 2,
+				minLength: 3,
 				select: function(event, ui) {
 					this.value = ui.item.label;
 					return false;
@@ -42,9 +42,8 @@
 <body onload= "startStop()">
 <!-- partial:index.partial.html -->
 <div class="header">
+<div><form method="get" action="back"><button type="submit" class="btn-link"><h2 id="home">Edifyer</h2></button></form></div>
 <div class="title">
-  <a id="home-link" href="index.jsp">
-  <h2 id="home">Edifyer</h2></a>
   </div>
     <form action="find" method="get">
     	<input autofocus placeholder="Enter another company to get an ethics rating" class="form-control" type="text" autocomplete="off" name="company" id="companyName"/>

@@ -66,6 +66,11 @@ public class HomeController {
 
 		return "about";
 	}
+	
+	@RequestMapping(value="/back", method = RequestMethod.GET)
+	public String loadHome(Model theModel) {	
+		return "redirect:/";
+	}
 
 	
 }
