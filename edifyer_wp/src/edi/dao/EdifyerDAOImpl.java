@@ -1,6 +1,8 @@
 package edi.dao;
 
 import java.math.BigInteger;
+import java.sql.Date;
+import java.sql.Timestamp;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -181,10 +183,10 @@ public class EdifyerDAOImpl implements EdifyerDAO {
 				
 		// get logs in the last 24 hours	
 		BigInteger pastDayResult = (BigInteger) currentSession.createNativeQuery("SELECT count(*)"
-				+ " FROM companyLog WHERE companyLog.date >= sysdate() - 86400 ").getSingleResult();
+				+ " FROM companyLog WHERE date(companyLog.date) >= date(current_date() - 1) ").getSingleResult();
 		
 		BigInteger pastWeekResult = (BigInteger) currentSession.createNativeQuery("SELECT count(*)"
-				+ " FROM companyLog WHERE companyLog.date >= sysdate() - 604800 ").getSingleResult();
+				+ " FROM companyLog WHERE date(companyLog.date) >= date(current_date() - 7) ").getSingleResult();
 		
 		BigInteger allTimeResult = (BigInteger) currentSession.createNativeQuery("SELECT count(*)"
 				+ " FROM companyLog ").getSingleResult();
@@ -194,7 +196,7 @@ public class EdifyerDAOImpl implements EdifyerDAO {
 		logStats.add(pastDayResult.longValue());
 		logStats.add(pastWeekResult.longValue());
 		logStats.add(allTimeResult.longValue());
-		
+					
 		return logStats;
 	}
 
