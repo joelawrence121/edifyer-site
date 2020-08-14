@@ -1,0 +1,720 @@
+100 Low Carbon Pioneers	53	-
+2020 Women on Boards	3829	47
+A Billion Plus Change	10	-
+AA1000 Assurance Standard 2008 (reports titled 2008)	128	-
+AA1000 Assurance Standard 2008 (reports titled 2014)	NA	-
+AA1000 Assurance Standard 2008 (reports titled 2015)	NA	-
+AA1000 Assurance Standard 2008 (reports titled 2016)	331	56
+AA1000 Assurance Standard 2008 (reports titled 2017)	344	57
+AA1000 Assurance Standard 2008 (reports titled 2018)	351	57
+AAFA/FLA Apparel & Footwear Industry Commitment to Responsible Recruitment	34	55
+Accord on Fire and Safety in Bangladesh	96	56
+AccountAbility	102	-
+ACEEE City Data	36	-
+ACEEE State Data	51	-
+AEI IranTracker	79	-
+Affirm	16	-
+Alex's Guide to Compassionate Shopping	164	-
+Alliance for Bangladesh Worker Safety	18	-
+Alliance for Board Diversity 2011	85	-
+Alliance for Board Diversity 2012	80	-
+Alliance for Board Diversity 2018	35	56
+AMEE	1021	-
+American Anti-Vivisection Society	38	-
+American Chemistry Responsible Care Measurement System (RCMS)	68	-
+American Coal Council Member Companies	106	51
+American Family Association (AFA)	67	52
+American Sustainable Business Council	50	60
+Apparel, Accessories & Footwear Sustainability Accounting Standings Series	387	Excluded
+Aquaculture Stewardship Council (ASC) Suppliers	115	53
+As you sow 2012	8	-
+As you sow 2013	11	-
+As you sow 2014	9	-
+As you sow 2015	9	-
+As you sow 2016	30	-
+As you sow 2017	17	-
+As you sow 2018	31	53
+As you sow 2019	36	53
+Asian Corporate Governance Association (ACGA)	60	58
+B Corporation GIIRS Ratings	125	57
+Baltic Institute of Corporate Governance	25	60
+Best Workplace for Commuters 2009	371	-
+Best Workplace for Commuters 2010	16	-
+Best Workplace for Commuters 2011	88	-
+Best Workplace for Commuters 2012	23	-
+Best Workplace for Commuters 2013	105	-
+Best Workplace for Commuters 2014	101	-
+Best Workplace for Commuters 2015	43	-
+Best Workplace for Commuters 2016	53	-
+Best Workplace for Commuters 2017	47	-
+Best Workplace for Commuters 2018	68	55
+Best Workplace for Commuters 2019	85	54
+Best Workplaces for Diversity	83	54
+Best Workplaces for Diversity 2019	90	55
+Better World Companies	1325	54
+Black Collegian 2009 (Universum)	93	-
+Black Collegian 2012 (Universum)	79	-
+BlackEngineer Most Admired Companies 2009	64	-
+BlackEngineer Most Admired Companies 2011	81	-
+Bloomberg Coal	158	-
+Bloomberg Gender Equality Index	104	57
+Bloomberg New Energy Finance Index (CREX)	242	-
+Boston College Center for Corporate Citizenship (BCCCC)	613	54
+Brand Finance 2008-09	579	-
+Brand Finance 2009-10	786	-
+Brand Finance 2010-11	803	-
+Brand Finance 2011-12	3707	-
+Brand Finance 2012-13	1455	-
+Brand Finance 2013-14	2107	-
+Brand Finance 2014-15	976	-
+Brand Finance 2015-16	1487	-
+Brand Finance 2016-17	1544	-
+Brand Finance 2017-18	1501	-
+Brand Finance 2018-19	444	56
+Brand Finance 2019-20	1481	54
+Brand Finance Brand Value Report	1561	Excluded
+BSR Member	476	57
+Burma Campaign	95	53
+California Iran Contracting Act	25	53
+CalPERS Proxy Voting 2012	335	-
+CalPERS Proxy Voting 2014	311	-
+CalPERS Proxy Voting 2015	315	-
+CalPERS Proxy Voting 2016	32	-
+CalPERS Proxy Voting 2018	9	48
+Calvert US Large Cap Social Index Fund	1385	Excluded
+Canadian Business for Social Responsibility	90	56
+Carbon Disclosure Project 2006 and 2007	974	-
+Carbon Disclosure Project 2008	1237	-
+Carbon Disclosure Project 2009 Full Data	1235	-
+Carbon Disclosure Project 2010 Full Data	1421	-
+Carbon Disclosure Project 2011 Full Data	1694	-
+Carbon Disclosure Project 2012 Full Data	2244	-
+Carbon Disclosure Project 2013 Full Data	2256	-
+Carbon Disclosure Project 2014 Full Data	2032	-
+Carbon Disclosure Project 2015 Full Data	2894	-
+Carbon Disclosure Project 2016 Full Data	2149	-
+Carbon Market Data	159	-
+Carbonfund Partners	82	-
+Caring Consumer	166	56
+CDP A List 2019	215	59
+CDP Forests 2016	129	-
+CDP Supply Chain Report	82	61
+CDP Water Data 2010	124	-
+CDP Water Data 2011	229	-
+CDP Water Data 2012	276	-
+CDP Water Data 2013	316	-
+CDP Water Data 2014	365	-
+CDP Water Data 2015	439	-
+CDP Water Data 2016	409	-
+CECP (Chief Executives for Corporate Purpose)	313	56
+CEMEFI (Centro Mexicano para la Filantropía) ITSC Index	32	-
+CEMEFI (Centro Mexicano para la Filantropía) Members	41	-
+Ceres	93	58
+Ceres Climate & Energy Resolutions 2011	81	-
+Ceres Climate & Energy Resolutions 2012	47	-
+Ceres Climate & Energy Resolutions 2013	89	-
+Ceres Climate & Energy Resolutions 2014	99	-
+Ceres Climate & Energy Resolutions 2015	116	-
+Ceres Climate & Energy Resolutions 2016	49	-
+Ceres Climate & Energy Resolutions 2017	16	-
+Ceres Climate & Energy Resolutions 2018	629	51
+Ceres Resolutions 2019	NA	-
+ChemSec SIN Producers	361	52
+Chicago Climate Exchange Members	72	-
+Circular Economy 100	90	59
+Clean Clothes Accord	95	56
+Climate Counts 2010	140	-
+Climate Counts 2011	136	-
+Climate Counts 2012	145	-
+Climate Counts 2013	100	-
+Climate Registry	152	54
+Coal Mining Engineer's List	12	-
+Community Reinvestment Act	827	47
+Comparably Best 2018	44	54
+Computer World 100 Best Places to Work in IT 2008	91	-
+Computer World 100 Best Places to Work in IT 2009	89	-
+Computer World 100 Best Places to Work in IT 2010	91	-
+Computer World 100 Best Places to Work in IT 2011	91	-
+Computer World 100 Best Places to Work in IT 2012	88	-
+Computer World 100 Best Places to Work in IT 2013	77	-
+Computer World 100 Best Places to Work in IT 2014	70	-
+Computer World 100 Best Places to Work in IT 2015	65	-
+Computer World 100 Best Places to Work in IT 2016	63	-
+Computer World 100 Best Places to Work in IT 2017	67	-
+Computer World 100 Best Places to Work in IT 2018	72	54
+Computer World 100 Best Places to Work in IT 2019	68	50
+Conflict Minerals Filing Report	99	-
+Copenhagen Communique	358	-
+Corporate Equality Index 2014	254	-
+Corporate Equality Index 2015	316	-
+Corporate Equality Index 2016	350	-
+Corporate Equality Index 2017	447	-
+Corporate Equality Index 2018	522	56
+Corporate Equality Index 2019	941	53
+Corporate Human Rights Benchmark 2018	101	54
+Corporate Information Transparency Index (CITI)	71	54
+Corporate Knights Canada 2010	50	-
+Corporate Knights Canada - 50 Best Corporate Citizens 2011	50	-
+Corporate Knights Canada - 50 Best Corporate Citizens 2012	49	-
+Corporate Knights Canada - 50 Best Corporate Citizens 2013	52	-
+Corporate Knights Canada - 50 Best Corporate Citizens 2014	50	-
+Corporate Knights Canada - 50 Best Corporate Citizens 2015	50	-
+Corporate Knights Canada - 50 Best Corporate Citizens 2016	49	-
+Corporate Knights Canada - 50 Best Corporate Citizens 2017	50	-
+Corporate Knights Canada - 50 Best Corporate Citizens 2018	46	57
+Corporate Knights Canada - 50 Best Corporate Citizens 2019	44	56
+Corporate Responsibility Association	72	-
+Corporate Responsibility Index 2009 Australia	16	-
+Corporate Responsibility Index UK 2009	98	-
+Corporate Responsibility Index UK 2011	89	-
+Corporate Responsibility Index UK 2012	91	-
+Corporate Responsibility Index UK 2013	88	-
+Corporate Responsibility Index UK 2014	77	-
+Corporate Responsibility Index UK 2015	53	-
+Corporate Responsibility Index UK 2016	32	-
+Corporate Responsibility Index UK 2020	201	56
+CorporateRegister.com	2905	-
+Covalence Ethical Quotient	541	-
+CPA-Zicklin Index of Corporate Political Disclosure and Accountability 2015	497	-
+CPA-Zicklin Index of Corporate Political Disclosure and Accountability 2016	494	-
+CPA-Zicklin Index of Corporate Political Disclosure and Accountability 2018	484	53
+CPA-Zicklin Index of Corporate Political Disclosure and Accountability 2019	485	53
+CR’s 100 Best Corporate Citizens 2008	96	-
+CR’s 100 Best Corporate Citizens 2009	100	-
+CR’s 100 Best Corporate Citizens 2010	100	-
+CR’s 100 Best Corporate Citizens 2011	100	-
+CR’s 100 Best Corporate Citizens 2012	101	-
+CR’s 100 Best Corporate Citizens 2013	100	-
+CR’s 100 Best Corporate Citizens 2014	100	-
+CR’s 100 Best Corporate Citizens 2015	100	-
+CR’s 100 Best Corporate Citizens 2016	100	-
+CR’s 100 Best Corporate Citizens 2017	100	-
+CR’s 100 Best Corporate Citizens 2018	100	58
+CR’s 100 Best Corporate Citizens 2019	100	58
+CR’s Black List 2010	32	-
+CR’s Black List 2011	58	-
+CR’s Black List 2012	35	-
+CSR Europe	63	59
+CSRHub Country Ratings	50	33
+CSRIndia 2014	105	-
+CSRIndia 2015	97	-
+CSRIndia 2016	97	-
+CSRIndia 2017	367	-
+CSRIndia 2017 Top 100	96	-
+CSRIndia 2018 Top 100	98	57
+CSRwire member companies	235	Excluded
+Darfur Involved by Investors Against Genocide	15	-
+DERES - Responsabilidad Social Empresaria	38	60
+Div50 2009	52	-
+Div50 2010	51	-
+Div50 2011	52	-
+Div50 2012	51	-
+Div50 2013	52	-
+Div50 2014	53	-
+Div50 2015	52	-
+Div50 2016	54	-
+Diversity MBA Magazine Top 50 2010	47	-
+Diversity, Inc. Top 50 2009	50	-
+Diversity, Inc. Top 50 2010	50	-
+Diversity, Inc. Top 50 2012	50	-
+Diversity, Inc. Top 50 2013	51	-
+Diversity, Inc. Top 50 2014	51	-
+Diversity, Inc. Top 50 2015	49	-
+Diversity, Inc. Top 50 2016	51	-
+Diversity, Inc. Top 50 2017	51	-
+Diversity, Inc. Top 50 2018	50	58
+Diversity, Inc. Top 50 2019	50	58
+DOD 2010 List of Top 100 Contractors	72	-
+DOD 2012 List of Top 100 Contractors	73	-
+DOE College Scorecard	86	49
+Dow Jones Sustainability Asia Pacific Index	201	57
+Dow Jones Sustainability Emerging Markets Index	137	57
+Dow Jones Sustainability Index Australia	68	55
+Dow Jones Sustainability Index Europe	191	60
+Dow Jones Sustainability Index Global	599	59
+Dow Jones Sustainability Korea Index	58	56
+Dow Jones Sustainability North America Index	197	57
+EDF Climate Corps 2011	30	-
+EDF Climate Corps 2012	49	-
+EDF Climate Corps 2013	50	-
+EDF Climate Corps 2014	51	-
+EDF Climate Corps 2015	159	-
+EDF Climate Corps 2016	188	-
+EDF Climate Corps 2017	196	-
+EDF Climate Corps 2018	217	56
+EDF Climate Corps 2019	237	56
+EDF Climate Corps Past Participants	70	Excluded
+EIA Nuclear List	43	51
+EIRIS	4123	53
+Ekobai B2B Directory	1113	-
+EMAS	158	60
+Environmental Investment Organisation	1609	-
+EPA Climate Leaders	163	-
+EPA e-GGRT 2010	303	-
+EPA e-GGRT 2011	631	-
+EPA e-GGRT 2012	640	-
+EPA e-GGRT 2013	615	-
+EPA e-GGRT 2014	659	-
+EPA e-GGRT 2015	671	-
+EPA e-GGRT 2016	650	-
+EPA e-GGRT 2017	669	50
+EPA e-GGRT 2018	699	50
+EPA Transport Data	125	-
+EPA Transport Data 2015	118	-
+EPA Transport Data 2017	121	50
+EPA Transport Data 2018	112	50
+EPEAT	46	59
+Equal Opportunity 2009	50	-
+Equal Opportunity 2010	49	-
+Equal Opportunity 2011	50	-
+Equal Opportunity 2014	50	-
+Equal Opportunity 2015	50	-
+Equal Opportunity 2016	49	-
+Equal Opportunity 2017	49	-
+Equal Opportunity 2018	48	58
+Equal Opportunity 2019	49	57
+Equator Principles	101	59
+Equilar 200 2016	100	-
+Equilar 200 2017	194	-
+Equilar 200 2018	193	53
+Equilar 200 2019	197	53
+Ethical Consumer Boycotts List	58	58
+Ethisphere 2011	95	-
+Ethisphere 2012	134	-
+Ethisphere 2013	130	-
+Ethisphere 2014	126	-
+Ethisphere 2015	120	-
+Ethisphere 2016	116	-
+Ethisphere 2017	122	-
+Ethisphere 2018	128	-
+Ethisphere 2019	116	57
+Ethisphere 2020	123	57
+EuroNext Vigeo Indices Emerging 70	210	60
+Fair Labor Association	37	59
+Fashion Transparency Index	32	-
+Fashion Transparency Index 2018	76	54
+Fashion Transparency Index 2019	144	53
+FCPA Corporate Investigations	208	52
+Forest 500	397	56
+Forest Stewardship Council	134	53
+Forestdisclosure	247	58
+Fortune 100 Best Companies 2009	87	-
+Fortune 100 Best Companies 2010	89	-
+Fortune 100 Best Companies 2011	98	-
+Fortune 100 Best Companies 2012	97	-
+Fortune 100 Best Companies 2013	98	-
+Fortune 100 Best Companies 2014	92	-
+Fortune 100 Best Companies 2015	88	-
+Fortune 100 Best Companies 2016	91	-
+Fortune 100 Best Companies 2017	95	-
+Fortune 100 Best Companies 2018	97	55
+Fortune 100 Best Companies 2019	97	55
+Fortune 500 list of top companies--2011	499	Excluded
+Fortune 500 list of top companies--2012	498	Excluded
+Fortune 500 list of top companies--2013	500	Excluded
+Fortune 500 list of top companies--2014	499	Excluded
+Fortune 500 list of top companies--2015	497	Excluded
+Fortune 500 list of top companies--2016	499	Excluded
+Fortune 500 list of top companies--2017	500	Excluded
+Fortune 500 list of top companies--2018	500	Excluded
+Fortune 500 list of top companies--2019	499	Excluded
+Fortune 1000 list of top companies--2008	940	Excluded
+Fortune 1000 list of top companies--2009	956	Excluded
+Fortune 1000 list of top companies--2010	963	Excluded
+Fortune 1000 list of top companies--2015	986	Excluded
+Fortune Change the World 2016	45	-
+Fortune Change the World 2017	43	58
+Fortune Change the World 2018	49	57
+Fortune Change the World 2019	43	57
+Fossil Free Index--The Carbon Underground	250	-
+FracFocus	138	-
+FracFocus.ca	127	47
+Fracking-Disclosing the Facts	31	-
+FracTracker	159	48
+FTSE4Good	73	58
+FTSE Environmental Markets Index	144	56
+FTSE list of 250 top UK companies	474	Excluded
+GEMMAQ	188	55
+Glassdoor	17228	50
+Glassdoor 50 Highest Rated CEOs 2013	47	-
+Glassdoor 50 Highest Rated CEOs 2014	50	-
+Glassdoor 50 Highest Rated CEOs 2015	46	-
+Glassdoor 50 Highest Rated CEOs 2016	46	-
+Glassdoor 50 Highest Rated CEOs 2017	45	-
+Glassdoor 50 Highest Rated CEOs 2018	46	55
+Glassdoor 50 Highest Rated CEOs 2019	38	57
+Glassdoor 50 Highest Rated World CEOs 2019	39	57
+Glassdoor's Top 25 Companies for Work-Life Balance--2011	21	-
+Glassdoor's Top 25 Companies for Work-Life Balance--2012	22	-
+Glassdoor's Top 25 Companies for Work-Life Balance--2013	23	-
+Glassdoor's Top 25 Companies for Work-Life Balance--2014	23	-
+Glassdoor.com Top 50 Best Places To Work 2010	50	-
+Glassdoor.com Top 50 Best Places To Work 2011	50	-
+Glassdoor.com Top 50 Best Places To Work 2012	37	-
+Glassdoor.com Top 50 Best Places To Work 2013	46	-
+Glassdoor.com Top 50 Best Places To Work 2014	45	-
+Glassdoor.com Top 50 Best Places To Work 2015	53	-
+Glassdoor.com Top 50 Best Places To Work 2016	46	-
+Glassdoor.com Top 50 Best Places To Work 2017	45	-
+Glassdoor.com Top 50 Best Places To Work 2018	46	-
+Glassdoor.com Top 50 Best Places To Work 2019	44	55
+Glassdoor.com Top 100 Best Places To Work 2020	46	54
+Global 100 List 2008	100	-
+Global 100 List 2009	100	-
+Global 100 List 2010	100	-
+Global 100 List 2011	100	-
+Global 100 List 2012	100	-
+Global 100 List 2013	100	-
+Global 100 List 2014	64	-
+Global 100 List 2015	100	-
+Global 100 List 2016	100	-
+Global 100 List 2017	100	-
+Global 100 List 2018	100	-
+Global 100 List 2019	100	60
+Global 100 List 2020	100	60
+Global Business Coalition	154	57
+Global Cleantech 100	18	-
+Global G.A.P. Member	58	-
+Global Reporting Initiative 2007 and 2008	870	-
+Global Reporting Initiative 2009	1034	-
+Global Reporting Initiative 2010	1190	-
+Global Reporting Initiative 2011	1919	-
+Global Reporting Initiative 2012	2255	-
+Global Reporting Initiative 2013	2165	-
+Global Reporting Initiative 2014	3255	-
+Global Reporting Initiative 2015	3685	-
+Global Reporting Initiative 2016	4096	-
+Global Reporting Initiative 2017	4939	54
+Global Reporting Initiative 2018	4322	54
+Global Reporting Initiative 2019	3322	54
+Global RepTrak 2012 Reputation Institute	101	-
+Global RepTrak 2013 Reputation Institute	100	-
+Global RepTrak 2014 Reputation Institute	101	-
+Global RepTrak 2015 Reputation Institute	97	-
+Global RepTrak 2016 Reputation Institute	100	-
+Global RepTrak 2017 Reputation Institute	100	-
+Global RepTrak 2018 Reputation Institute	97	-
+Global RepTrak 2019 Reputation Institute	100	59
+Global RepTrak 2020 Reputation Institute	100	58
+Global Sullivan Principals	50	-
+Global Transparency Index (Israel)	23	-
+Global Union Burma List	202	54
+Good Jobs First Subsidy Tracker	420	52
+Good Jobs First Violation Tracker	970	51
+GoodCorporation	48	Excluded
+Goodness 500 2009	501	-
+Goodness 500 2012	500	-
+Goods Unite Us	1447	52
+Government of New Brunswick	2	-
+Grab Your Wallet	67	53
+Great Place to Work Inst.	204	-
+Great Place to Work Inst. 25 Best Large Workplaces in Europe 2012	10	-
+Great Place to Work Inst. 25 Best Large Workplaces in Europe 2013	4	-
+Great Place to Work Inst. 50 Best Small and Medium Workplaces in Europe 2017	6	-
+Great Place to Work Inst. 50 Best Small and Medium Workplaces in Europe 2018	11	47
+Great Place to Work Inst. 50 Best Small and Medium Workplaces in Europe 2019	9	54
+Great Place to Work Inst. 50 Best Small Workplaces in Europe 2012	11	-
+Great Place to Work Inst. 50 Best Small Workplaces in Europe 2013	6	-
+Great Place to Work Inst. 50 Best Small Workplaces in Europe 2016	4	-
+Great Place to Work Inst. 100 Best Workplaces in Europe 2010	54	-
+Great Place to Work Inst. 100 Best Workplaces in Europe 2014	28	-
+Great Place to Work Inst. 100 Best Workplaces in Europe 2015	3	-
+Great Places to Work Latin America 2010	36	-
+Great Places to Work Latin America 2012	24	-
+Great Places to Work Latin America 2013	23	-
+Great Places to Work Latin America 2014	30	-
+Great Places to Work Latin America 2015	20	-
+Great Places to Work Latin America 2016	37	-
+Great Places to Work Latin America 2017	24	-
+Great Places to Work Latin America 2018	35	57
+Great Places to Work Latin America 2019	38	57
+Great Places to Work Latin America 2020	29	57
+Green Seal	44	51
+GreenPages Directory	503	-
+Greenpeace Cloud	14	-
+Greenpeace Seafood Sustainability Scorecard 2010	20	-
+Greenpeace Seafood Sustainability Scorecard 2013	18	-
+Greenpeace Seafood Sustainability Scorecard 2014	21	-
+Greenpeace Seafood Sustainability Scorecard 2015	24	-
+Greenpeace Seafood Sustainability Scorecard 2018	22	54
+GRESB (Global Real Estate Sustainability Benchmark)	308	54
+Hispanic Magazine 100 list	95	-
+Hispanic Trends	52	-
+Human Rights Campaign 2008 List	188	-
+Human Rights Campaign 2009 List	263	-
+Human Rights Campaign 2011 List	815	-
+Human Rights Campaign 2012 List	443	-
+Human Rights Campaign 2013 List	213	-
+Human Rights Campaign 2014 List	260	-
+Human Rights Campaign 2015 List	313	-
+Human Rights Campaign 2016 List	345	-
+Human Rights Campaign 2017 List	344	-
+Human Rights Campaign 2019 List	375	56
+Ideal Ratings	32358	49
+ImpactSpace	170	-
+InfluenceMap	127	-
+Institutional Shareholder Services	6639	50
+Interfax ERA 2012	49	-
+Interfax ERA 2013	46	-
+Interfax ERA 2014	55	-
+Interfax ERA 2015	82	-
+Interfax ERA 2016	72	-
+Interfax ERA 2017	72	-
+Interfax ERA 2018	69	51
+Interfax ERA 2019	77	51
+International Corporate Governance Network	103	57
+International Integrated Reporting Council (IIRC) List of Companies	195	58
+International Integrated Reporting Council (IIRC) Pilot Program	71	-
+Investis IQ	1035	-
+Investor Network on Climate Risk Members	50	56
+iShares MSCI KLD 400 Social Index Fund	667	Excluded
+ISOS Group Sustainability Reporting Assessments	78	-
+ISS ESG (IW Financial Data Set)	5901	47
+Johannesburg Stock Exchange	123	53
+Just 100	100	-
+Just 100 2017	100	-
+Just 100 2018	100	57
+Just 100 2019	100	57
+Just 100 2020	100	57
+JUST Jobs Policy Tracker	888	51
+Karmayog 2009	227	-
+Karmayog 2010	241	-
+Know The Chain	404	-
+Latina Style 50 2010	48	-
+Latina Style 50 2011	50	-
+Latina Style 50 2013	49	-
+Latina Style 50 2014	49	-
+Latina Style 50 2016	50	-
+Latina Style 50 2017	48	-
+Latina Style 50 2019	45	58
+Latina Style 2008	50	-
+Latina Style 2009	49	-
+Marcellus Money	53	50
+Marcellus Shale	144	51
+Marine Stewardship Council Suppliers	227	53
+Media Tenor	324	-
+Metals & Mining Sustainability Accounting Standings Series	696	Excluded
+Mexico IPC Index	45	52
+Mike Benard	70	-
+Most Admired UK Companies 2014	223	-
+Most Admired UK Companies 2015	230	-
+Most Admired UK Companies 2016	226	-
+Most Admired UK Companies 2017	215	-
+Most Admired UK Companies 2018	206	55
+Most Admired UK Companies 2019	245	54
+MSCI ESG CarbonMetrics	7572	49
+MSCI ESG Controversies	9548	49
+MSCI ESG GovernanceMetrics	9720	50
+MSCI ESG Intangible Value Assessment	8349	50
+NAEM Corporate Member	142	55
+NAFE Top 50-2010	50	-
+NAFE Top 50-2011	60	-
+NAFE Top 50-2012	50	-
+NAFE Top 50-2013	49	-
+NAFE Top 50-2014	50	-
+NAFE Top 50-2015	48	-
+NAFE Top 50-2016	59	-
+NAFE Top 60-2017	59	-
+NAFE Top 70-2018	68	-
+NAFE Top 70-2019	67	59
+NAFE Top 70-2020	71	59
+NASDAQ OMX CRD 50 Index	100	-
+NASDAQ OMX CRD Global Sustainability Index	550	56
+National Hispanic Corporate Council	53	-
+National Rifle Association	19	-
+Newsweek Top 100 Global Green Companies 2010	100	-
+Newsweek Top 300 Green Companies 2019	300	55
+Newsweek Top 500 Global Green Companies 2011	498	-
+Newsweek Top 500 Global Green Companies 2012	498	-
+Newsweek Top 500 Global Green Companies 2013	498	-
+Newsweek Top 500 Global Green Companies 2015	499	-
+Newsweek Top 500 Global Green Companies 2016	498	-
+Newsweek Top 500 Global Green Companies 2017	498	-
+Newsweek Top 500 Green Companies 2009	501	-
+Newsweek Top 500 Green Companies 2010	500	-
+Newsweek Top 500 Green Companies 2011	500	-
+Newsweek Top 500 Green Companies 2012	500	-
+Newsweek Top 500 Green Companies 2013	501	-
+Newsweek Top 500 Green Companies 2015	498	-
+Newsweek Top 500 Green Companies 2016	500	-
+Newsweek Top 500 Green Companies 2017	500	-
+Non-GMO Project	132	52
+Oceana's Red and Green List	31	-
+Office of Foreign Assets Control (OFAC) On Burma	NA	-
+Ohio Government Department of Natural Resources (ODNR)	21	47
+Omni50 2017	56	-
+Omni50 2018	56	58
+Omni50 2019	56	58
+OMX GES Index	539	60
+Open Apparel Registry	47	57
+Pakistan Institute of Corporate Governance	74	54
+Pennsylvania DOEP	37	47
+PERI	265	52
+Pledge One Percent	52	48
+Power Shares Global Coal ETF	29	-
+PRNews CSR Awards 2010	62	-
+PRNews CSR Awards 2012	88	-
+PRNews CSR Awards 2013	80	-
+PRNews CSR Awards 2014	65	-
+PRNews CSR Awards 2015	59	-
+PRNews CSR Awards 2016	66	-
+PRNews CSR Awards 2017	64	-
+PRNews CSR Awards 2019	61	55
+Protecting Florida’s Investments Act (PFIA)	55	52
+Raporty Społeczne 2009	9	-
+Raporty Społeczne 2010	10	-
+Raporty Społeczne 2011	12	-
+Raporty Społeczne 2012	14	-
+Raporty Społeczne 2013	22	-
+Raporty Społeczne 2014	22	-
+Raporty Społeczne 2015	14	-
+Raporty Społeczne 2016	17	-
+Raporty Społeczne 2017	26	-
+Raporty Społeczne 2018	30	52
+Raporty Społeczne 2019	27	52
+RE100	219	58
+ReportWatch	771	58
+Reputation Institute	639	-
+Reputation Quotient	141	54
+Responsible Business Alliance	164	56
+Responsible Sourcing Network Mining the Disclosures 2018	206	54
+Responsible Sourcing Network Mining the Disclosures 2019	215	54
+S-Ray Arabesque	7552	50
+SA 8000	386	57
+SASB Industry Group Members	164	-
+SASB Reporter	137	54
+SASB Supporter and Contributor	39	57
+SEC Options Backdating list	29	-
+Securities and Exchange Board of India	554	55
+SIPRI--Stockhold International Peace Research Institute	128	54
+Source Watch Carbon	61	-
+SPOTT Sustainability Policy Transparency Toolkit	83	53
+SRI-Connect	3002	55
+Sudan Involved - Jewish World Watch	20	-
+SustainabilityServices	167	-
+SustainabilityServices 2011	93	-
+SustainabilityServices 2012	97	-
+SustainabilityServices 2013	97	-
+SustainabilityServices 2014	297	-
+SustainabilityServices 2015	265	-
+Sustainable Apparel Coalition	113	56
+Sustainable Brands Members	91	57
+Sustainable Packaging Coalition	266	55
+Sustainable Purchasing Leadership Council	130	57
+Swiss PRTR	31	56
+Target Rock Advisors	46	-
+Task Force for Climate Related Financial Disclosure	718	57
+Tea Party Patriots Boycott List	100	-
+The 30 Percent Club	424	-
+The Center for Political Accountability	544	53
+The Climate Group EP100	13	-
+The CSRI 50--2008	50	-
+The CSRI 50--2009	49	-
+The CSRI 50--2010	50	-
+The CSRI 50--2011	50	-
+The Modern Slavery Registry	2151	53
+The Sustainability Consortium member	114	Excluded
+The Sustainability Tracking, Assessment & Rating System (STARS)	100	50
+The SXI Switzerland Sustainability 25 Index	24	59
+Thomson ESG Index Europe (ESGEU)	383	Excluded
+Thomson ESG Index International (ESGIN)	465	Excluded
+Thomson ESG Index US (ESGUS)	373	Excluded
+Top 50 Socially Responsible 2010	51	-
+Top 50 Socially Responsible 2012	50	-
+Top 50 Socially Responsible 2013	31	-
+Top 50 Socially Responsible 2014	51	-
+Top 50 Socially Responsible 2015	51	-
+Top 100 Diversity Supplier Programs for Hispanics	97	-
+Top 100 Military Friendly Employers 2010	89	-
+Top 100 Military Friendly Employers 2012	88	-
+Top 100 Military Friendly Employers 2013	92	-
+Top 100 Military Friendly Employers 2014	81	-
+Top 100 Military Friendly Employers 2015	91	-
+Top 100 Military Friendly Employers 2016	93	-
+Top 100 Military Friendly Employers 2017	178	-
+Top 100 Military Friendly Employers 2018	176	54
+Top Diversity Employers for Hispanics 2010	129	-
+Top Diversity Employers for Hispanics 2013	78	-
+Top Diversity Employers for Hispanics 2014	112	-
+Top Diversity Employers for Hispanics 2017	253	-
+Top Diversity Employers for Hispanics 2018	247	56
+Top Diversity Employers for Hispanics 2019	302	56
+Training Magazine Top 125 for Employee Development--2010	83	-
+Training Magazine Top 125 for Employee Development--2011	78	-
+Training Magazine Top 125 for Employee Development--2012	72	-
+Training Magazine Top 125 for Employee Development--2013	73	-
+Training Magazine Top 125 for Employee Development--2014	79	-
+Training Magazine Top 125 for Employee Development--2015	6	-
+Training Magazine Top 125 for Employee Development--2016	75	-
+Training Magazine Top 125 for Employee Development--2017	73	-
+Training Magazine Top 125 for Employee Development--2018	68	53
+Training Magazine Top 125 for Employee Development--2019	52	53
+Training Magazine Top 125 for Employee Development--2020	208	54
+Transparency International	105	-
+Trucost	8964	52
+U.S. Energy Information Administration Coal Producers	38	45
+UN Global Compact 2009	542	-
+UN Global Compact 2010	1764	-
+UN Global Compact 2011	2034	-
+UN Global Compact 2012	2142	-
+UN Global Compact 2013	2311	-
+UN Global Compact 2014	2342	-
+UN Global Compact 2015	1795	-
+UN Global Compact 2016	1665	-
+UN Global Compact 2017	2287	57
+UN Global Compact 2018	2170	57
+UN Global Compact Business Leaders Taking Action	62	60
+UN Office on Drugs and Crime Anti-Corruption Measures	475	-
+Understanding Animal Research	35	58
+United Against Nuclear Iran	905	55
+United Nations Environment Programme	194	58
+United States Climate Action Partnership	28	56
+Universum Nordic Most Attractive Employers 2014	61	-
+Universum Nordic Most Attractive Employers 2015	65	-
+Universum Nordic Most Attractive Employers 2016	25	-
+Universum Nordic Most Attractive Employers 2017	25	-
+Universum Nordic Most Attractive Employers 2018	25	61
+Universum Nordic Most Attractive Employers 2019	65	59
+Urgentem	2527	56
+Van Eck Global Coal	94	47
+Vigeo	3358	52
+Vigeo Emerging 70	70	Excluded
+Vigeo World 170	171	Excluded
+WBA Automotive Climate and Energy Benchmark 2019	25	56
+WBA SDG2000	1710	54
+WBA Seafood Stewardship Index	21	52
+We Are Still In	195	56
+We Mean Business	954	58
+WEConnect International	123	57
+WeGreen	5727	-
+Western Australia Hydraulic Fracture Stimulation	8	-
+WikiPositive.org Companies	679	-
+Women's Business Enterprise National Council (WBENC)	366	56
+Working Mother List 2008	97	-
+Working Mother List 2009	97	-
+Working Mother List 2010	97	-
+Working Mother List 2011	92	-
+Working Mother List 2012	NA	-
+Working Mother List 2013	94	-
+Working Mother List 2014	94	-
+Working Mother List 2015	100	-
+Working Mother List 2016	99	-
+Working Mother List 2017	18	-
+Working Mother List 2018	95	60
+Working Mother List 2019	96	60
+Working Multicultural Women 2009	20	-
+Working Multicultural Women 2010	23	-
+Working Multicultural Women 2011	23	-
+Working Multicultural Women 2012	25	-
+Working Multicultural Women 2013	25	-
+Working Multicultural Women 2014	25	-
+Working Multicultural Women 2015	24	-
+Working Multicultural Women 2016	25	-
+Working Multicultural Women 2017	25	-
+Working Multicultural Women 2018	24	60
+Working Multicultural Women 2019	49	59
+World Bank Sovereign ESG Data Portal	102	33
+World Business Council for Sustainable Development	291	58
+World Coal Association Members	29	55
+World Economic Forum Members	873	56
+Yahoo Coal
