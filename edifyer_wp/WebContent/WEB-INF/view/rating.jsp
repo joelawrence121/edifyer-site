@@ -56,10 +56,10 @@
   
 <div id="hidden-score">${theCompany.ratings[0].sdrate}</div> 
 
-<div id="wrapdisplay">
+<!-- <div id="wrapdisplay">
 	<div id="display">0</div>
 </div>
- 
+  -->
 
 
 <h1 id="companyname">
@@ -71,32 +71,55 @@
   
     
 <div class="encapsulateProgress">
-<svg
-   class="progress-ring"
-   width="600"
-   height="600">
-   
-  <circle
-    class="progress-ring__circle"
-    stroke="#9DB68C"
-    stroke-width="20"
-    fill="transparent"
-    r="180"
-    cx="400"
-    cy="200"/>
-    
-</svg>
+<div id="wrapdisplay">
+	<div id="display">0</div>
+</div>
+	<svg
+	   class="progress-ring"
+	   width="600"
+	   height="600">
+	   
+	  <circle
+	    class="progress-ring__circle"
+	    stroke="#9DB68C"
+	    stroke-width="20"
+	    fill="transparent"
+	    r="180"
+	    cx="400"
+	    cy="200"/>
+	    
+	</svg>
 </div>
 
+<div class="encapsulateAFact">
+
+	<div id="fact">0</div>
+
+	<svg
+	   class="progress-ring"
+	   width="200"
+	   height="200">
+	   
+	  <circle
+	    class="progress-ring__circle"
+	    stroke="#9DB68C"
+	    stroke-width="20"
+	    fill="transparent"
+	    r="80"
+	    cx="100"
+	    cy="100"/>
+	    
+	</svg>
+</div>
 <!-- partial -->
   <script  src="${pageContext.request.contextPath}/resources/js/animation-script.js"></script>
+ 
   <div class="footer">
-  <div class="footer">
-	<div id="outer">
-  		<div class="inner"><form method="get" action="how"><button type="submit" class="btn-link">How It Works?</button></form></div>
-  		<div class="inner"><form method="get" action="about"><button type="submit" class="btn-link">About Us</button></form></div>
-  	</div>
+	
+  		<div class="how"><form method="get" action="how"><button type="submit" class="btn-link">How It Works?</button></form></div>
+  		<div class="about"><form method="get" action="about"><button type="submit" class="btn-link">About Us</button></form></div>
+  	
 </div>
-  </div>
+  
 </body>
 </html>

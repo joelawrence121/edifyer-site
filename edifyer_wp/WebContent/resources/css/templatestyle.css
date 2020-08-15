@@ -1,16 +1,8 @@
+#hidden-score {
+	display: none;
+	color: rgb(89, 233, 84)e;
+}
 
-	/*html,
-body {
-  background-color: #2962FF;
-  display: -webkit-box;
-  display: flex;
-  -webkit-box-align: center;
-          align-items: center;
-  -webkit-box-pack: center;
-          justify-content: center;
-  height: 100%;
-  position: relative;
-}*/
 .progress-ring__circle {
   -webkit-transition: 0.35s stroke-dashoffset;
   transition: 0.35s stroke-dashoffset;
@@ -19,26 +11,20 @@ body {
   -webkit-transform-origin: 50% 50%;
           transform-origin: 50% 50%;
 }
-
-#hidden-score {
-	display: none;
-	color: rgb(89, 233, 84)e;
+.progress-ring {
+		
+        display: inline-block;
+        margin-left: 225px;      
 }
+/* the two above shouldn't affect position */
+
+
 .encapsulateProgress {
 	text-align: center;
 	border: 1px black solid;
 }
-.progress-ring {
-		/* display: block;
-		margin: auto; */
-        /* position: absolute;
-        top: 200px;
-        left:35vw; */
-        display: inline-block;
-        margin-left: 225px; 
-        
-        
-}
+
+
 #wrapdisplay {
 	position: absolute;
 	top: 238px;
@@ -47,6 +33,7 @@ body {
     margin-left: -50px;
 	
 }
+
 #display {
         /* position: absolute;
         top: 330px;
@@ -57,6 +44,18 @@ body {
         color: rgb(89, 233, 84)e;
         /* z-index: 1; */
 }
+.encapsulateAFact {
+	position: absoulte;
+	top: 30px;
+	left: 500px;
+}
+#fact{
+	font-size: 80px;
+	position: absolute;
+}
+
+
+
 #companyname {
   top: 20px;
   left: -20px;
@@ -151,9 +150,19 @@ body {
    width: 100%;
    background-color: red;
    color: white;
-   text-align: center;
+   
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   space-between: 10px;
   }
-  
+ 
+ .how {
+ 	padding-right: 20px;
+ }
+ .about {
+ 	padding-left: 20px;
+ }
   .links {
     color: white;
   }
