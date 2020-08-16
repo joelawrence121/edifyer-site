@@ -53,6 +53,8 @@ function stopWatch(){
         displaySeconds = seconds;
     }
     document.getElementById("display").innerHTML = displaySeconds;
+    document.getElementById("fact").innerHTML = displaySeconds;
+
 
 }
 

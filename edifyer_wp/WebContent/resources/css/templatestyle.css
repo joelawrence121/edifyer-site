@@ -44,14 +44,23 @@
         color: rgb(89, 233, 84)e;
         /* z-index: 1; */
 }
-.encapsulateAFact {
-	position: absoulte;
-	top: 30px;
-	left: 500px;
+.allfactors {
+	display: flex;
+	position: relative;
+	top: 100px;
+	left: 50px;
 }
+.encapsulateAFact {
+	position: relative;
+	top: -300px;
+	left: 0px;
+	border: 1px solid black;
+} 
 #fact{
 	font-size: 80px;
 	position: absolute;
+	top: 58px;
+	left: 75px;
 }
 
 

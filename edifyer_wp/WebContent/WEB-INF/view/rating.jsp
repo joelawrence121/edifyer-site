@@ -90,26 +90,147 @@
 	    
 	</svg>
 </div>
-
-<div class="encapsulateAFact">
-
-	<div id="fact">0</div>
-
-	<svg
-	   class="progress-ring"
-	   width="200"
-	   height="200">
-	   
-	  <circle
-	    class="progress-ring__circle"
-	    stroke="#9DB68C"
-	    stroke-width="20"
-	    fill="transparent"
-	    r="80"
-	    cx="100"
-	    cy="100"/>
-	    
-	</svg>
+<div class="allfactors">
+	<div class="encapsulateAFact">
+	
+		<div id="fact">0</div>
+	
+		<svg
+		   class="factor-progress-ring"
+		   width="200"
+		   height="200">
+		   
+		  <circle
+		    class="progress-ring__circle"
+		    stroke="#9DB68C"
+		    stroke-width="20"
+		    fill="transparent"
+		    r="80"
+		    cx="100"
+		    cy="100"/>
+		    
+		</svg>
+	</div>
+		<div class="encapsulateAFact">
+	
+		<div id="fact">0</div>
+	
+		<svg
+		   class="factor-progress-ring"
+		   width="200"
+		   height="200">
+		   
+		  <circle
+		    class="progress-ring__circle"
+		    stroke="#9DB68C"
+		    stroke-width="20"
+		    fill="transparent"
+		    r="80"
+		    cx="100"
+		    cy="100"/>
+		    
+		</svg>
+	</div>
+	<div class="encapsulateAFact">
+	
+		<div id="fact">0</div>
+	
+		<svg
+		   class="factor-progress-ring"
+		   width="200"
+		   height="200">
+		   
+		  <circle
+		    class="progress-ring__circle"
+		    stroke="#9DB68C"
+		    stroke-width="20"
+		    fill="transparent"
+		    r="80"
+		    cx="100"
+		    cy="100"/>
+		    
+		</svg>
+	</div>
+	<div class="encapsulateAFact">
+	
+		<div id="fact">0</div>
+	
+		<svg
+		   class="factor-progress-ring"
+		   width="200"
+		   height="200">
+		   
+		  <circle
+		    class="progress-ring__circle"
+		    stroke="#9DB68C"
+		    stroke-width="20"
+		    fill="transparent"
+		    r="80"
+		    cx="100"
+		    cy="100"/>
+		    
+		</svg>
+	</div>
+	<div class="encapsulateAFact">
+	
+		<div id="fact">0</div>
+	
+		<svg
+		   class="factor-progress-ring"
+		   width="200"
+		   height="200">
+		   
+		  <circle
+		    class="progress-ring__circle"
+		    stroke="#9DB68C"
+		    stroke-width="20"
+		    fill="transparent"
+		    r="80"
+		    cx="100"
+		    cy="100"/>
+		    
+		</svg>
+	</div>
+	<div class="encapsulateAFact">
+	
+		<div id="fact">0</div>
+	
+		<svg
+		   class="factor-progress-ring"
+		   width="200"
+		   height="200">
+		   
+		  <circle
+		    class="progress-ring__circle"
+		    stroke="#9DB68C"
+		    stroke-width="20"
+		    fill="transparent"
+		    r="80"
+		    cx="100"
+		    cy="100"/>
+		    
+		</svg>
+	</div>
+	<div class="encapsulateAFact">
+	
+		<div id="fact">0</div>
+	
+		<svg
+		   class="factor-progress-ring"
+		   width="200"
+		   height="200">
+		   
+		  <circle
+		    class="progress-ring__circle"
+		    stroke="#9DB68C"
+		    stroke-width="20"
+		    fill="transparent"
+		    r="80"
+		    cx="100"
+		    cy="100"/>
+		    
+		</svg>
+	</div>
 </div>
 <!-- partial -->
   <script  src="${pageContext.request.contextPath}/resources/js/animation-script.js"></script>
