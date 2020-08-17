@@ -93,7 +93,7 @@
 <div class="allfactors">
 	<div class="encapsulateAFact">
 	
-		<div id="fact">0</div>
+		<div class="factclass" id="fact1">0</div>
 	
 		<svg
 		   class="factor-progress-ring"
@@ -101,6 +101,7 @@
 		   height="200">
 		   
 		  <circle
+		  	id="circlefact1"
 		    class="progress-ring__circle"
 		    stroke="#9DB68C"
 		    stroke-width="20"
@@ -113,7 +114,7 @@
 	</div>
 		<div class="encapsulateAFact">
 	
-		<div id="fact">0</div>
+		<div class="factclass">0</div>
 	
 		<svg
 		   class="factor-progress-ring"
@@ -121,6 +122,7 @@
 		   height="200">
 		   
 		  <circle
+		  id="circlefact2"
 		    class="progress-ring__circle"
 		    stroke="#9DB68C"
 		    stroke-width="20"
@@ -133,7 +135,7 @@
 	</div>
 	<div class="encapsulateAFact">
 	
-		<div id="fact">0</div>
+		<div class="factclass">0</div>
 	
 		<svg
 		   class="factor-progress-ring"
@@ -141,6 +143,7 @@
 		   height="200">
 		   
 		  <circle
+		  id="circlefact3"
 		    class="progress-ring__circle"
 		    stroke="#9DB68C"
 		    stroke-width="20"
@@ -153,7 +156,7 @@
 	</div>
 	<div class="encapsulateAFact">
 	
-		<div id="fact">0</div>
+		<div class="factclass">0</div>
 	
 		<svg
 		   class="factor-progress-ring"
@@ -161,6 +164,7 @@
 		   height="200">
 		   
 		  <circle
+		  id="circlefact4"
 		    class="progress-ring__circle"
 		    stroke="#9DB68C"
 		    stroke-width="20"
@@ -173,7 +177,7 @@
 	</div>
 	<div class="encapsulateAFact">
 	
-		<div id="fact">0</div>
+		<div class="factclass">0</div>
 	
 		<svg
 		   class="factor-progress-ring"
@@ -181,6 +185,7 @@
 		   height="200">
 		   
 		  <circle
+		  id="circlefact5"
 		    class="progress-ring__circle"
 		    stroke="#9DB68C"
 		    stroke-width="20"
@@ -193,7 +198,7 @@
 	</div>
 	<div class="encapsulateAFact">
 	
-		<div id="fact">0</div>
+		<div class="factclass">0</div>
 	
 		<svg
 		   class="factor-progress-ring"
@@ -201,6 +206,7 @@
 		   height="200">
 		   
 		  <circle
+		  id="circlefact6"
 		    class="progress-ring__circle"
 		    stroke="#9DB68C"
 		    stroke-width="20"
@@ -213,7 +219,7 @@
 	</div>
 	<div class="encapsulateAFact">
 	
-		<div id="fact">0</div>
+		<div class="factclass">0</div>
 	
 		<svg
 		   class="factor-progress-ring"
@@ -221,6 +227,7 @@
 		   height="200">
 		   
 		  <circle
+		  id="circlefact7"
 		    class="progress-ring__circle"
 		    stroke="#9DB68C"
 		    stroke-width="20"

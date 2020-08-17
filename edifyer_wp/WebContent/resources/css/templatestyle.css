@@ -11,6 +11,14 @@
   -webkit-transform-origin: 50% 50%;
           transform-origin: 50% 50%;
 }
+.secondprogress-ring__circle {
+  -webkit-transition: 0.35s stroke-dashoffset;
+  transition: 0.35s stroke-dashoffset;
+  -webkit-transform: rotate(-90deg);
+          transform: rotate(-90deg);
+  -webkit-transform-origin: 50% 50%;
+          transform-origin: 50% 50%;
+}
 .progress-ring {
 		
         display: inline-block;
@@ -60,9 +68,14 @@
 	font-size: 80px;
 	position: absolute;
 	top: 58px;
-	left: 75px;
+	left: 50px;
 }
-
+.factclass{
+	font-size: 80px;
+	position: absolute;
+	top: 58px;
+	left: 50px;
+}
 
 
 #companyname {
