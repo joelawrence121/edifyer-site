@@ -23,19 +23,6 @@ public class HomeController {
 	@Autowired 
 	private EdifyerService edifyerService;
 	
-	@RequestMapping("/companyNamesAutocomplete")
-	@ResponseBody
-	public List<String> companyNamesAutocomplete(@RequestParam(value="term", 
-												 required=false, defaultValue="") String term){
-		
-		List<String> suggestions = new ArrayList<String>();
-		suggestions.add("ABCDE");
-		suggestions.add("ABCDEfgh");
-		suggestions.add("ABCDEGHGHGHG");
-		
-		return suggestions;
-	}
-	
 	@RequestMapping("find")
 	public String findCompany(@RequestParam String company, Model theModel) {
 				
