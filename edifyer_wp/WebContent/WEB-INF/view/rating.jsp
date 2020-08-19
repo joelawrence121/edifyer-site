@@ -54,7 +54,7 @@
   </div>
 
   
-<div id="hidden-score">${theCompany.ratings[0].sdrate}</div> 
+<div id="hidden-score">${avgRating}</div> 
 
 <!-- <div id="wrapdisplay">
 	<div id="display">0</div>

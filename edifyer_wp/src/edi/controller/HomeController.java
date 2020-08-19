@@ -12,6 +12,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseBody;
 
 import edi.entity.Company;
+import edi.entity.Rating;
 import edi.entity.Source;
 import edi.service.EdifyerService;
 
@@ -41,9 +42,29 @@ public class HomeController {
 		// get the company by name and store in model
 		Company theCompany = edifyerService.getCompany(company);
 		theModel.addAttribute("theCompany", theCompany);
-	
-		// redirect to rating page
-		System.out.println("Added " + theCompany + " to the model. ");
+        
+		try {
+			
+			int ratingSum = 0;
+			
+			// calculate average rating
+			List<Rating> theRatings = theCompany.getRatings();
+			for(Rating tempRating : theRatings) {
+				ratingSum += tempRating.getSdrate();
+			}
+			
+			int avgRating = ratingSum / theRatings.size();
+			
+			// store in the model
+			theModel.addAttribute("avgRating", avgRating);
+			
+		}
+		catch(Exception e) {
+			
+			// catch division by 0 exceptions
+			theModel.addAttribute("avgRating", 0);
+			
+		}
 		
 		return "rating";	
 	}
